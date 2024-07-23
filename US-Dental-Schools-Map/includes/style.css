@@ -9,47 +9,57 @@
     height: auto;
     margin: 5%;
 }
-.map-dot {
-    position: absolute;
-    width: 3vh; /* Increased size for better visibility of the number */
-    height: 3vh;
-    max-width: 2.5vw; /* Ensures the dots are also responsive to viewport width */
-    max-height: 2.5vw;
-    background-color: orange;
-    color: white; /* Color of the text */
-    text-align: center;
-    line-height: 20px; /* Center the text vertically */
-    border-radius: 50%;
-    cursor: pointer;
-    transform: translate(-50%, -50%);
-    font-size: clamp(0.7rem, 0.8rem, 1rem); /* Adjust font size for better readability */
-}
 .popup {
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.99); /* Set background to white with 50% transparency */
     border: 1px solid #ccc;
     padding: 10px;
     z-index: 10;
-    max-width: 200px; /* Add a max-width to control popup size */
+    max-width: auto; /* Add a max-width to control popup size */
+    border-radius: 15px; /* Adjust border radius for smoother rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Set a clean font */
+    font-size: 14px; /* Adjust font size for readability */
+    color: #333; /* Darken text color for contrast */
 }
+
+.map-dot {
+    position: absolute;
+    width: 3vw; /* Increased size for better visibility of the number */
+    height: 3vw;
+    min-width: 1vw; /* Ensures the dots are also responsive to viewport width */
+    min-height: 1vw;
+    max-width: 2.5vh; /* Ensures the dots are also responsive to viewport width */
+    max-height: 2.5vh;
     
+}
 
-@media (min-width: 739px) and (max-width: 1048px) {
+.map-dot circle {
+    fill: orange; /* Background color of the dot */
+    transition: fill 0.3s; /* Smooth transition for hover effect */
+}
+
+.map-dot text {
+    fill: white; /* Color of the text */
+    font-size: 4rem; /* Responsive font size */
+    text-anchor: middle; /* Center text horizontally */
+    dominant-baseline: auto; /* Center text vertically */
+    font-weight: bold;
+}
+.map-dot:hover circle {
+    fill: #FF5F1F; /* Neon Orange */
+}
+.map-dot.clicked circle {
+    fill: #B87333; /* Copper */
+}
+
+@media (max-width: 1048px) {
     .map-dot {
         width: 2vw;
         height: 2vw;
-        font-size: clamp(0.4rem, 0.6rem, 0.8rem);
-        line-height: 15px;
+    }
+    .map-dot text {
+    font-size: 3.8rem; /* Responsive font size */
     }
 }
-
-@media (max-width: 738px) {
-    .map-dot {
-        width: 2vw;
-        height: 2vw;
-        font-size: clamp(0.4rem, 0.42rem, 0.5rem); 
-        line-height: 8px;
-    }
-}
-

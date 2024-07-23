@@ -1,11 +1,24 @@
 jQuery(document).ready(function($) {
     const dots = $('.map-dot');
     const popup = $('#map-popup');
+    let lastClickedDot = null;
 
-    dots.on('click', function() {
+    dots.on('click', function(event) {
+        // Remove the 'clicked' class from the previously clicked dot, if any
+        if (lastClickedDot) {
+            lastClickedDot.removeClass('clicked');
+        }
+
+        // Add the 'clicked' class to the clicked dot
+        $(this).addClass('clicked');
+        lastClickedDot = $(this); // Remember the last clicked dot
+
         const locationId = $(this).data('location-id');
         const dotPosition = $(this).offset();
         fetchLocationData(locationId, dotPosition);
+
+        // Stop event from propagating to document click handler
+        event.stopPropagation();
     });
 
     function fetchLocationData(locationId, dotPosition) {
@@ -33,7 +46,7 @@ jQuery(document).ready(function($) {
                 <h3>${data.name}</h3>
                 <p>City: ${data.city}</p>
                 <p>State: ${data.state}</p>
-                <p>Website: <a href="${data.website}">${data.website}</a></p>
+                <p>Website: <a href="${data.website}" target="_blank">${data.website}</a></p>
                 <p>Email: ${data.email}</p>
                 <p>Phone Number: ${data.phone_number}</p>
                 <p>Scores: ${data.scores}</p>
@@ -64,10 +77,14 @@ jQuery(document).ready(function($) {
         });
     }
 
-    // Hide popup when clicking outside of it
+    // Hide popup and reset dot color when clicking outside of it
     $(document).on('click', function(event) {
         if (!$(event.target).closest('.map-dot, #map-popup').length) {
             popup.hide();
+            if (lastClickedDot) {
+                lastClickedDot.removeClass('clicked');
+                lastClickedDot = null;
+            }
         }
     });
 });
