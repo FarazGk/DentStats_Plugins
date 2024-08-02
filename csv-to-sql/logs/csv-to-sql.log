@@ -1,0 +1,42 @@
+[2024-07-23 13:03:00] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv
+----------------------------------------------------------------
+[2024-07-23 13:13:51] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-07-23 13:14:08] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-07-23 13:14:08] Number of rows read: 71, Number of columns: 35
+----------------------------------------------------------------
+[2024-07-23 13:22:35] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-07-23 13:22:50] ERROR: Failed to create table j1rn_us_dental_schools_data: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-number TEXT, deadline TEXT, letters_of_evaluation TEXT, supplemental_app TEX...' at line 1
+----------------------------------------------------------------
+[2024-07-23 13:24:52] ERROR: Failed to insert row into j1rn_us_dental_schools_data: Unknown column 'Phone Number' in 'field list'
+----------------------------------------------------------------
+[2024-07-23 13:26:33] ERROR: Failed to create table j1rn_us_dental_schools_data: Table 'j1rn_us_dental_schools_data' already exists
+----------------------------------------------------------------
+[2024-07-23 13:28:18] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-07-23 13:28:18] Number of rows read: 71, Number of columns: 35
+----------------------------------------------------------------
+[2024-07-23 13:31:08] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-07-23 13:32:15] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-07-23 13:32:15] Number of rows read: 71, Number of columns: 35
+----------------------------------------------------------------
+[2024-07-26 09:56:37] ERROR: Failed to delete table : Incorrect table name ''
+----------------------------------------------------------------
+[2024-07-26 09:56:41] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-07-26 09:57:31] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-07-26 09:57:31] Number of rows read: 71, Number of columns: 37
+----------------------------------------------------------------
+[2024-07-26 10:11:54] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-07-26 10:12:02] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-07-26 10:12:22] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-07-26 10:12:22] Number of rows read: 71, Number of columns: 37
+----------------------------------------------------------------

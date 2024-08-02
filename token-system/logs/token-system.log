@@ -1,0 +1,975 @@
+[2024-07-26 21:37:34] Checking against Product ID: 1512
+[2024-07-26 21:37:34] Checking against Product ID: 1550
+[2024-07-26 21:38:26] Form ID: 1521
+[2024-07-26 21:38:26] Checking against Form ID: 1521
+[2024-07-26 21:38:26] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 1
+[2024-07-26 21:38:26] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-07-26 21:38:26] Updated usage count for Form ID: 1521
+[2024-07-26 21:38:26] User ID: 6, Username: Arian.raz@gmail.com, Type: form, ID: 1521, Timestamp: 2024-07-26 14:38:26
+----------------------------------------------------------------
+
+[2024-07-29 07:41:29] Form ID: 1521
+[2024-07-29 07:41:29] Checking against Form ID: 1521
+[2024-07-29 07:41:29] Current Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-29 07:41:29] Updated Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-29 07:41:29] Updated usage count for Form ID: 1521
+[2024-07-29 07:41:29] User ID: 4, Username: Test2@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 00:41:29
+----------------------------------------------------------------
+
+[2024-07-29 07:41:37] Form ID: 1521
+[2024-07-29 07:41:37] Checking against Form ID: 1521
+[2024-07-29 07:41:37] Current Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-29 07:41:37] Updated Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-29 07:41:37] Updated usage count for Form ID: 1521
+[2024-07-29 07:41:37] User ID: 4, Username: Test2@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 00:41:37
+----------------------------------------------------------------
+
+[2024-07-29 07:42:32] Form ID: 1521
+[2024-07-29 07:42:32] Checking against Form ID: 1521
+[2024-07-29 07:42:32] Current Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-29 07:42:32] Updated Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-29 07:42:32] Updated usage count for Form ID: 1521
+[2024-07-29 07:42:32] User ID: 4, Username: Test2@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 00:42:32
+----------------------------------------------------------------
+
+[2024-07-29 08:58:15] Order ID: 2339
+[2024-07-29 08:58:15] Product ID: 1550
+[2024-07-29 08:58:15] Checking against Product ID: 1511
+[2024-07-29 08:58:15] Checking against Product ID: 1512
+[2024-07-29 08:58:15] Checking against Product ID: 1550
+[2024-07-29 08:58:15] Current Tokens for User ID 7 (Username: Test4@test.com): 0
+[2024-07-29 08:58:15] Updated Tokens for User ID 7 (Username: Test4@test.com): 6
+[2024-07-29 08:58:15] Updated usage count for Product ID: 1550
+[2024-07-29 08:58:15] User ID: 7, Username: Test4@test.com, Type: product, ID: 1550, Timestamp: 2024-07-29 01:58:15
+----------------------------------------------------------------
+
+[2024-07-29 08:59:16] Form ID: 1521
+[2024-07-29 08:59:16] Checking against Form ID: 1521
+[2024-07-29 08:59:16] Current Tokens for User ID 7 (Username: Test4@test.com): 6
+[2024-07-29 08:59:16] Updated Tokens for User ID 7 (Username: Test4@test.com): 5
+[2024-07-29 08:59:16] Updated usage count for Form ID: 1521
+[2024-07-29 08:59:16] User ID: 7, Username: Test4@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 01:59:16
+----------------------------------------------------------------
+
+[2024-07-29 09:01:27] Form ID: 1521
+[2024-07-29 09:01:27] Checking against Form ID: 1521
+[2024-07-29 09:01:27] Current Tokens for User ID 7 (Username: Test4@test.com): 5
+[2024-07-29 09:01:27] Updated Tokens for User ID 7 (Username: Test4@test.com): 4
+[2024-07-29 09:01:27] Updated usage count for Form ID: 1521
+[2024-07-29 09:01:27] User ID: 7, Username: Test4@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 02:01:27
+----------------------------------------------------------------
+
+[2024-07-29 09:02:17] Form ID: 1521
+[2024-07-29 09:02:17] Checking against Form ID: 1521
+[2024-07-29 09:02:17] Current Tokens for User ID 7 (Username: Test4@test.com): 4
+[2024-07-29 09:02:17] Updated Tokens for User ID 7 (Username: Test4@test.com): 3
+[2024-07-29 09:02:17] Updated usage count for Form ID: 1521
+[2024-07-29 09:02:17] User ID: 7, Username: Test4@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 02:02:17
+----------------------------------------------------------------
+
+[2024-07-29 09:38:04] Form ID: 1521
+[2024-07-29 09:38:04] Checking against Form ID: 1521
+[2024-07-29 09:38:04] Current Tokens for User ID 7 (Username: Test4@test.com): 3
+[2024-07-29 09:38:04] Updated Tokens for User ID 7 (Username: Test4@test.com): 2
+[2024-07-29 09:38:04] Updated usage count for Form ID: 1521
+[2024-07-29 09:38:04] User ID: 7, Username: Test4@test.com, Type: form, ID: 1521, Timestamp: 2024-07-29 02:38:04
+----------------------------------------------------------------
+
+[2024-07-29 09:49:59] Form ID: 1912
+[2024-07-29 09:49:59] Checking against Form ID: 1521
+[2024-07-29 10:17:34] Form ID: 2341
+[2024-07-29 10:17:34] Checking against Form ID: 1521
+[2024-07-29 10:18:00] Form ID: 1912
+[2024-07-29 10:18:00] Checking against Form ID: 1521
+[2024-07-29 10:18:33] Form ID: 2341
+[2024-07-29 10:18:33] Checking against Form ID: 2341
+[2024-07-29 10:18:33] Current Tokens for User ID 7 (Username: Test4@test.com): 2
+[2024-07-29 10:18:33] Updated Tokens for User ID 7 (Username: Test4@test.com): 1
+[2024-07-29 10:18:33] Updated usage count for Form ID: 2341
+[2024-07-29 10:18:33] User ID: 7, Username: Test4@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 03:18:33
+----------------------------------------------------------------
+
+[2024-07-29 11:05:20] Form ID: 2341
+[2024-07-29 11:05:20] Checking against Form ID: 2341
+[2024-07-29 11:05:20] Current Tokens for User ID 7 (Username: Test4@test.com): 1
+[2024-07-29 11:05:20] Updated Tokens for User ID 7 (Username: Test4@test.com): 0
+[2024-07-29 11:05:20] Updated usage count for Form ID: 2341
+[2024-07-29 11:05:20] User ID: 7, Username: Test4@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 04:05:20
+----------------------------------------------------------------
+
+[2024-07-29 11:06:41] Order ID: 2345
+[2024-07-29 11:06:41] Product ID: 1550
+[2024-07-29 11:06:41] Checking against Product ID: 1511
+[2024-07-29 11:06:41] Checking against Product ID: 1512
+[2024-07-29 11:06:41] Checking against Product ID: 1550
+[2024-07-29 11:06:41] Current Tokens for User ID 7 (Username: Test4@test.com): 0
+[2024-07-29 11:06:41] Updated Tokens for User ID 7 (Username: Test4@test.com): 6
+[2024-07-29 11:06:41] Updated usage count for Product ID: 1550
+[2024-07-29 11:06:41] User ID: 7, Username: Test4@test.com, Type: product, ID: 1550, Timestamp: 2024-07-29 04:06:41
+----------------------------------------------------------------
+
+[2024-07-29 11:07:15] Form ID: 2341
+[2024-07-29 11:07:15] Checking against Form ID: 2341
+[2024-07-29 11:07:15] Current Tokens for User ID 7 (Username: Test4@test.com): 6
+[2024-07-29 11:07:15] Updated Tokens for User ID 7 (Username: Test4@test.com): 5
+[2024-07-29 11:07:15] Updated usage count for Form ID: 2341
+[2024-07-29 11:07:15] User ID: 7, Username: Test4@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 04:07:15
+----------------------------------------------------------------
+
+[2024-07-29 12:51:14] Form ID: 2341
+[2024-07-29 12:51:14] Checking against Form ID: 2341
+[2024-07-29 12:51:14] Current Tokens for User ID 7 (Username: Test4@test.com): 5
+[2024-07-29 12:51:14] Updated Tokens for User ID 7 (Username: Test4@test.com): 4
+[2024-07-29 12:51:14] Updated usage count for Form ID: 2341
+[2024-07-29 12:51:14] User ID: 7, Username: Test4@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 05:51:14
+----------------------------------------------------------------
+
+[2024-07-30 01:33:31] Order ID: 2364
+[2024-07-30 01:33:31] Product ID: 1550
+[2024-07-30 01:33:31] Checking against Product ID: 1511
+[2024-07-30 01:33:31] Checking against Product ID: 1512
+[2024-07-30 01:33:31] Checking against Product ID: 1550
+[2024-07-30 01:33:31] Current Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 01:33:31] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 01:33:31] Updated usage count for Product ID: 1550
+[2024-07-30 01:33:31] User ID: 4, Username: Test2@test.com, Type: product, ID: 1550, Timestamp: 2024-07-29 18:33:31
+----------------------------------------------------------------
+
+[2024-07-30 01:33:31] Product ID: 1512
+[2024-07-30 01:33:31] Checking against Product ID: 1511
+[2024-07-30 01:33:31] Checking against Product ID: 1512
+[2024-07-30 01:33:31] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 01:33:31] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 01:33:31] Updated usage count for Product ID: 1512
+[2024-07-30 01:33:31] User ID: 4, Username: Test2@test.com, Type: product, ID: 1512, Timestamp: 2024-07-29 18:33:31
+----------------------------------------------------------------
+
+[2024-07-30 01:33:31] Checking against Product ID: 1550
+[2024-07-30 06:16:59] Order ID: 2432
+[2024-07-30 06:16:59] Product ID: 1550
+[2024-07-30 06:16:59] Checking against Product ID: 1511
+[2024-07-30 06:16:59] Checking against Product ID: 1512
+[2024-07-30 06:16:59] Checking against Product ID: 1550
+[2024-07-30 06:16:59] Current Tokens for User ID 5 (Username: Test3@test.com): -3
+[2024-07-30 06:16:59] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-30 06:16:59] Updated usage count for Product ID: 1550
+[2024-07-30 06:16:59] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-07-29 23:16:59
+----------------------------------------------------------------
+
+[2024-07-30 06:20:22] Form ID: 2341
+[2024-07-30 06:20:22] Checking against Form ID: 2341
+[2024-07-30 06:20:22] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-30 06:20:22] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-30 06:20:22] Updated usage count for Form ID: 2341
+[2024-07-30 06:20:22] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 23:20:22
+----------------------------------------------------------------
+
+[2024-07-30 06:21:10] Form ID: 2341
+[2024-07-30 06:21:10] Checking against Form ID: 2341
+[2024-07-30 06:21:10] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-30 06:21:10] Updated Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-30 06:21:10] Updated usage count for Form ID: 2341
+[2024-07-30 06:21:10] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-29 23:21:10
+----------------------------------------------------------------
+
+[2024-07-30 09:12:25] Form ID: 2341
+[2024-07-30 09:12:25] Checking against Form ID: 2341
+[2024-07-30 09:12:25] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 09:12:25] Updated Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 09:12:25] Updated usage count for Form ID: 2341
+[2024-07-30 09:12:25] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:12:25
+----------------------------------------------------------------
+
+[2024-07-30 09:14:10] Form ID: 2341
+[2024-07-30 09:14:10] Checking against Form ID: 2341
+[2024-07-30 09:14:10] Current Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 09:14:10] Updated Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 09:14:10] Updated usage count for Form ID: 2341
+[2024-07-30 09:14:10] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:14:10
+----------------------------------------------------------------
+
+[2024-07-30 09:19:10] Form ID: 2341
+[2024-07-30 09:19:10] Checking against Form ID: 2341
+[2024-07-30 09:19:10] Current Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 09:19:10] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 09:19:10] Updated usage count for Form ID: 2341
+[2024-07-30 09:19:10] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:19:10
+----------------------------------------------------------------
+
+[2024-07-30 09:29:22] Form ID: 2341
+[2024-07-30 09:29:22] Checking against Form ID: 2341
+[2024-07-30 09:29:22] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 09:29:22] Updated Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 09:29:22] Updated usage count for Form ID: 2341
+[2024-07-30 09:29:22] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:29:22
+----------------------------------------------------------------
+
+[2024-07-30 09:29:25] Form ID: 2341
+[2024-07-30 09:29:25] Checking against Form ID: 2341
+[2024-07-30 09:29:25] Current Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 09:29:25] Updated Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 09:29:25] Updated usage count for Form ID: 2341
+[2024-07-30 09:29:25] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:29:25
+----------------------------------------------------------------
+
+[2024-07-30 09:30:08] Form ID: 2341
+[2024-07-30 09:30:08] Checking against Form ID: 2341
+[2024-07-30 09:30:08] Current Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 09:30:08] Updated Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 09:30:08] Updated usage count for Form ID: 2341
+[2024-07-30 09:30:08] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 02:30:08
+----------------------------------------------------------------
+
+[2024-07-30 10:01:18] Form ID: 2341
+[2024-07-30 10:01:18] Checking against Form ID: 2341
+[2024-07-30 10:01:18] Current Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 10:01:18] Updated Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 10:01:18] Updated usage count for Form ID: 2341
+[2024-07-30 10:01:18] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:01:18
+----------------------------------------------------------------
+
+[2024-07-30 10:02:16] Form ID: 2341
+[2024-07-30 10:02:16] Checking against Form ID: 2341
+[2024-07-30 10:02:16] Current Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 10:02:17] Updated Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 10:02:17] Updated usage count for Form ID: 2341
+[2024-07-30 10:02:17] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:02:17
+----------------------------------------------------------------
+
+[2024-07-30 10:02:52] Form ID: 2341
+[2024-07-30 10:02:52] Checking against Form ID: 2341
+[2024-07-30 10:02:52] Current Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 10:02:52] Updated Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 10:02:52] Updated usage count for Form ID: 2341
+[2024-07-30 10:02:52] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:02:52
+----------------------------------------------------------------
+
+[2024-07-30 10:04:16] Order ID: 2504
+[2024-07-30 10:04:16] Product ID: 1550
+[2024-07-30 10:04:16] Checking against Product ID: 1511
+[2024-07-30 10:04:16] Checking against Product ID: 1512
+[2024-07-30 10:04:16] Checking against Product ID: 1550
+[2024-07-30 10:04:16] Current Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 10:04:16] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 10:04:16] Updated usage count for Product ID: 1550
+[2024-07-30 10:04:16] User ID: 4, Username: Test2@test.com, Type: product, ID: 1550, Timestamp: 2024-07-30 03:04:16
+----------------------------------------------------------------
+
+[2024-07-30 10:22:36] Form ID: 2341
+[2024-07-30 10:22:36] Checking against Form ID: 2341
+[2024-07-30 10:22:36] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 10:22:36] Updated Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 10:22:36] Updated usage count for Form ID: 2341
+[2024-07-30 10:22:36] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:22:36
+----------------------------------------------------------------
+
+[2024-07-30 10:28:04] Form ID: 2341
+[2024-07-30 10:28:04] Checking against Form ID: 2341
+[2024-07-30 10:28:04] Current Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 10:28:04] Updated Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 10:28:04] Updated usage count for Form ID: 2341
+[2024-07-30 10:28:04] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:28:04
+----------------------------------------------------------------
+
+[2024-07-30 10:52:38] Form ID: 2341
+[2024-07-30 10:52:38] Checking against Form ID: 2341
+[2024-07-30 10:52:38] Current Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 10:52:38] Updated Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 10:52:38] Updated usage count for Form ID: 2341
+[2024-07-30 10:52:38] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 03:52:38
+----------------------------------------------------------------
+
+[2024-07-30 11:06:42] Form ID: 2341
+[2024-07-30 11:06:42] Checking against Form ID: 2341
+[2024-07-30 11:06:42] Current Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 11:06:43] Updated Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 11:06:43] Updated usage count for Form ID: 2341
+[2024-07-30 11:06:43] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:06:43
+----------------------------------------------------------------
+
+[2024-07-30 11:09:19] Form ID: 2341
+[2024-07-30 11:09:19] Checking against Form ID: 2341
+[2024-07-30 11:09:19] Current Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 11:09:19] Updated Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 11:09:19] Updated usage count for Form ID: 2341
+[2024-07-30 11:09:19] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:09:19
+----------------------------------------------------------------
+
+[2024-07-30 11:14:03] Form ID: 2341
+[2024-07-30 11:14:03] Checking against Form ID: 2341
+[2024-07-30 11:14:03] Current Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 11:14:03] Updated Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 11:14:03] Updated usage count for Form ID: 2341
+[2024-07-30 11:14:03] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:14:03
+----------------------------------------------------------------
+
+[2024-07-30 11:24:29] Order ID: 2505
+[2024-07-30 11:24:29] Product ID: 1550
+[2024-07-30 11:24:29] Checking against Product ID: 1511
+[2024-07-30 11:24:29] Checking against Product ID: 1512
+[2024-07-30 11:24:29] Checking against Product ID: 1550
+[2024-07-30 11:24:29] Current Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 11:24:29] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 11:24:29] Updated usage count for Product ID: 1550
+[2024-07-30 11:24:29] User ID: 4, Username: Test2@test.com, Type: product, ID: 1550, Timestamp: 2024-07-30 04:24:29
+----------------------------------------------------------------
+
+[2024-07-30 11:24:29] Product ID: 1512
+[2024-07-30 11:24:29] Checking against Product ID: 1511
+[2024-07-30 11:24:29] Checking against Product ID: 1512
+[2024-07-30 11:24:29] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 11:24:29] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 11:24:29] Updated usage count for Product ID: 1512
+[2024-07-30 11:24:29] User ID: 4, Username: Test2@test.com, Type: product, ID: 1512, Timestamp: 2024-07-30 04:24:29
+----------------------------------------------------------------
+
+[2024-07-30 11:24:29] Checking against Product ID: 1550
+[2024-07-30 11:24:29] Product ID: 1511
+[2024-07-30 11:24:29] Checking against Product ID: 1511
+[2024-07-30 11:24:29] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 11:24:29] Updated Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-07-30 11:24:30] Updated usage count for Product ID: 1511
+[2024-07-30 11:24:30] User ID: 4, Username: Test2@test.com, Type: product, ID: 1511, Timestamp: 2024-07-30 04:24:30
+----------------------------------------------------------------
+
+[2024-07-30 11:24:30] Checking against Product ID: 1512
+[2024-07-30 11:24:30] Checking against Product ID: 1550
+[2024-07-30 11:27:27] Form ID: 2341
+[2024-07-30 11:27:27] Checking against Form ID: 2341
+[2024-07-30 11:27:27] Current Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-07-30 11:27:27] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 11:27:27] Updated usage count for Form ID: 2341
+[2024-07-30 11:27:27] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:27:27
+----------------------------------------------------------------
+
+[2024-07-30 11:29:35] Form ID: 2341
+[2024-07-30 11:29:35] Checking against Form ID: 2341
+[2024-07-30 11:29:35] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 11:29:35] Updated Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 11:29:35] Updated usage count for Form ID: 2341
+[2024-07-30 11:29:35] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:29:35
+----------------------------------------------------------------
+
+[2024-07-30 11:33:47] Form ID: 2341
+[2024-07-30 11:33:47] Checking against Form ID: 2341
+[2024-07-30 11:33:47] Current Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 11:33:47] Updated Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 11:33:47] Updated usage count for Form ID: 2341
+[2024-07-30 11:33:47] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:33:47
+----------------------------------------------------------------
+
+[2024-07-30 11:41:32] Form ID: 2341
+[2024-07-30 11:41:32] Checking against Form ID: 2341
+[2024-07-30 11:41:32] Current Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 11:41:32] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 11:41:32] Updated usage count for Form ID: 2341
+[2024-07-30 11:41:32] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:41:32
+----------------------------------------------------------------
+
+[2024-07-30 11:47:05] Form ID: 2341
+[2024-07-30 11:47:05] Checking against Form ID: 2341
+[2024-07-30 11:47:05] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 11:47:05] Updated Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 11:47:05] Updated usage count for Form ID: 2341
+[2024-07-30 11:47:05] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:47:05
+----------------------------------------------------------------
+
+[2024-07-30 11:56:03] Form ID: 2341
+[2024-07-30 11:56:03] Checking against Form ID: 2341
+[2024-07-30 11:56:03] Current Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-30 11:56:03] Updated Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 11:56:03] Updated usage count for Form ID: 2341
+[2024-07-30 11:56:03] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 04:56:03
+----------------------------------------------------------------
+
+[2024-07-30 12:00:45] Form ID: 2341
+[2024-07-30 12:00:45] Checking against Form ID: 2341
+[2024-07-30 12:00:45] Current Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-30 12:00:45] Updated Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 12:00:45] Updated usage count for Form ID: 2341
+[2024-07-30 12:00:45] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:00:45
+----------------------------------------------------------------
+
+[2024-07-30 12:02:18] Form ID: 2341
+[2024-07-30 12:02:18] Checking against Form ID: 2341
+[2024-07-30 12:02:18] Current Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 12:02:18] Updated Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 12:02:18] Updated usage count for Form ID: 2341
+[2024-07-30 12:02:18] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:02:18
+----------------------------------------------------------------
+
+[2024-07-30 12:03:42] Form ID: 2341
+[2024-07-30 12:03:42] Checking against Form ID: 2341
+[2024-07-30 12:03:42] Current Tokens for User ID 4 (Username: Test2@test.com): 2
+[2024-07-30 12:03:42] Updated Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 12:03:42] Updated usage count for Form ID: 2341
+[2024-07-30 12:03:42] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:03:42
+----------------------------------------------------------------
+
+[2024-07-30 12:29:00] Form ID: 2341
+[2024-07-30 12:29:00] Checking against Form ID: 2341
+[2024-07-30 12:29:00] Current Tokens for User ID 4 (Username: Test2@test.com): 1
+[2024-07-30 12:29:00] Updated Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 12:29:00] Updated usage count for Form ID: 2341
+[2024-07-30 12:29:00] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:29:00
+----------------------------------------------------------------
+
+[2024-07-30 12:30:29] Order ID: 2511
+[2024-07-30 12:30:29] Product ID: 1512
+[2024-07-30 12:30:29] Checking against Product ID: 1511
+[2024-07-30 12:30:29] Checking against Product ID: 1512
+[2024-07-30 12:30:29] Current Tokens for User ID 4 (Username: Test2@test.com): 0
+[2024-07-30 12:30:29] Updated Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 12:30:29] Updated usage count for Product ID: 1512
+[2024-07-30 12:30:29] User ID: 4, Username: Test2@test.com, Type: product, ID: 1512, Timestamp: 2024-07-30 05:30:29
+----------------------------------------------------------------
+
+[2024-07-30 12:30:29] Checking against Product ID: 1550
+[2024-07-30 12:30:35] Order ID: 2510
+[2024-07-30 12:30:35] Product ID: 1550
+[2024-07-30 12:30:35] Checking against Product ID: 1511
+[2024-07-30 12:30:35] Checking against Product ID: 1512
+[2024-07-30 12:30:35] Checking against Product ID: 1550
+[2024-07-30 12:30:35] Current Tokens for User ID 4 (Username: Test2@test.com): 3
+[2024-07-30 12:30:35] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 12:30:35] Updated usage count for Product ID: 1550
+[2024-07-30 12:30:35] User ID: 4, Username: Test2@test.com, Type: product, ID: 1550, Timestamp: 2024-07-30 05:30:35
+----------------------------------------------------------------
+
+[2024-07-30 12:30:41] Order ID: 2512
+[2024-07-30 12:30:41] Product ID: 1511
+[2024-07-30 12:30:41] Checking against Product ID: 1511
+[2024-07-30 12:30:41] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 12:30:41] Updated Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-07-30 12:30:41] Updated usage count for Product ID: 1511
+[2024-07-30 12:30:41] User ID: 4, Username: Test2@test.com, Type: product, ID: 1511, Timestamp: 2024-07-30 05:30:41
+----------------------------------------------------------------
+
+[2024-07-30 12:30:41] Checking against Product ID: 1512
+[2024-07-30 12:30:41] Checking against Product ID: 1550
+[2024-07-30 12:44:26] Form ID: 2341
+[2024-07-30 12:44:26] Checking against Form ID: 2341
+[2024-07-30 12:44:26] Current Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-07-30 12:44:26] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 12:44:26] Updated usage count for Form ID: 2341
+[2024-07-30 12:44:26] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:44:26
+----------------------------------------------------------------
+
+[2024-07-30 12:54:28] Form ID: 2341
+[2024-07-30 12:54:28] Checking against Form ID: 2341
+[2024-07-30 12:54:28] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-07-30 12:54:28] Updated Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 12:54:28] Updated usage count for Form ID: 2341
+[2024-07-30 12:54:28] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:54:28
+----------------------------------------------------------------
+
+[2024-07-30 12:56:05] Form ID: 2341
+[2024-07-30 12:56:05] Checking against Form ID: 2341
+[2024-07-30 12:56:05] Current Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-30 12:56:05] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-30 12:56:05] Updated usage count for Form ID: 2341
+[2024-07-30 12:56:05] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 05:56:05
+----------------------------------------------------------------
+
+[2024-07-30 13:00:53] Form ID: 2341
+[2024-07-30 13:00:53] Checking against Form ID: 2341
+[2024-07-30 13:00:53] Current Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-07-30 13:00:53] Updated Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 13:00:53] Updated usage count for Form ID: 2341
+[2024-07-30 13:00:53] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:00:53
+----------------------------------------------------------------
+
+[2024-07-30 13:05:06] Form ID: 2341
+[2024-07-30 13:05:06] Checking against Form ID: 2341
+[2024-07-30 13:05:06] Current Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-07-30 13:05:06] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-30 13:05:06] Updated usage count for Form ID: 2341
+[2024-07-30 13:05:06] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:05:06
+----------------------------------------------------------------
+
+[2024-07-30 13:07:18] Order ID: 2514
+[2024-07-30 13:07:18] Product ID: 1550
+[2024-07-30 13:07:18] Checking against Product ID: 1511
+[2024-07-30 13:07:18] Checking against Product ID: 1512
+[2024-07-30 13:07:18] Checking against Product ID: 1550
+[2024-07-30 13:07:18] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-30 13:07:18] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-30 13:07:18] Updated usage count for Product ID: 1550
+[2024-07-30 13:07:18] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-07-30 06:07:18
+----------------------------------------------------------------
+
+[2024-07-30 13:07:18] Product ID: 1511
+[2024-07-30 13:07:18] Checking against Product ID: 1511
+[2024-07-30 13:07:18] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-30 13:07:19] Updated Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-30 13:07:19] Updated usage count for Product ID: 1511
+[2024-07-30 13:07:19] User ID: 5, Username: Test3@test.com, Type: product, ID: 1511, Timestamp: 2024-07-30 06:07:19
+----------------------------------------------------------------
+
+[2024-07-30 13:07:19] Checking against Product ID: 1512
+[2024-07-30 13:07:19] Checking against Product ID: 1550
+[2024-07-30 13:09:47] Form ID: 2341
+[2024-07-30 13:09:47] Checking against Form ID: 2341
+[2024-07-30 13:09:47] Current Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-30 13:09:47] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-30 13:09:47] Updated usage count for Form ID: 2341
+[2024-07-30 13:09:47] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:09:47
+----------------------------------------------------------------
+
+[2024-07-30 13:17:45] Form ID: 2341
+[2024-07-30 13:17:45] Checking against Form ID: 2341
+[2024-07-30 13:17:45] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-30 13:17:45] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-30 13:17:45] Updated usage count for Form ID: 2341
+[2024-07-30 13:17:45] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:17:45
+----------------------------------------------------------------
+
+[2024-07-30 13:29:54] Form ID: 2341
+[2024-07-30 13:29:54] Checking against Form ID: 2341
+[2024-07-30 13:29:54] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-30 13:29:54] Updated Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-30 13:29:54] Updated usage count for Form ID: 2341
+[2024-07-30 13:29:54] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:29:54
+----------------------------------------------------------------
+
+[2024-07-30 13:37:07] Form ID: 2341
+[2024-07-30 13:37:07] Checking against Form ID: 2341
+[2024-07-30 13:37:07] Current Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-30 13:37:07] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-30 13:37:07] Updated usage count for Form ID: 2341
+[2024-07-30 13:37:07] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-30 06:37:07
+----------------------------------------------------------------
+
+[2024-07-30 13:37:48] Order ID: 2515
+[2024-07-30 13:37:48] Product ID: 1550
+[2024-07-30 13:37:48] Checking against Product ID: 1511
+[2024-07-30 13:37:48] Checking against Product ID: 1512
+[2024-07-30 13:37:48] Checking against Product ID: 1550
+[2024-07-30 13:37:48] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-30 13:37:48] Updated Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-30 13:37:48] Updated usage count for Product ID: 1550
+[2024-07-30 13:37:48] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-07-30 06:37:48
+----------------------------------------------------------------
+
+[2024-07-31 08:27:13] Form ID: 2341
+[2024-07-31 08:27:13] Checking against Form ID: 2341
+[2024-07-31 08:27:13] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-07-31 08:27:13] Updated Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-31 08:27:13] Updated usage count for Form ID: 2341
+[2024-07-31 08:27:13] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 01:27:13
+----------------------------------------------------------------
+
+[2024-07-31 08:31:11] Form ID: 2341
+[2024-07-31 08:31:11] Checking against Form ID: 2341
+[2024-07-31 08:31:11] Current Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-07-31 08:31:11] Updated Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-07-31 08:31:11] Updated usage count for Form ID: 2341
+[2024-07-31 08:31:11] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 01:31:11
+----------------------------------------------------------------
+
+[2024-07-31 10:07:38] Form ID: 2341
+[2024-07-31 10:07:38] Checking against Form ID: 2341
+[2024-07-31 10:07:38] Current Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 10:07:38] Updated Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 10:07:38] Updated usage count for Form ID: 2341
+[2024-07-31 10:07:38] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 03:07:38
+----------------------------------------------------------------
+
+[2024-07-31 21:15:29] Form ID: 2341
+[2024-07-31 21:15:29] Checking against Form ID: 2341
+[2024-07-31 21:15:29] Current Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 21:15:29] Updated Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-31 21:15:29] Updated usage count for Form ID: 2341
+[2024-07-31 21:15:29] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 14:15:29
+----------------------------------------------------------------
+
+[2024-07-31 21:25:34] Form ID: 2341
+[2024-07-31 21:25:34] Checking against Form ID: 2341
+[2024-07-31 21:25:34] Current Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-31 21:25:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 21:25:34] Updated usage count for Form ID: 2341
+[2024-07-31 21:25:34] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 14:25:34
+----------------------------------------------------------------
+
+[2024-07-31 22:11:17] Form ID: 2341
+[2024-07-31 22:11:17] Checking against Form ID: 2341
+[2024-07-31 22:11:17] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 22:11:17] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-31 22:11:17] Updated usage count for Form ID: 2341
+[2024-07-31 22:11:17] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:11:17
+----------------------------------------------------------------
+
+[2024-07-31 22:16:33] Form ID: 2341
+[2024-07-31 22:16:33] Checking against Form ID: 2341
+[2024-07-31 22:16:33] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-31 22:16:33] Updated Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-31 22:16:33] Updated usage count for Form ID: 2341
+[2024-07-31 22:16:33] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:16:33
+----------------------------------------------------------------
+
+[2024-07-31 22:19:39] Form ID: 2341
+[2024-07-31 22:19:39] Checking against Form ID: 2341
+[2024-07-31 22:19:39] Current Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-31 22:19:39] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-31 22:19:39] Updated usage count for Form ID: 2341
+[2024-07-31 22:19:39] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:19:39
+----------------------------------------------------------------
+
+[2024-07-31 22:20:08] Form ID: 2341
+[2024-07-31 22:20:08] Checking against Form ID: 2341
+[2024-07-31 22:20:08] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-31 22:20:08] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-31 22:20:08] Updated usage count for Form ID: 2341
+[2024-07-31 22:20:08] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:20:08
+----------------------------------------------------------------
+
+[2024-07-31 22:29:31] Form ID: 2341
+[2024-07-31 22:29:31] Checking against Form ID: 2341
+[2024-07-31 22:29:31] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-31 22:29:31] Updated Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-31 22:29:31] Updated usage count for Form ID: 2341
+[2024-07-31 22:29:31] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:29:31
+----------------------------------------------------------------
+
+[2024-07-31 22:35:41] Form ID: 2341
+[2024-07-31 22:35:41] Checking against Form ID: 2341
+[2024-07-31 22:35:41] Current Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-31 22:35:41] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 22:35:41] Updated usage count for Form ID: 2341
+[2024-07-31 22:35:41] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:35:41
+----------------------------------------------------------------
+
+[2024-07-31 22:40:34] Order ID: 2578
+[2024-07-31 22:40:34] Product ID: 1550
+[2024-07-31 22:40:34] Checking against Product ID: 1511
+[2024-07-31 22:40:34] Checking against Product ID: 1512
+[2024-07-31 22:40:34] Checking against Product ID: 1550
+[2024-07-31 22:40:34] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 22:40:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 22:40:34] Updated usage count for Product ID: 1550
+[2024-07-31 22:40:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-07-31 15:40:34
+----------------------------------------------------------------
+
+[2024-07-31 22:40:34] Product ID: 1512
+[2024-07-31 22:40:34] Checking against Product ID: 1511
+[2024-07-31 22:40:34] Checking against Product ID: 1512
+[2024-07-31 22:40:34] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 22:40:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 22:40:34] Updated usage count for Product ID: 1512
+[2024-07-31 22:40:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1512, Timestamp: 2024-07-31 15:40:34
+----------------------------------------------------------------
+
+[2024-07-31 22:40:34] Checking against Product ID: 1550
+[2024-07-31 22:40:34] Product ID: 1511
+[2024-07-31 22:40:34] Checking against Product ID: 1511
+[2024-07-31 22:40:34] Current Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 22:40:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 10
+[2024-07-31 22:40:34] Updated usage count for Product ID: 1511
+[2024-07-31 22:40:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1511, Timestamp: 2024-07-31 15:40:34
+----------------------------------------------------------------
+
+[2024-07-31 22:40:34] Checking against Product ID: 1512
+[2024-07-31 22:40:34] Checking against Product ID: 1550
+[2024-07-31 22:41:46] Form ID: 2341
+[2024-07-31 22:41:46] Checking against Form ID: 2341
+[2024-07-31 22:41:46] Current Tokens for User ID 5 (Username: Test3@test.com): 10
+[2024-07-31 22:41:46] Updated Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 22:41:46] Updated usage count for Form ID: 2341
+[2024-07-31 22:41:46] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:41:46
+----------------------------------------------------------------
+
+[2024-07-31 22:44:21] Form ID: 2341
+[2024-07-31 22:44:21] Checking against Form ID: 2341
+[2024-07-31 22:44:21] Current Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 22:44:21] Updated Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 22:44:21] Updated usage count for Form ID: 2341
+[2024-07-31 22:44:21] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:44:21
+----------------------------------------------------------------
+
+[2024-07-31 22:49:43] Form ID: 2341
+[2024-07-31 22:49:43] Checking against Form ID: 2341
+[2024-07-31 22:49:43] Current Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 22:49:43] Updated Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-31 22:49:43] Updated usage count for Form ID: 2341
+[2024-07-31 22:49:43] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:49:43
+----------------------------------------------------------------
+
+[2024-07-31 22:56:58] Form ID: 2341
+[2024-07-31 22:56:58] Checking against Form ID: 2341
+[2024-07-31 22:56:58] Current Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-31 22:56:58] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 22:56:58] Updated usage count for Form ID: 2341
+[2024-07-31 22:56:58] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:56:58
+----------------------------------------------------------------
+
+[2024-07-31 22:59:07] Form ID: 2341
+[2024-07-31 22:59:07] Checking against Form ID: 2341
+[2024-07-31 22:59:07] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 22:59:07] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-31 22:59:07] Updated usage count for Form ID: 2341
+[2024-07-31 22:59:07] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 15:59:07
+----------------------------------------------------------------
+
+[2024-07-31 23:07:11] Form ID: 2341
+[2024-07-31 23:07:11] Checking against Form ID: 2341
+[2024-07-31 23:07:11] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-07-31 23:07:11] Updated Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-31 23:07:11] Updated usage count for Form ID: 2341
+[2024-07-31 23:07:11] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:07:11
+----------------------------------------------------------------
+
+[2024-07-31 23:08:16] Form ID: 2341
+[2024-07-31 23:08:16] Checking against Form ID: 2341
+[2024-07-31 23:08:16] Current Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-07-31 23:08:16] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-31 23:08:16] Updated usage count for Form ID: 2341
+[2024-07-31 23:08:16] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:08:16
+----------------------------------------------------------------
+
+[2024-07-31 23:14:13] Form ID: 2341
+[2024-07-31 23:14:13] Checking against Form ID: 2341
+[2024-07-31 23:14:13] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-07-31 23:14:13] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-31 23:14:13] Updated usage count for Form ID: 2341
+[2024-07-31 23:14:13] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:14:13
+----------------------------------------------------------------
+
+[2024-07-31 23:19:12] Form ID: 2341
+[2024-07-31 23:19:12] Checking against Form ID: 2341
+[2024-07-31 23:19:12] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-07-31 23:19:12] Updated Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-31 23:19:12] Updated usage count for Form ID: 2341
+[2024-07-31 23:19:12] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:19:12
+----------------------------------------------------------------
+
+[2024-07-31 23:29:41] Form ID: 2341
+[2024-07-31 23:29:41] Checking against Form ID: 2341
+[2024-07-31 23:29:41] Current Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-07-31 23:29:41] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 23:29:41] Updated usage count for Form ID: 2341
+[2024-07-31 23:29:41] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:29:41
+----------------------------------------------------------------
+
+[2024-07-31 23:30:36] Form ID: 2341
+[2024-07-31 23:30:36] Checking against Form ID: 2341
+[2024-07-31 23:30:36] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 23:30:36] Updated Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-07-31 23:30:36] Updated usage count for Form ID: 2341
+[2024-07-31 23:30:36] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:30:36
+----------------------------------------------------------------
+
+[2024-07-31 23:33:05] Order ID: 2579
+[2024-07-31 23:33:05] Product ID: 1511
+[2024-07-31 23:33:05] Checking against Product ID: 1511
+[2024-07-31 23:33:05] Current Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-07-31 23:33:05] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 23:33:05] Updated usage count for Product ID: 1511
+[2024-07-31 23:33:05] User ID: 5, Username: Test3@test.com, Type: product, ID: 1511, Timestamp: 2024-07-31 16:33:05
+----------------------------------------------------------------
+
+[2024-07-31 23:33:05] Checking against Product ID: 1512
+[2024-07-31 23:33:05] Checking against Product ID: 1550
+[2024-07-31 23:33:05] Product ID: 1550
+[2024-07-31 23:33:05] Checking against Product ID: 1511
+[2024-07-31 23:33:05] Checking against Product ID: 1512
+[2024-07-31 23:33:05] Checking against Product ID: 1550
+[2024-07-31 23:33:05] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-07-31 23:33:05] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 23:33:05] Updated usage count for Product ID: 1550
+[2024-07-31 23:33:05] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-07-31 16:33:05
+----------------------------------------------------------------
+
+[2024-07-31 23:33:05] Product ID: 1512
+[2024-07-31 23:33:05] Checking against Product ID: 1511
+[2024-07-31 23:33:05] Checking against Product ID: 1512
+[2024-07-31 23:33:05] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-07-31 23:33:05] Updated Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 23:33:05] Updated usage count for Product ID: 1512
+[2024-07-31 23:33:05] User ID: 5, Username: Test3@test.com, Type: product, ID: 1512, Timestamp: 2024-07-31 16:33:05
+----------------------------------------------------------------
+
+[2024-07-31 23:33:05] Checking against Product ID: 1550
+[2024-07-31 23:33:36] Form ID: 2341
+[2024-07-31 23:33:36] Checking against Form ID: 2341
+[2024-07-31 23:33:36] Current Tokens for User ID 5 (Username: Test3@test.com): 9
+[2024-07-31 23:33:36] Updated Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 23:33:36] Updated usage count for Form ID: 2341
+[2024-07-31 23:33:36] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:33:36
+----------------------------------------------------------------
+
+[2024-07-31 23:46:35] Form ID: 2341
+[2024-07-31 23:46:35] Checking against Form ID: 2341
+[2024-07-31 23:46:35] Current Tokens for User ID 5 (Username: Test3@test.com): 8
+[2024-07-31 23:46:35] Updated Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-07-31 23:46:35] Updated usage count for Form ID: 2341
+[2024-07-31 23:46:35] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 16:46:35
+----------------------------------------------------------------
+
+[2024-08-01 00:03:05] Form ID: 2341
+[2024-08-01 00:03:05] Checking against Form ID: 2341
+[2024-08-01 00:03:05] Current Tokens for User ID 5 (Username: Test3@test.com): 7
+[2024-08-01 00:03:05] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-08-01 00:03:05] Updated usage count for Form ID: 2341
+[2024-08-01 00:03:05] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:03:05
+----------------------------------------------------------------
+
+[2024-08-01 00:04:36] Form ID: 2341
+[2024-08-01 00:04:36] Checking against Form ID: 2341
+[2024-08-01 00:04:36] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-08-01 00:04:36] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-01 00:04:36] Updated usage count for Form ID: 2341
+[2024-08-01 00:04:36] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:04:36
+----------------------------------------------------------------
+
+[2024-08-01 00:08:16] Form ID: 2341
+[2024-08-01 00:08:16] Checking against Form ID: 2341
+[2024-08-01 00:08:16] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-01 00:08:16] Updated Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-08-01 00:08:16] Updated usage count for Form ID: 2341
+[2024-08-01 00:08:16] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:08:16
+----------------------------------------------------------------
+
+[2024-08-01 00:12:35] Form ID: 2341
+[2024-08-01 00:12:35] Checking against Form ID: 2341
+[2024-08-01 00:12:35] Current Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-08-01 00:12:35] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-08-01 00:12:35] Updated usage count for Form ID: 2341
+[2024-08-01 00:12:35] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:12:35
+----------------------------------------------------------------
+
+[2024-08-01 00:14:44] Form ID: 2341
+[2024-08-01 00:14:44] Checking against Form ID: 2341
+[2024-08-01 00:14:44] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-08-01 00:14:44] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-01 00:14:44] Updated usage count for Form ID: 2341
+[2024-08-01 00:14:44] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:14:44
+----------------------------------------------------------------
+
+[2024-08-01 00:16:37] Form ID: 2341
+[2024-08-01 00:16:37] Checking against Form ID: 2341
+[2024-08-01 00:16:37] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-01 00:16:37] Updated Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-08-01 00:16:37] Updated usage count for Form ID: 2341
+[2024-08-01 00:16:37] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:16:37
+----------------------------------------------------------------
+
+[2024-08-01 00:19:16] Form ID: 2341
+[2024-08-01 00:19:16] Checking against Form ID: 2341
+[2024-08-01 00:19:16] Current Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-08-01 00:19:16] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-08-01 00:19:16] Updated usage count for Form ID: 2341
+[2024-08-01 00:19:16] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:19:16
+----------------------------------------------------------------
+
+[2024-08-01 00:23:33] Form ID: 2341
+[2024-08-01 00:23:33] Checking against Form ID: 2341
+[2024-08-01 00:23:33] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-08-01 00:23:33] Updated Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-08-01 00:23:33] Updated usage count for Form ID: 2341
+[2024-08-01 00:23:33] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:23:33
+----------------------------------------------------------------
+
+[2024-08-01 00:25:12] Form ID: 2341
+[2024-08-01 00:25:12] Checking against Form ID: 2341
+[2024-08-01 00:25:12] Current Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-08-01 00:25:12] Updated Tokens for User ID 5 (Username: Test3@test.com): -2
+[2024-08-01 00:25:12] Updated usage count for Form ID: 2341
+[2024-08-01 00:25:12] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:25:12
+----------------------------------------------------------------
+
+[2024-08-01 00:28:46] Form ID: 2341
+[2024-08-01 00:28:46] Checking against Form ID: 2341
+[2024-08-01 00:28:46] Current Tokens for User ID 5 (Username: Test3@test.com): -2
+[2024-08-01 00:28:46] Updated Tokens for User ID 5 (Username: Test3@test.com): -3
+[2024-08-01 00:28:46] Updated usage count for Form ID: 2341
+[2024-08-01 00:28:46] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:28:46
+----------------------------------------------------------------
+
+[2024-08-01 00:30:34] Form ID: 2341
+[2024-08-01 00:30:34] Checking against Form ID: 2341
+[2024-08-01 00:30:34] Current Tokens for User ID 5 (Username: Test3@test.com): -3
+[2024-08-01 00:30:34] Updated Tokens for User ID 5 (Username: Test3@test.com): -4
+[2024-08-01 00:30:34] Updated usage count for Form ID: 2341
+[2024-08-01 00:30:34] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:30:34
+----------------------------------------------------------------
+
+[2024-08-01 00:31:27] Form ID: 2341
+[2024-08-01 00:31:27] Checking against Form ID: 2341
+[2024-08-01 00:31:27] Current Tokens for User ID 5 (Username: Test3@test.com): -4
+[2024-08-01 00:31:27] Updated Tokens for User ID 5 (Username: Test3@test.com): -5
+[2024-08-01 00:31:27] Updated usage count for Form ID: 2341
+[2024-08-01 00:31:27] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:31:27
+----------------------------------------------------------------
+
+[2024-08-01 00:37:02] Form ID: 2341
+[2024-08-01 00:37:02] Checking against Form ID: 2341
+[2024-08-01 00:37:02] Current Tokens for User ID 5 (Username: Test3@test.com): -5
+[2024-08-01 00:37:02] Updated Tokens for User ID 5 (Username: Test3@test.com): -6
+[2024-08-01 00:37:02] Updated usage count for Form ID: 2341
+[2024-08-01 00:37:02] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:37:02
+----------------------------------------------------------------
+
+[2024-08-01 00:38:30] Form ID: 2341
+[2024-08-01 00:38:30] Checking against Form ID: 2341
+[2024-08-01 00:38:30] Current Tokens for User ID 5 (Username: Test3@test.com): -6
+[2024-08-01 00:38:30] Updated Tokens for User ID 5 (Username: Test3@test.com): -7
+[2024-08-01 00:38:30] Updated usage count for Form ID: 2341
+[2024-08-01 00:38:30] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:38:30
+----------------------------------------------------------------
+
+[2024-08-01 00:41:41] Form ID: 2341
+[2024-08-01 00:41:41] Checking against Form ID: 2341
+[2024-08-01 00:41:41] Current Tokens for User ID 5 (Username: Test3@test.com): -7
+[2024-08-01 00:41:41] Updated Tokens for User ID 5 (Username: Test3@test.com): -8
+[2024-08-01 00:41:41] Updated usage count for Form ID: 2341
+[2024-08-01 00:41:41] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:41:41
+----------------------------------------------------------------
+
+[2024-08-01 00:43:36] Form ID: 2341
+[2024-08-01 00:43:36] Checking against Form ID: 2341
+[2024-08-01 00:43:36] Current Tokens for User ID 5 (Username: Test3@test.com): -8
+[2024-08-01 00:43:36] Updated Tokens for User ID 5 (Username: Test3@test.com): -9
+[2024-08-01 00:43:36] Updated usage count for Form ID: 2341
+[2024-08-01 00:43:36] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:43:36
+----------------------------------------------------------------
+
+[2024-08-01 00:50:32] Form ID: 2341
+[2024-08-01 00:50:32] Checking against Form ID: 2341
+[2024-08-01 00:50:32] Current Tokens for User ID 5 (Username: Test3@test.com): -9
+[2024-08-01 00:50:32] Updated Tokens for User ID 5 (Username: Test3@test.com): -10
+[2024-08-01 00:50:32] Updated usage count for Form ID: 2341
+[2024-08-01 00:50:32] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:50:32
+----------------------------------------------------------------
+
+[2024-08-01 00:51:36] Form ID: 2341
+[2024-08-01 00:51:36] Checking against Form ID: 2341
+[2024-08-01 00:51:36] Current Tokens for User ID 5 (Username: Test3@test.com): -10
+[2024-08-01 00:51:36] Updated Tokens for User ID 5 (Username: Test3@test.com): -11
+[2024-08-01 00:51:36] Updated usage count for Form ID: 2341
+[2024-08-01 00:51:36] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:51:36
+----------------------------------------------------------------
+
+[2024-08-01 00:54:02] Form ID: 2341
+[2024-08-01 00:54:02] Checking against Form ID: 2341
+[2024-08-01 00:54:02] Current Tokens for User ID 5 (Username: Test3@test.com): -11
+[2024-08-01 00:54:02] Updated Tokens for User ID 5 (Username: Test3@test.com): -12
+[2024-08-01 00:54:02] Updated usage count for Form ID: 2341
+[2024-08-01 00:54:02] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:54:02
+----------------------------------------------------------------
+
+[2024-08-01 00:55:41] Form ID: 2341
+[2024-08-01 00:55:41] Checking against Form ID: 2341
+[2024-08-01 00:55:41] Current Tokens for User ID 5 (Username: Test3@test.com): -12
+[2024-08-01 00:55:41] Updated Tokens for User ID 5 (Username: Test3@test.com): -13
+[2024-08-01 00:55:41] Updated usage count for Form ID: 2341
+[2024-08-01 00:55:41] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:55:41
+----------------------------------------------------------------
+
+[2024-08-01 00:56:28] Form ID: 2341
+[2024-08-01 00:56:28] Checking against Form ID: 2341
+[2024-08-01 00:56:28] Current Tokens for User ID 5 (Username: Test3@test.com): -13
+[2024-08-01 00:56:28] Updated Tokens for User ID 5 (Username: Test3@test.com): -14
+[2024-08-01 00:56:28] Updated usage count for Form ID: 2341
+[2024-08-01 00:56:28] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:56:28
+----------------------------------------------------------------
+

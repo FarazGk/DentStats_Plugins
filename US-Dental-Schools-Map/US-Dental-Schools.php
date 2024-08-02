@@ -29,19 +29,25 @@ add_action('wp_enqueue_scripts', 'us_dental_schools_enqueue_scripts');
 
 // Handle AJAX request
 function fetch_location_data() {
+    global $wpdb;
     $location_id = intval($_POST['location_id']);
-    // Here you would fetch the location data from your database
-    $data = array(
-        'name' => 'Example School',
-        'city' => 'Example City',
-        'state' => 'Example State',
-        'website' => 'http://example.com',
-        'email' => 'info@example.com',
-        'phone_number' => '123-456-7890',
-        'scores' => 'Example Scores',
-        'gpa_min' => '3.0'
-    );
-    echo json_encode($data);
+    
+    // Explicitly set the table name
+    $table_name = 'j1rn_us_dental_schools_data';
+    $data = $wpdb->get_row($wpdb->prepare("SELECT name, city, state, website, `phone_number` AS phone_number, email FROM $table_name WHERE id = %d", $location_id), ARRAY_A);
+    
+    if ($data) {
+        echo json_encode($data);
+    } else {
+        // Additional debugging information
+        $error_message = array(
+            'error' => 'Location not found',
+            'location_id' => $location_id,
+            'query' => $wpdb->last_query,
+            'db_error' => $wpdb->last_error
+        );
+        echo json_encode($error_message);
+    }
     wp_die();
 }
 add_action('wp_ajax_fetch_location_data', 'fetch_location_data');

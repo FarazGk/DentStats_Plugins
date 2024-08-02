@@ -1,6 +1,6 @@
 .map-container {
     position: relative;
-    width: 100%;
+    width: 60%;
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -12,27 +12,29 @@
 .popup {
     display: none;
     position: absolute;
-    background-color: rgba(255, 255, 255, 0.99); /* Set background to white with 50% transparency */
+    background-color: rgba(255, 255, 255, 0.95); /* Set background to white with 50% transparency */
     border: 1px solid #ccc;
     padding: 10px;
     z-index: 10;
-    max-width: auto; /* Add a max-width to control popup size */
+    max-width: 35vw; /* Add a max-width to control popup size */
     border-radius: 15px; /* Adjust border radius for smoother rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Add a subtle shadow for depth */
     font-family: Arial, sans-serif; /* Set a clean font */
-    font-size: 14px; /* Adjust font size for readability */
+    font-size: 1rem; /* Adjust font size for readability */
     color: #333; /* Darken text color for contrast */
+    word-wrap: break-word; /* Ensure long words break to fit within the popup */
+    overflow: hidden; /* Prevent overflow */
 }
 
 .map-dot {
     position: absolute;
-    width: 3vw; /* Increased size for better visibility of the number */
-    height: 3vw;
+    width: 2.6vw; /* Increased size for better visibility of the number */
+    height: 2.6vw;
     min-width: 1vw; /* Ensures the dots are also responsive to viewport width */
     min-height: 1vw;
-    max-width: 2.5vh; /* Ensures the dots are also responsive to viewport width */
-    max-height: 2.5vh;
-    
+    max-width: 1.1vh; /* Ensures the dots are also responsive to viewport width */
+    max-height: 1.1vh;
+    cursor: pointer;
 }
 
 .map-dot circle {
@@ -47,19 +49,76 @@
     dominant-baseline: auto; /* Center text vertically */
     font-weight: bold;
 }
+
 .map-dot:hover circle {
     fill: #FF5F1F; /* Neon Orange */
 }
+
 .map-dot.clicked circle {
-    fill: #B87333; /* Copper */
+    fill: #FF5F1F; /* Copper */
+}
+
+.school-list {
+    display: grid;
+    grid-template-rows: repeat(17, 1fr);
+    grid-auto-flow: column; /* Ensure items fill columns first */
+    gap: 1%;
+    margin-top: 4%;
+    height: 100%;
+}
+
+.school-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer; /* Ensure cursor indicates clickable items */
+}
+
+.school-id {
+    color: orange;
+    font-weight: bold;
+    margin-right: 3%;
+    transition: color 0.3s; /* Smooth transition for color change */
+}
+
+.school-item:hover {
+    background-color: rgba(255, 95, 31, 0.1);
+    border-radius: 8px;
+}
+
+.school-item:hover .school-id {
+    color: #FF5F1F; /* Neon Orange */
+}
+
+.school-id.active {
+    color: #FF5F1F; /* Neon Orange */
+}
+
+.school-name {
+    color: black;
+    font-size: 1rem;
 }
 
 @media (max-width: 1048px) {
+    .map-container {
+        width: 80%;
+        
+    }
     .map-dot {
         width: 2vw;
         height: 2vw;
     }
     .map-dot text {
-    font-size: 3.8rem; /* Responsive font size */
+        font-size: 3.8rem; /* Responsive font size */
+    }
+    .popup {
+        width: 50%;
+        max-width: 80%; /* Add a max-width to control popup size */
+    }
+    .school-list {
+        margin: 0 5%;
+        grid-template-rows: repeat(24, 1fr);
+    }
+    .school-name {
+    font-size: 0.9rem;
     }
 }

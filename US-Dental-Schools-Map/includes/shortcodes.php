@@ -5,6 +5,12 @@ if (!defined('ABSPATH')) {
 }
 
 function us_dental_schools_shortcode() {
+    global $wpdb;
+
+    // Fetch all IDs and short names
+    $table_name = 'j1rn_us_dental_schools_data';
+    $schools = $wpdb->get_results("SELECT id, short_name FROM $table_name", ARRAY_A);
+
     ob_start();
     ?>
     <div class="map-container">
@@ -59,8 +65,16 @@ function us_dental_schools_shortcode() {
         </svg>
         <div class="popup" id="map-popup"></div>
     </div>
+
+    <div class="school-list">
+        <?php foreach ($schools as $school): ?>
+            <div class="school-item" data-location-id="<?php echo $school['id']; ?>">
+                <span class="school-id"><?php echo $school['id']; ?>.</span>
+                <span class="school-name"><?php echo $school['short_name']; ?></span>
+            </div>
+        <?php endforeach; ?>
+    </div>
     <?php
     return ob_get_clean();
 }
 add_shortcode('us_dental_schools_map', 'us_dental_schools_shortcode');
-?>

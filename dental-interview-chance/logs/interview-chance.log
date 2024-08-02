@@ -1,0 +1,2213 @@
+[2024-07-30 11:33:33] ------------------------------------------------------------
+[2024-07-30 11:33:33] Form submission received. Form ID: 2341
+[2024-07-30 11:33:33] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 11:33:33] Unknown field name: hidden-1
+[2024-07-30 11:33:33] Unknown field name: _forminator_user_ip
+[2024-07-30 11:33:33] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 1.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 11:33:33] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 11:33:33] Started calculating chances.
+[2024-07-30 11:33:33] Finished calculating chances.
+[2024-07-30 11:33:33] Starting PDF generation.
+[2024-07-30 11:33:33] Starting PDF generation.
+[2024-07-30 11:33:47] PDF template loaded.
+[2024-07-30 11:33:47] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/ds-interview-report.pdf
+[2024-07-30 11:33:47] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/ds-interview-report.pdf
+[2024-07-30 11:33:47] PDF generated. URL: https://dentstats.com/wp-content/uploads/ds-interview-report.pdf
+[2024-07-30 11:33:47] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 11:33:47] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/ds-interview-report.pdf, Timestamp: 2024-07-30 04:33:47
+Form Data: []
+
+[2024-07-30 11:41:18] ------------------------------------------------------------
+[2024-07-30 11:41:18] Form submission received. Form ID: 2341
+[2024-07-30 11:41:18] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 11:41:18] Unknown field name: hidden-1
+[2024-07-30 11:41:18] Unknown field name: _forminator_user_ip
+[2024-07-30 11:41:18] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 3.33
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 11:41:18] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 11:41:18] Started calculating chances.
+[2024-07-30 11:41:18] Finished calculating chances.
+[2024-07-30 11:41:18] Starting PDF generation.
+[2024-07-30 11:41:18] Starting PDF generation.
+[2024-07-30 11:41:31] PDF template loaded.
+[2024-07-30 11:41:32] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-41-32.pdf
+[2024-07-30 11:41:32] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-41-32.pdf
+[2024-07-30 11:41:32] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-41-32.pdf
+[2024-07-30 11:41:32] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 11:41:32] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-41-32.pdf, Timestamp: 2024-07-30 04:41:32
+Form Data: []
+
+[2024-07-30 11:46:52] ------------------------------------------------------------
+[2024-07-30 11:46:52] Form submission received. Form ID: 2341
+[2024-07-30 11:46:52] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 11:46:52] Unknown field name: hidden-1
+[2024-07-30 11:46:52] Unknown field name: _forminator_user_ip
+[2024-07-30 11:46:52] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 11:46:52] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 11:46:52] Started calculating chances.
+[2024-07-30 11:46:52] Finished calculating chances.
+[2024-07-30 11:46:52] Starting PDF generation.
+[2024-07-30 11:46:52] Starting PDF generation.
+[2024-07-30 11:47:05] PDF template loaded.
+[2024-07-30 11:47:05] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-47-05.pdf
+[2024-07-30 11:47:05] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-47-05.pdf
+[2024-07-30 11:47:05] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-47-05.pdf
+[2024-07-30 11:47:05] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 11:47:05] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-47-05.pdf, Timestamp: 2024-07-30 04:47:05
+Form Data: []
+
+[2024-07-30 11:55:49] ------------------------------------------------------------
+[2024-07-30 11:55:49] Form submission received. Form ID: 2341
+[2024-07-30 11:55:49] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 11:55:49] Unknown field name: hidden-1
+[2024-07-30 11:55:49] Unknown field name: _forminator_user_ip
+[2024-07-30 11:55:49] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 11:55:49] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 11:55:49] Started calculating chances.
+[2024-07-30 11:55:49] Finished calculating chances.
+[2024-07-30 11:55:49] Starting PDF generation.
+[2024-07-30 11:55:49] Starting PDF generation.
+[2024-07-30 11:56:03] PDF template loaded.
+[2024-07-30 11:56:03] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-56-03.pdf
+[2024-07-30 11:56:03] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-56-03.pdf
+[2024-07-30 11:56:03] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-56-03.pdf
+[2024-07-30 11:56:03] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 11:56:03] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_11-56-03.pdf, Timestamp: 2024-07-30 04:56:03
+Form Data: []
+
+[2024-07-30 12:00:30] ------------------------------------------------------------
+[2024-07-30 12:00:30] Form submission received. Form ID: 2341
+[2024-07-30 12:00:30] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:00:30] Unknown field name: hidden-1
+[2024-07-30 12:00:30] Unknown field name: _forminator_user_ip
+[2024-07-30 12:00:30] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 12:00:30] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:00:30] Started calculating chances.
+[2024-07-30 12:00:30] Finished calculating chances.
+[2024-07-30 12:00:30] Starting PDF generation.
+[2024-07-30 12:00:30] Starting PDF generation.
+[2024-07-30 12:00:44] PDF template loaded.
+[2024-07-30 12:00:45] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-00-45.pdf
+[2024-07-30 12:00:45] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-00-45.pdf
+[2024-07-30 12:00:45] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-00-45.pdf
+[2024-07-30 12:00:45] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 12:00:45] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-00-45.pdf, Timestamp: 2024-07-30 05:00:45
+Form Data: []
+
+[2024-07-30 12:02:03] ------------------------------------------------------------
+[2024-07-30 12:02:03] Form submission received. Form ID: 2341
+[2024-07-30 12:02:03] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:02:03] Unknown field name: hidden-1
+[2024-07-30 12:02:03] Unknown field name: _forminator_user_ip
+[2024-07-30 12:02:03] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 12:02:03] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:02:03] Started calculating chances.
+[2024-07-30 12:02:03] Finished calculating chances.
+[2024-07-30 12:02:03] Starting PDF generation.
+[2024-07-30 12:02:03] Starting PDF generation.
+[2024-07-30 12:02:18] PDF template loaded.
+[2024-07-30 12:02:18] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-02-18.pdf
+[2024-07-30 12:02:18] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-02-18.pdf
+[2024-07-30 12:02:18] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-02-18.pdf
+[2024-07-30 12:02:18] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 12:02:18] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-02-18.pdf, Timestamp: 2024-07-30 05:02:18
+Form Data: []
+
+[2024-07-30 12:03:27] ------------------------------------------------------------
+[2024-07-30 12:03:27] Form submission received. Form ID: 2341
+[2024-07-30 12:03:27] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:03:27] Unknown field name: hidden-1
+[2024-07-30 12:03:27] Unknown field name: _forminator_user_ip
+[2024-07-30 12:03:27] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 1.00
+    [Science GPA] => 1.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 12:03:27] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:03:27] Started calculating chances.
+[2024-07-30 12:03:27] Finished calculating chances.
+[2024-07-30 12:03:27] Starting PDF generation.
+[2024-07-30 12:03:27] Starting PDF generation.
+[2024-07-30 12:03:42] PDF template loaded.
+[2024-07-30 12:03:42] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-03-42.pdf
+[2024-07-30 12:03:42] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-03-42.pdf
+[2024-07-30 12:03:42] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-03-42.pdf
+[2024-07-30 12:03:42] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 12:03:42] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-03-42.pdf, Timestamp: 2024-07-30 05:03:42
+Form Data: []
+
+[2024-07-30 12:28:45] ------------------------------------------------------------
+[2024-07-30 12:28:45] Form submission received. Form ID: 2341
+[2024-07-30 12:28:45] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:28:45] Unknown field name: hidden-1
+[2024-07-30 12:28:45] Unknown field name: _forminator_user_ip
+[2024-07-30 12:28:45] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 12:28:45] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:28:45] Started calculating chances.
+[2024-07-30 12:28:45] Finished calculating chances.
+[2024-07-30 12:28:45] Starting PDF generation.
+[2024-07-30 12:28:45] Starting PDF generation.
+[2024-07-30 12:28:59] PDF template loaded.
+[2024-07-30 12:29:00] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-28-59.pdf
+[2024-07-30 12:29:00] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-28-59.pdf
+[2024-07-30 12:29:00] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-28-59.pdf
+[2024-07-30 12:29:00] PDF URL attached to WooCommerce user account. User ID: 4
+[2024-07-30 12:29:00] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-28-59.pdf, Timestamp: 2024-07-30 05:29:00
+Form Data: []
+
+[2024-07-30 12:44:12] ------------------------------------------------------------
+[2024-07-30 12:44:12] Form submission received. Form ID: 2341
+[2024-07-30 12:44:12] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:44:12] Unknown field name: hidden-1
+[2024-07-30 12:44:12] Unknown field name: _forminator_user_ip
+[2024-07-30 12:44:12] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 12:44:12] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:44:12] Started calculating chances.
+[2024-07-30 12:44:12] Finished calculating chances.
+[2024-07-30 12:44:12] Starting PDF generation.
+[2024-07-30 12:44:12] Starting PDF generation.
+[2024-07-30 12:44:26] PDF template loaded.
+[2024-07-30 12:44:26] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-44-26.pdf
+[2024-07-30 12:44:26] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-44-26.pdf
+[2024-07-30 12:44:26] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-44-26.pdf
+[2024-07-30 12:44:26] Permission added successfully for user ID: 4, download ID: 31ee3fcaf3c3450a21a9bb17d4a20245
+[2024-07-30 12:44:26] PDF URL added to user downloads. User ID: 4
+[2024-07-30 12:44:26] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-44-26.pdf, Timestamp: 2024-07-30 05:44:26
+Form Data: []
+
+[2024-07-30 12:54:15] ------------------------------------------------------------
+[2024-07-30 12:54:15] Form submission received. Form ID: 2341
+[2024-07-30 12:54:15] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 12:54:15] Unknown field name: checkbox-2
+[2024-07-30 12:54:15] Unknown field name: hidden-1
+[2024-07-30 12:54:15] Unknown field name: _forminator_user_ip
+[2024-07-30 12:54:15] Extracted fields: Array
+(
+    [AA] => 22
+    [DAT] => 23
+    [PAT] => 20
+    [TS] => 19
+    [GPA] => 3.82
+    [Science GPA] => 3.71
+    [Shadowing] => Yes
+    [Shadow_Hours_Minimum] => 340
+    [Letters_Of_Evaluation] => Yes
+    [Letters_Of_Evaluation Count] => 5
+    [Strength of evaluation letter] => 3
+)
+
+[2024-07-30 12:54:15] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:54:15] Started calculating chances.
+[2024-07-30 12:54:15] Finished calculating chances.
+[2024-07-30 12:54:15] Starting PDF generation.
+[2024-07-30 12:54:15] Starting PDF generation.
+[2024-07-30 12:54:28] PDF template loaded.
+[2024-07-30 12:54:28] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-54-28.pdf
+[2024-07-30 12:54:28] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-54-28.pdf
+[2024-07-30 12:54:28] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-54-28.pdf
+[2024-07-30 12:54:28] Permission added successfully for user ID: 4, product ID: 2513, download ID: 22b38fc4e143748800e072ce8ac1c12f
+[2024-07-30 12:54:28] PDF URL added to user downloads. User ID: 4
+[2024-07-30 12:54:28] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_12-54-28.pdf, Timestamp: 2024-07-30 05:54:28
+Form Data: []
+
+[2024-07-30 12:55:51] ------------------------------------------------------------
+[2024-07-30 12:55:51] Form submission received. Form ID: 2341
+[2024-07-30 12:55:51] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 12:55:51] Unknown field name: checkbox-2
+[2024-07-30 12:55:51] Unknown field name: hidden-1
+[2024-07-30 12:55:51] Unknown field name: _forminator_user_ip
+[2024-07-30 12:55:51] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 2
+    [GPA] => 2.00
+    [Science GPA] => 3.00
+    [Shadowing] => Yes
+    [Shadow_Hours_Minimum] => 123
+    [Letters_Of_Evaluation] => Yes
+    [Letters_Of_Evaluation Count] => 4
+    [Strength of evaluation letter] => 2
+)
+
+[2024-07-30 12:55:51] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 12:55:51] Started calculating chances.
+[2024-07-30 12:55:51] Finished calculating chances.
+[2024-07-30 12:55:51] Starting PDF generation.
+[2024-07-30 12:55:51] Starting PDF generation.
+[2024-07-30 12:56:05] PDF template loaded.
+[2024-07-30 12:56:05] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_12-56-05.pdf
+[2024-07-30 12:56:05] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_12-56-05.pdf
+[2024-07-30 12:56:05] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_12-56-05.pdf
+[2024-07-30 12:56:05] Permission added successfully for user ID: 5, product ID: 2513, download ID: b43c6effd82112966f90408b5a41e4bf
+[2024-07-30 12:56:05] PDF URL added to user downloads. User ID: 5
+[2024-07-30 12:56:05] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_12-56-05.pdf, Timestamp: 2024-07-30 05:56:05
+Form Data: []
+
+[2024-07-30 13:00:39] ------------------------------------------------------------
+[2024-07-30 13:00:39] Form submission received. Form ID: 2341
+[2024-07-30 13:00:39] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 13:00:39] Unknown field name: hidden-1
+[2024-07-30 13:00:39] Unknown field name: _forminator_user_ip
+[2024-07-30 13:00:39] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:00:39] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:00:39] Started calculating chances.
+[2024-07-30 13:00:39] Finished calculating chances.
+[2024-07-30 13:00:39] Starting PDF generation.
+[2024-07-30 13:00:39] Starting PDF generation.
+[2024-07-30 13:00:53] PDF template loaded.
+[2024-07-30 13:00:53] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-00-53.pdf
+[2024-07-30 13:00:53] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-00-53.pdf
+[2024-07-30 13:00:53] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-00-53.pdf
+[2024-07-30 13:00:53] Permission added successfully for user ID: 4, product ID: 2513, download ID: 9b44d7d7640556b7dd5df030878e1e7b
+[2024-07-30 13:00:53] PDF URL added to user downloads. User ID: 4
+[2024-07-30 13:00:53] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-00-53.pdf, Timestamp: 2024-07-30 06:00:53
+Form Data: []
+
+[2024-07-30 13:04:52] ------------------------------------------------------------
+[2024-07-30 13:04:52] Form submission received. Form ID: 2341
+[2024-07-30 13:04:52] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-30 13:04:52] Unknown field name: hidden-1
+[2024-07-30 13:04:52] Unknown field name: _forminator_user_ip
+[2024-07-30 13:04:52] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:04:52] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:04:52] Started calculating chances.
+[2024-07-30 13:04:52] Finished calculating chances.
+[2024-07-30 13:04:52] Starting PDF generation.
+[2024-07-30 13:04:52] Starting PDF generation.
+[2024-07-30 13:05:06] PDF template loaded.
+[2024-07-30 13:05:06] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-05-06.pdf
+[2024-07-30 13:05:06] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-05-06.pdf
+[2024-07-30 13:05:06] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-05-06.pdf
+[2024-07-30 13:05:06] Permission added successfully for user ID: 4, product ID: 2513, download ID: 0e92a6a69fdd6ee5e844bef39da5e331
+[2024-07-30 13:05:06] PDF URL added to user downloads. User ID: 4
+[2024-07-30 13:05:06] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-30_13-05-06.pdf, Timestamp: 2024-07-30 06:05:06
+Form Data: []
+
+[2024-07-30 13:09:33] ------------------------------------------------------------
+[2024-07-30 13:09:33] Form submission received. Form ID: 2341
+[2024-07-30 13:09:33] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 13:09:33] Unknown field name: hidden-1
+[2024-07-30 13:09:33] Unknown field name: _forminator_user_ip
+[2024-07-30 13:09:33] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:09:33] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:09:33] Started calculating chances.
+[2024-07-30 13:09:33] Finished calculating chances.
+[2024-07-30 13:09:33] Starting PDF generation.
+[2024-07-30 13:09:33] Starting PDF generation.
+[2024-07-30 13:09:47] PDF template loaded.
+[2024-07-30 13:09:47] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-09-47.pdf
+[2024-07-30 13:09:47] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-09-47.pdf
+[2024-07-30 13:09:47] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-09-47.pdf
+[2024-07-30 13:09:47] Permission added successfully for user ID: 5, product ID: 2513, download ID: fc412d815cc089ee79d889eee243c3f2
+[2024-07-30 13:09:47] PDF URL added to user downloads. User ID: 5
+[2024-07-30 13:09:47] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-09-47.pdf, Timestamp: 2024-07-30 06:09:47
+Form Data: []
+
+[2024-07-30 13:15:14] ------------------------------------------------------------
+[2024-07-30 13:15:14] Form submission received. Form ID: 2341
+[2024-07-30 13:15:14] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 13:15:14] Unknown field name: hidden-1
+[2024-07-30 13:15:14] Unknown field name: _forminator_user_ip
+[2024-07-30 13:15:14] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:15:14] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:15:14] Started calculating chances.
+[2024-07-30 13:15:14] Finished calculating chances.
+[2024-07-30 13:15:14] Starting PDF generation.
+[2024-07-30 13:15:14] Starting PDF generation.
+[2024-07-30 13:15:28] PDF template loaded.
+[2024-07-30 13:15:28] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-15-28.pdf
+[2024-07-30 13:15:28] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-15-28.pdf
+[2024-07-30 13:15:28] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-15-28.pdf
+[2024-07-30 13:17:31] ------------------------------------------------------------
+[2024-07-30 13:17:31] Form submission received. Form ID: 2341
+[2024-07-30 13:17:31] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 13:17:31] Unknown field name: hidden-1
+[2024-07-30 13:17:31] Unknown field name: _forminator_user_ip
+[2024-07-30 13:17:31] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:17:31] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:17:31] Started calculating chances.
+[2024-07-30 13:17:31] Finished calculating chances.
+[2024-07-30 13:17:31] Starting PDF generation.
+[2024-07-30 13:17:31] Starting PDF generation.
+[2024-07-30 13:17:45] PDF template loaded.
+[2024-07-30 13:17:45] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-17-45.pdf
+[2024-07-30 13:17:45] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-17-45.pdf
+[2024-07-30 13:17:45] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-17-45.pdf
+[2024-07-30 13:17:45] PDF URL added to user downloads. User ID: 5
+[2024-07-30 13:17:45] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-17-45.pdf, Timestamp: 2024-07-30 06:17:45
+Form Data: []
+
+[2024-07-30 13:29:40] ------------------------------------------------------------
+[2024-07-30 13:29:40] Form submission received. Form ID: 2341
+[2024-07-30 13:29:40] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 13:29:40] Unknown field name: hidden-1
+[2024-07-30 13:29:40] Unknown field name: _forminator_user_ip
+[2024-07-30 13:29:40] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:29:40] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:29:40] Started calculating chances.
+[2024-07-30 13:29:40] Finished calculating chances.
+[2024-07-30 13:29:40] Starting PDF generation.
+[2024-07-30 13:29:40] Starting PDF generation.
+[2024-07-30 13:29:54] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-29-40.pdf
+[2024-07-30 13:29:54] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-29-40.pdf
+[2024-07-30 13:29:54] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-29-40.pdf
+[2024-07-30 13:29:54] Permission added successfully for user ID: 5, product ID: 2513, download ID: aeb4ddae95c7666b32150126dda3e1d7
+[2024-07-30 13:29:54] PDF URL added to user downloads. User ID: 5
+[2024-07-30 13:29:54] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-29-40.pdf, Timestamp: 2024-07-30 06:29:54
+Form Data: []
+
+[2024-07-30 13:36:53] ------------------------------------------------------------
+[2024-07-30 13:36:53] Form submission received. Form ID: 2341
+[2024-07-30 13:36:53] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-30 13:36:53] Unknown field name: hidden-1
+[2024-07-30 13:36:53] Unknown field name: _forminator_user_ip
+[2024-07-30 13:36:53] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-30 13:36:53] Data retrieved from custom table. Number of rows: 71
+[2024-07-30 13:36:53] Started calculating chances.
+[2024-07-30 13:36:53] Finished calculating chances.
+[2024-07-30 13:36:53] Starting PDF generation.
+[2024-07-30 13:36:53] Starting PDF generation.
+[2024-07-30 13:37:07] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-36-53.pdf
+[2024-07-30 13:37:07] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-36-53.pdf
+[2024-07-30 13:37:07] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-36-53.pdf
+[2024-07-30 13:37:07] Permission added successfully for user ID: 5, product ID: 2513, download ID: 24144eb0751c8550f8fb566e9838d372
+[2024-07-30 13:37:07] PDF URL added to user downloads. User ID: 5
+[2024-07-30 13:37:07] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-30_13-36-53.pdf, Timestamp: 2024-07-30 06:37:07
+Form Data: []
+
+[2024-07-31 08:26:58] ------------------------------------------------------------
+[2024-07-31 08:26:58] Form submission received. Form ID: 2341
+[2024-07-31 08:26:58] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-31 08:26:58] Unknown field name: hidden-1
+[2024-07-31 08:26:58] Unknown field name: _forminator_user_ip
+[2024-07-31 08:26:58] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 08:26:58] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 08:26:58] Started calculating chances.
+[2024-07-31 08:26:58] Finished calculating chances.
+[2024-07-31 08:26:58] Starting PDF generation.
+[2024-07-31 08:26:58] Starting PDF generation.
+[2024-07-31 08:27:13] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-26-58.pdf
+[2024-07-31 08:27:13] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-26-58.pdf
+[2024-07-31 08:27:13] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-26-58.pdf
+[2024-07-31 08:27:13] Database error: Table 'i9382303_hsjv1.j1rn_user_interview_evaluation_file_access' doesn't exist
+[2024-07-31 08:27:13] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-26-58.pdf, Timestamp: 2024-07-31 01:27:13
+Form Data: []
+
+[2024-07-31 08:30:55] ------------------------------------------------------------
+[2024-07-31 08:30:55] Form submission received. Form ID: 2341
+[2024-07-31 08:30:55] User ID: 4, Username: Test2@test.com, Email: Test2@test.com
+[2024-07-31 08:30:55] Unknown field name: hidden-1
+[2024-07-31 08:30:55] Unknown field name: _forminator_user_ip
+[2024-07-31 08:30:55] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 08:30:55] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 08:30:55] Started calculating chances.
+[2024-07-31 08:30:55] Finished calculating chances.
+[2024-07-31 08:30:55] Starting PDF generation.
+[2024-07-31 08:30:55] Starting PDF generation.
+[2024-07-31 08:31:11] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-30-55.pdf
+[2024-07-31 08:31:11] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-30-55.pdf
+[2024-07-31 08:31:11] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-30-55.pdf
+[2024-07-31 08:31:11] File access record added for user ID: 4
+[2024-07-31 08:31:11] User ID: 4, Username: Test2@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test2@test.com_2024-07-31_08-30-55.pdf, Timestamp: 2024-07-31 01:31:11
+Form Data: []
+
+[2024-07-31 10:07:25] ------------------------------------------------------------
+[2024-07-31 10:07:25] Form submission received. Form ID: 2341
+[2024-07-31 10:07:25] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 10:07:25] Unknown field name: hidden-1
+[2024-07-31 10:07:25] Unknown field name: _forminator_user_ip
+[2024-07-31 10:07:25] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.85
+    [Science GPA] => 1.74
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 10:07:25] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 10:07:25] Started calculating chances.
+[2024-07-31 10:07:25] Finished calculating chances.
+[2024-07-31 10:07:25] Starting PDF generation.
+[2024-07-31 10:07:25] Starting PDF generation.
+[2024-07-31 10:07:38] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_10-07-25.pdf
+[2024-07-31 10:07:38] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_10-07-25.pdf
+[2024-07-31 10:07:38] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_10-07-25.pdf
+[2024-07-31 10:07:38] File access record added for user ID: 5
+[2024-07-31 10:07:38] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_10-07-25.pdf, Timestamp: 2024-07-31 03:07:38
+Form Data: []
+
+[2024-07-31 21:15:15] ------------------------------------------------------------
+[2024-07-31 21:15:15] Form submission received. Form ID: 2341
+[2024-07-31 21:15:15] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 21:15:15] Unknown field name: hidden-1
+[2024-07-31 21:15:15] Unknown field name: _forminator_user_ip
+[2024-07-31 21:15:15] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 21:15:15] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 21:15:15] Started calculating chances.
+[2024-07-31 21:15:15] Finished calculating chances.
+[2024-07-31 21:15:15] Starting PDF generation.
+[2024-07-31 21:15:15] Starting PDF generation.
+[2024-07-31 21:15:29] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-15-15.pdf
+[2024-07-31 21:15:29] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-15-15.pdf
+[2024-07-31 21:15:29] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-15-15.pdf
+[2024-07-31 21:15:29] File access record added for user ID: 5
+[2024-07-31 21:15:29] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-15-15.pdf, Timestamp: 2024-07-31 14:15:29
+Form Data: []
+
+[2024-07-31 21:25:20] ------------------------------------------------------------
+[2024-07-31 21:25:20] Form submission received. Form ID: 2341
+[2024-07-31 21:25:20] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 21:25:20] Unknown field name: hidden-1
+[2024-07-31 21:25:20] Unknown field name: _forminator_user_ip
+[2024-07-31 21:25:20] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 21:25:20] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 21:25:20] Started calculating chances.
+[2024-07-31 21:25:20] Finished calculating chances.
+[2024-07-31 21:25:20] Starting PDF generation.
+[2024-07-31 21:25:20] Starting PDF generation.
+[2024-07-31 21:25:34] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-25-20.pdf
+[2024-07-31 21:25:34] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-25-20.pdf
+[2024-07-31 21:25:34] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-25-20.pdf
+[2024-07-31 21:25:34] File access record added for user ID: 5
+[2024-07-31 21:25:34] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_21-25-20.pdf, Timestamp: 2024-07-31 14:25:34
+Form Data: []
+
+[2024-07-31 22:11:04] ------------------------------------------------------------
+[2024-07-31 22:11:04] Form submission received. Form ID: 2341
+[2024-07-31 22:11:04] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:11:04] Unknown field name: hidden-1
+[2024-07-31 22:11:04] Unknown field name: _forminator_user_ip
+[2024-07-31 22:11:04] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.33
+    [Science GPA] => 2.22
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => Yes
+    [Letters_Of_Evaluation Count] => 1
+    [Strength of evaluation letter] => 2
+)
+
+[2024-07-31 22:11:04] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:11:04] Started calculating chances.
+[2024-07-31 22:11:04] Finished calculating chances.
+[2024-07-31 22:11:04] Starting PDF generation.
+[2024-07-31 22:11:04] Starting PDF generation.
+[2024-07-31 22:11:17] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-11-04.pdf
+[2024-07-31 22:11:17] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-11-04.pdf
+[2024-07-31 22:11:17] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-11-04.pdf
+[2024-07-31 22:11:17] File access record added for user ID: 5
+[2024-07-31 22:11:17] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-11-04.pdf, Timestamp: 2024-07-31 15:11:17
+Form Data: []
+
+[2024-07-31 22:16:19] ------------------------------------------------------------
+[2024-07-31 22:16:19] Form submission received. Form ID: 2341
+[2024-07-31 22:16:19] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:16:19] Unknown field name: hidden-1
+[2024-07-31 22:16:19] Unknown field name: _forminator_user_ip
+[2024-07-31 22:16:19] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.20
+    [Science GPA] => 2.30
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:16:19] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:16:19] Started calculating chances.
+[2024-07-31 22:16:19] Finished calculating chances.
+[2024-07-31 22:16:19] Starting PDF generation.
+[2024-07-31 22:16:19] Starting PDF generation.
+[2024-07-31 22:16:33] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-16-19.pdf
+[2024-07-31 22:16:33] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-16-19.pdf
+[2024-07-31 22:16:33] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-16-19.pdf
+[2024-07-31 22:16:33] File access record added for user ID: 5
+[2024-07-31 22:16:33] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-16-19.pdf, Timestamp: 2024-07-31 15:16:33
+Form Data: []
+
+[2024-07-31 22:19:25] ------------------------------------------------------------
+[2024-07-31 22:19:25] Form submission received. Form ID: 2341
+[2024-07-31 22:19:25] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:19:25] Unknown field name: hidden-1
+[2024-07-31 22:19:25] Unknown field name: _forminator_user_ip
+[2024-07-31 22:19:25] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:19:25] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:19:25] Started calculating chances.
+[2024-07-31 22:19:25] Finished calculating chances.
+[2024-07-31 22:19:25] Starting PDF generation.
+[2024-07-31 22:19:25] Starting PDF generation.
+[2024-07-31 22:19:39] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-25.pdf
+[2024-07-31 22:19:39] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-25.pdf
+[2024-07-31 22:19:39] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-25.pdf
+[2024-07-31 22:19:39] File access record added for user ID: 5
+[2024-07-31 22:19:39] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-25.pdf, Timestamp: 2024-07-31 15:19:39
+Form Data: []
+
+[2024-07-31 22:19:50] ------------------------------------------------------------
+[2024-07-31 22:19:50] Form submission received. Form ID: 2341
+[2024-07-31 22:19:50] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:19:50] Unknown field name: hidden-1
+[2024-07-31 22:19:50] Unknown field name: _forminator_user_ip
+[2024-07-31 22:19:50] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:19:50] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:19:50] Started calculating chances.
+[2024-07-31 22:19:50] Finished calculating chances.
+[2024-07-31 22:19:50] Starting PDF generation.
+[2024-07-31 22:19:50] Starting PDF generation.
+[2024-07-31 22:20:08] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-50.pdf
+[2024-07-31 22:20:08] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-50.pdf
+[2024-07-31 22:20:08] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-50.pdf
+[2024-07-31 22:20:08] File access record added for user ID: 5
+[2024-07-31 22:20:08] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-19-50.pdf, Timestamp: 2024-07-31 15:20:08
+Form Data: []
+
+[2024-07-31 22:29:17] ------------------------------------------------------------
+[2024-07-31 22:29:17] Form submission received. Form ID: 2341
+[2024-07-31 22:29:17] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:29:17] Unknown field name: hidden-1
+[2024-07-31 22:29:17] Unknown field name: _forminator_user_ip
+[2024-07-31 22:29:17] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:29:17] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:29:17] Started calculating chances.
+[2024-07-31 22:29:17] Finished calculating chances.
+[2024-07-31 22:29:17] Starting PDF generation.
+[2024-07-31 22:29:17] Starting PDF generation.
+[2024-07-31 22:29:31] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-29-17.pdf
+[2024-07-31 22:29:31] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-29-17.pdf
+[2024-07-31 22:29:31] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-29-17.pdf
+[2024-07-31 22:29:31] File access record added for user ID: 5
+[2024-07-31 22:29:31] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-29-17.pdf, Timestamp: 2024-07-31 15:29:31
+Form Data: []
+
+[2024-07-31 22:35:28] ------------------------------------------------------------
+[2024-07-31 22:35:28] Form submission received. Form ID: 2341
+[2024-07-31 22:35:28] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:35:28] Unknown field name: hidden-1
+[2024-07-31 22:35:28] Unknown field name: _forminator_user_ip
+[2024-07-31 22:35:28] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:35:28] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:35:28] Started calculating chances.
+[2024-07-31 22:35:28] Finished calculating chances.
+[2024-07-31 22:35:28] Starting PDF generation.
+[2024-07-31 22:35:28] Starting PDF generation.
+[2024-07-31 22:35:41] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-35-28.pdf
+[2024-07-31 22:35:41] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-35-28.pdf
+[2024-07-31 22:35:41] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-35-28.pdf
+[2024-07-31 22:35:41] File access record added for user ID: 5
+[2024-07-31 22:35:41] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-35-28.pdf, Timestamp: 2024-07-31 15:35:41
+Form Data: []
+
+[2024-07-31 22:41:33] ------------------------------------------------------------
+[2024-07-31 22:41:33] Form submission received. Form ID: 2341
+[2024-07-31 22:41:33] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:41:33] Unknown field name: hidden-1
+[2024-07-31 22:41:33] Unknown field name: _forminator_user_ip
+[2024-07-31 22:41:33] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.33
+    [Science GPA] => 3.12
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:41:33] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:41:33] Started calculating chances.
+[2024-07-31 22:41:33] Finished calculating chances.
+[2024-07-31 22:41:33] Starting PDF generation.
+[2024-07-31 22:41:33] Starting PDF generation.
+[2024-07-31 22:41:46] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-41-33.pdf
+[2024-07-31 22:41:46] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-41-33.pdf
+[2024-07-31 22:41:46] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-41-33.pdf
+[2024-07-31 22:41:46] File access record added for user ID: 5
+[2024-07-31 22:41:46] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-41-33.pdf, Timestamp: 2024-07-31 15:41:46
+Form Data: []
+
+[2024-07-31 22:44:07] ------------------------------------------------------------
+[2024-07-31 22:44:07] Form submission received. Form ID: 2341
+[2024-07-31 22:44:07] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:44:07] Unknown field name: hidden-1
+[2024-07-31 22:44:07] Unknown field name: _forminator_user_ip
+[2024-07-31 22:44:07] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:44:07] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:44:07] Started calculating chances.
+[2024-07-31 22:44:07] Finished calculating chances.
+[2024-07-31 22:44:07] Starting PDF generation.
+[2024-07-31 22:44:07] Starting PDF generation.
+[2024-07-31 22:44:21] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-44-07.pdf
+[2024-07-31 22:44:21] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-44-07.pdf
+[2024-07-31 22:44:21] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-44-07.pdf
+[2024-07-31 22:44:21] File access record added for user ID: 5
+[2024-07-31 22:44:21] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-44-07.pdf, Timestamp: 2024-07-31 15:44:21
+Form Data: []
+
+[2024-07-31 22:49:29] ------------------------------------------------------------
+[2024-07-31 22:49:29] Form submission received. Form ID: 2341
+[2024-07-31 22:49:29] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:49:29] Unknown field name: hidden-1
+[2024-07-31 22:49:29] Unknown field name: _forminator_user_ip
+[2024-07-31 22:49:29] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:49:29] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:49:29] Started calculating chances.
+[2024-07-31 22:49:29] Finished calculating chances.
+[2024-07-31 22:49:29] Starting PDF generation.
+[2024-07-31 22:49:29] Starting PDF generation.
+[2024-07-31 22:49:43] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-49-29.pdf
+[2024-07-31 22:49:43] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-49-29.pdf
+[2024-07-31 22:49:43] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-49-29.pdf
+[2024-07-31 22:49:43] File access record added for user ID: 5
+[2024-07-31 22:49:43] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-49-29.pdf, Timestamp: 2024-07-31 15:49:43
+Form Data: []
+
+[2024-07-31 22:56:45] ------------------------------------------------------------
+[2024-07-31 22:56:45] Form submission received. Form ID: 2341
+[2024-07-31 22:56:45] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:56:45] Unknown field name: hidden-1
+[2024-07-31 22:56:45] Unknown field name: _forminator_user_ip
+[2024-07-31 22:56:45] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:56:45] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:56:45] Started calculating chances.
+[2024-07-31 22:56:45] Finished calculating chances.
+[2024-07-31 22:56:45] Starting PDF generation.
+[2024-07-31 22:56:45] Starting PDF generation.
+[2024-07-31 22:56:58] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-56-45.pdf
+[2024-07-31 22:56:58] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-56-45.pdf
+[2024-07-31 22:56:58] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-56-45.pdf
+[2024-07-31 22:56:58] File access record added for user ID: 5
+[2024-07-31 22:56:58] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-56-45.pdf, Timestamp: 2024-07-31 15:56:58
+Form Data: []
+
+[2024-07-31 22:58:53] ------------------------------------------------------------
+[2024-07-31 22:58:53] Form submission received. Form ID: 2341
+[2024-07-31 22:58:53] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 22:58:53] Unknown field name: hidden-1
+[2024-07-31 22:58:53] Unknown field name: _forminator_user_ip
+[2024-07-31 22:58:53] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 22:58:53] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 22:58:53] Started calculating chances.
+[2024-07-31 22:58:53] Finished calculating chances.
+[2024-07-31 22:58:53] Starting PDF generation.
+[2024-07-31 22:58:53] Starting PDF generation.
+[2024-07-31 22:59:07] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-58-53.pdf
+[2024-07-31 22:59:07] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-58-53.pdf
+[2024-07-31 22:59:07] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-58-53.pdf
+[2024-07-31 22:59:07] File access record added for user ID: 5
+[2024-07-31 22:59:07] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_22-58-53.pdf, Timestamp: 2024-07-31 15:59:07
+Form Data: []
+
+[2024-07-31 23:06:57] ------------------------------------------------------------
+[2024-07-31 23:06:57] Form submission received. Form ID: 2341
+[2024-07-31 23:06:57] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:06:57] Unknown field name: hidden-1
+[2024-07-31 23:06:57] Unknown field name: _forminator_user_ip
+[2024-07-31 23:06:57] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:06:57] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:06:57] Started calculating chances.
+[2024-07-31 23:06:57] Finished calculating chances.
+[2024-07-31 23:06:57] Starting PDF generation.
+[2024-07-31 23:06:57] Starting PDF generation.
+[2024-07-31 23:07:11] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-06-57.pdf
+[2024-07-31 23:07:11] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-06-57.pdf
+[2024-07-31 23:07:11] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-06-57.pdf
+[2024-07-31 23:07:11] File access record added for user ID: 5
+[2024-07-31 23:07:11] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-06-57.pdf, Timestamp: 2024-07-31 16:07:11
+Form Data: []
+
+[2024-07-31 23:08:02] ------------------------------------------------------------
+[2024-07-31 23:08:02] Form submission received. Form ID: 2341
+[2024-07-31 23:08:02] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:08:02] Unknown field name: hidden-1
+[2024-07-31 23:08:02] Unknown field name: _forminator_user_ip
+[2024-07-31 23:08:02] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:08:02] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:08:02] Started calculating chances.
+[2024-07-31 23:08:02] Finished calculating chances.
+[2024-07-31 23:08:02] Starting PDF generation.
+[2024-07-31 23:08:02] Starting PDF generation.
+[2024-07-31 23:08:16] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-08-02.pdf
+[2024-07-31 23:08:16] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-08-02.pdf
+[2024-07-31 23:08:16] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-08-02.pdf
+[2024-07-31 23:08:16] File access record added for user ID: 5
+[2024-07-31 23:08:16] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-08-02.pdf, Timestamp: 2024-07-31 16:08:16
+Form Data: []
+
+[2024-07-31 23:13:58] ------------------------------------------------------------
+[2024-07-31 23:13:58] Form submission received. Form ID: 2341
+[2024-07-31 23:13:58] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:13:58] Unknown field name: hidden-1
+[2024-07-31 23:13:58] Unknown field name: _forminator_user_ip
+[2024-07-31 23:13:58] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:13:58] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:13:58] Started calculating chances.
+[2024-07-31 23:13:58] Finished calculating chances.
+[2024-07-31 23:13:58] Starting PDF generation.
+[2024-07-31 23:13:58] Starting PDF generation.
+[2024-07-31 23:14:13] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-13-58.pdf
+[2024-07-31 23:14:13] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-13-58.pdf
+[2024-07-31 23:14:13] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-13-58.pdf
+[2024-07-31 23:14:13] File access record added for user ID: 5
+[2024-07-31 23:14:13] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-13-58.pdf, Timestamp: 2024-07-31 16:14:13
+Form Data: []
+
+[2024-07-31 23:18:55] ------------------------------------------------------------
+[2024-07-31 23:18:55] Form submission received. Form ID: 2341
+[2024-07-31 23:18:55] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:18:55] Unknown field name: hidden-1
+[2024-07-31 23:18:55] Unknown field name: _forminator_user_ip
+[2024-07-31 23:18:55] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:18:55] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:18:55] Started calculating chances.
+[2024-07-31 23:18:55] Finished calculating chances.
+[2024-07-31 23:18:55] Starting PDF generation.
+[2024-07-31 23:18:55] Starting PDF generation.
+[2024-07-31 23:19:12] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-18-55.pdf
+[2024-07-31 23:19:12] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-18-55.pdf
+[2024-07-31 23:19:12] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-18-55.pdf
+[2024-07-31 23:19:12] File access record added for user ID: 5
+[2024-07-31 23:19:12] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-18-55.pdf, Timestamp: 2024-07-31 16:19:12
+Form Data: []
+
+[2024-07-31 23:21:03] ------------------------------------------------------------
+[2024-07-31 23:21:03] Form submission received. Form ID: 2341
+[2024-07-31 23:21:03] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:21:03] Unknown field name: hidden-1
+[2024-07-31 23:21:03] Unknown field name: _forminator_user_ip
+[2024-07-31 23:21:03] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:21:03] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:21:03] Started calculating chances.
+[2024-07-31 23:21:03] Finished calculating chances.
+[2024-07-31 23:21:03] Starting PDF generation.
+[2024-07-31 23:21:03] Starting PDF generation.
+[2024-07-31 23:21:19] ------------------------------------------------------------
+[2024-07-31 23:21:19] Form submission received. Form ID: 2341
+[2024-07-31 23:21:19] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:21:19] Unknown field name: hidden-1
+[2024-07-31 23:21:19] Unknown field name: _forminator_user_ip
+[2024-07-31 23:21:19] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:21:19] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:21:19] Started calculating chances.
+[2024-07-31 23:21:19] Finished calculating chances.
+[2024-07-31 23:21:19] Starting PDF generation.
+[2024-07-31 23:21:19] Starting PDF generation.
+[2024-07-31 23:22:31] ------------------------------------------------------------
+[2024-07-31 23:22:31] Form submission received. Form ID: 2341
+[2024-07-31 23:22:31] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:22:31] Unknown field name: hidden-1
+[2024-07-31 23:22:31] Unknown field name: _forminator_user_ip
+[2024-07-31 23:22:31] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:22:31] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:22:31] Started calculating chances.
+[2024-07-31 23:22:31] Finished calculating chances.
+[2024-07-31 23:22:31] Starting PDF generation.
+[2024-07-31 23:22:31] Starting PDF generation.
+[2024-07-31 23:22:53] ------------------------------------------------------------
+[2024-07-31 23:22:53] Form submission received. Form ID: 2341
+[2024-07-31 23:22:53] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:22:53] Unknown field name: hidden-1
+[2024-07-31 23:22:53] Unknown field name: _forminator_user_ip
+[2024-07-31 23:22:53] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:22:53] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:22:53] Started calculating chances.
+[2024-07-31 23:22:53] Finished calculating chances.
+[2024-07-31 23:22:53] Starting PDF generation.
+[2024-07-31 23:22:53] Starting PDF generation.
+[2024-07-31 23:23:36] ------------------------------------------------------------
+[2024-07-31 23:23:36] Form submission received. Form ID: 2341
+[2024-07-31 23:23:36] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:23:36] Unknown field name: hidden-1
+[2024-07-31 23:23:36] Unknown field name: _forminator_user_ip
+[2024-07-31 23:23:36] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:23:36] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:23:36] Started calculating chances.
+[2024-07-31 23:23:36] Finished calculating chances.
+[2024-07-31 23:23:36] Starting PDF generation.
+[2024-07-31 23:23:36] Starting PDF generation.
+[2024-07-31 23:24:02] ------------------------------------------------------------
+[2024-07-31 23:24:02] Form submission received. Form ID: 2341
+[2024-07-31 23:24:02] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:24:02] Unknown field name: hidden-1
+[2024-07-31 23:24:02] Unknown field name: _forminator_user_ip
+[2024-07-31 23:24:02] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 3.00
+    [Science GPA] => 3.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:24:02] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:24:02] Started calculating chances.
+[2024-07-31 23:24:02] Finished calculating chances.
+[2024-07-31 23:24:02] Starting PDF generation.
+[2024-07-31 23:24:02] Starting PDF generation.
+[2024-07-31 23:25:22] ------------------------------------------------------------
+[2024-07-31 23:25:22] Form submission received. Form ID: 2341
+[2024-07-31 23:25:22] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:25:22] Unknown field name: hidden-1
+[2024-07-31 23:25:22] Unknown field name: _forminator_user_ip
+[2024-07-31 23:25:22] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:25:22] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:25:22] Started calculating chances.
+[2024-07-31 23:25:22] Finished calculating chances.
+[2024-07-31 23:25:22] Starting PDF generation.
+[2024-07-31 23:25:22] Starting PDF generation.
+[2024-07-31 23:29:27] ------------------------------------------------------------
+[2024-07-31 23:29:27] Form submission received. Form ID: 2341
+[2024-07-31 23:29:27] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:29:27] Unknown field name: hidden-1
+[2024-07-31 23:29:27] Unknown field name: _forminator_user_ip
+[2024-07-31 23:29:27] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:29:27] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:29:27] Started calculating chances.
+[2024-07-31 23:29:27] Finished calculating chances.
+[2024-07-31 23:29:27] Starting PDF generation.
+[2024-07-31 23:29:27] Starting PDF generation.
+[2024-07-31 23:29:41] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-29-27.pdf
+[2024-07-31 23:29:41] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-29-27.pdf
+[2024-07-31 23:29:41] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-29-27.pdf
+[2024-07-31 23:29:41] File access record added for user ID: 5
+[2024-07-31 23:29:41] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-29-27.pdf, Timestamp: 2024-07-31 16:29:41
+Form Data: []
+
+[2024-07-31 23:30:22] ------------------------------------------------------------
+[2024-07-31 23:30:22] Form submission received. Form ID: 2341
+[2024-07-31 23:30:22] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:30:22] Unknown field name: hidden-1
+[2024-07-31 23:30:22] Unknown field name: _forminator_user_ip
+[2024-07-31 23:30:22] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:30:22] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:30:22] Started calculating chances.
+[2024-07-31 23:30:22] Finished calculating chances.
+[2024-07-31 23:30:22] Starting PDF generation.
+[2024-07-31 23:30:22] Starting PDF generation.
+[2024-07-31 23:30:36] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-30-22.pdf
+[2024-07-31 23:30:36] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-30-22.pdf
+[2024-07-31 23:30:36] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-30-22.pdf
+[2024-07-31 23:30:36] File access record added for user ID: 5
+[2024-07-31 23:30:36] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-30-22.pdf, Timestamp: 2024-07-31 16:30:36
+Form Data: []
+
+[2024-07-31 23:33:19] ------------------------------------------------------------
+[2024-07-31 23:33:19] Form submission received. Form ID: 2341
+[2024-07-31 23:33:19] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:33:19] Unknown field name: hidden-1
+[2024-07-31 23:33:19] Unknown field name: _forminator_user_ip
+[2024-07-31 23:33:19] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:33:19] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:33:19] Started calculating chances.
+[2024-07-31 23:33:19] Finished calculating chances.
+[2024-07-31 23:33:19] Starting PDF generation.
+[2024-07-31 23:33:19] Starting PDF generation.
+[2024-07-31 23:33:36] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-33-19.pdf
+[2024-07-31 23:33:36] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-33-19.pdf
+[2024-07-31 23:33:36] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-33-19.pdf
+[2024-07-31 23:33:36] File access record added for user ID: 5
+[2024-07-31 23:33:36] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-33-19.pdf, Timestamp: 2024-07-31 16:33:36
+Form Data: []
+
+[2024-07-31 23:46:21] ------------------------------------------------------------
+[2024-07-31 23:46:21] Form submission received. Form ID: 2341
+[2024-07-31 23:46:21] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-07-31 23:46:21] Unknown field name: hidden-1
+[2024-07-31 23:46:21] Unknown field name: _forminator_user_ip
+[2024-07-31 23:46:21] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-07-31 23:46:21] Data retrieved from custom table. Number of rows: 71
+[2024-07-31 23:46:21] Started calculating chances.
+[2024-07-31 23:46:21] Finished calculating chances.
+[2024-07-31 23:46:21] Starting PDF generation.
+[2024-07-31 23:46:21] Starting PDF generation.
+[2024-07-31 23:46:35] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-46-21.pdf
+[2024-07-31 23:46:35] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-46-21.pdf
+[2024-07-31 23:46:35] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-46-21.pdf
+[2024-07-31 23:46:35] File access record added for user ID: 5
+[2024-07-31 23:46:35] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-07-31_23-46-21.pdf, Timestamp: 2024-07-31 16:46:35
+Form Data: []
+
+[2024-08-01 00:02:51] ------------------------------------------------------------
+[2024-08-01 00:02:51] Form submission received. Form ID: 2341
+[2024-08-01 00:02:51] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:02:51] Unknown field name: hidden-1
+[2024-08-01 00:02:51] Unknown field name: _forminator_user_ip
+[2024-08-01 00:02:51] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:02:51] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:02:51] Started calculating chances.
+[2024-08-01 00:02:51] Finished calculating chances.
+[2024-08-01 00:02:51] Starting PDF generation.
+[2024-08-01 00:02:51] Starting PDF generation.
+[2024-08-01 00:03:05] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-02-51.pdf
+[2024-08-01 00:03:05] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-02-51.pdf
+[2024-08-01 00:03:05] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-02-51.pdf
+[2024-08-01 00:03:05] File access record added for user ID: 5
+[2024-08-01 00:03:05] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-02-51.pdf, Timestamp: 2024-07-31 17:03:05
+Form Data: []
+
+[2024-08-01 00:04:22] ------------------------------------------------------------
+[2024-08-01 00:04:22] Form submission received. Form ID: 2341
+[2024-08-01 00:04:22] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:04:22] Unknown field name: hidden-1
+[2024-08-01 00:04:22] Unknown field name: _forminator_user_ip
+[2024-08-01 00:04:22] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:04:22] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:04:22] Started calculating chances.
+[2024-08-01 00:04:22] Finished calculating chances.
+[2024-08-01 00:04:22] Starting PDF generation.
+[2024-08-01 00:04:22] Starting PDF generation.
+[2024-08-01 00:04:36] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-04-22.pdf
+[2024-08-01 00:04:36] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-04-22.pdf
+[2024-08-01 00:04:36] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-04-22.pdf
+[2024-08-01 00:04:36] File access record added for user ID: 5
+[2024-08-01 00:04:36] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-04-22.pdf, Timestamp: 2024-07-31 17:04:36
+Form Data: []
+
+[2024-08-01 00:08:02] ------------------------------------------------------------
+[2024-08-01 00:08:02] Form submission received. Form ID: 2341
+[2024-08-01 00:08:02] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:08:02] Unknown field name: hidden-1
+[2024-08-01 00:08:02] Unknown field name: _forminator_user_ip
+[2024-08-01 00:08:02] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:08:02] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:08:02] Started calculating chances.
+[2024-08-01 00:08:02] Finished calculating chances.
+[2024-08-01 00:08:02] Starting PDF generation.
+[2024-08-01 00:08:02] Starting PDF generation.
+[2024-08-01 00:08:16] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-08-02.pdf
+[2024-08-01 00:08:16] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-08-02.pdf
+[2024-08-01 00:08:16] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-08-02.pdf
+[2024-08-01 00:08:16] File access record added for user ID: 5
+[2024-08-01 00:08:16] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-08-02.pdf, Timestamp: 2024-07-31 17:08:16
+Form Data: []
+
+[2024-08-01 00:12:22] ------------------------------------------------------------
+[2024-08-01 00:12:22] Form submission received. Form ID: 2341
+[2024-08-01 00:12:22] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:12:22] Unknown field name: hidden-1
+[2024-08-01 00:12:22] Unknown field name: _forminator_user_ip
+[2024-08-01 00:12:22] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:12:22] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:12:22] Started calculating chances.
+[2024-08-01 00:12:22] Finished calculating chances.
+[2024-08-01 00:12:22] Starting PDF generation.
+[2024-08-01 00:12:22] Starting PDF generation.
+[2024-08-01 00:12:35] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-12-22.pdf
+[2024-08-01 00:12:35] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-12-22.pdf
+[2024-08-01 00:12:35] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-12-22.pdf
+[2024-08-01 00:12:35] File access record added for user ID: 5
+[2024-08-01 00:12:35] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-12-22.pdf, Timestamp: 2024-07-31 17:12:35
+Form Data: []
+
+[2024-08-01 00:14:30] ------------------------------------------------------------
+[2024-08-01 00:14:30] Form submission received. Form ID: 2341
+[2024-08-01 00:14:30] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:14:30] Unknown field name: hidden-1
+[2024-08-01 00:14:30] Unknown field name: _forminator_user_ip
+[2024-08-01 00:14:30] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:14:30] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:14:30] Started calculating chances.
+[2024-08-01 00:14:30] Finished calculating chances.
+[2024-08-01 00:14:30] Starting PDF generation.
+[2024-08-01 00:14:30] Starting PDF generation.
+[2024-08-01 00:14:44] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-14-30.pdf
+[2024-08-01 00:14:44] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-14-30.pdf
+[2024-08-01 00:14:44] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-14-30.pdf
+[2024-08-01 00:14:44] File access record added for user ID: 5
+[2024-08-01 00:14:44] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-14-30.pdf, Timestamp: 2024-07-31 17:14:44
+Form Data: []
+
+[2024-08-01 00:16:23] ------------------------------------------------------------
+[2024-08-01 00:16:23] Form submission received. Form ID: 2341
+[2024-08-01 00:16:23] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:16:23] Unknown field name: hidden-1
+[2024-08-01 00:16:23] Unknown field name: _forminator_user_ip
+[2024-08-01 00:16:23] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:16:23] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:16:23] Started calculating chances.
+[2024-08-01 00:16:23] Finished calculating chances.
+[2024-08-01 00:16:23] Starting PDF generation.
+[2024-08-01 00:16:23] Starting PDF generation.
+[2024-08-01 00:16:37] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-16-23.pdf
+[2024-08-01 00:16:37] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-16-23.pdf
+[2024-08-01 00:16:37] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-16-23.pdf
+[2024-08-01 00:16:37] File access record added for user ID: 5
+[2024-08-01 00:16:37] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-16-23.pdf, Timestamp: 2024-07-31 17:16:37
+Form Data: []
+
+[2024-08-01 00:19:03] ------------------------------------------------------------
+[2024-08-01 00:19:03] Form submission received. Form ID: 2341
+[2024-08-01 00:19:03] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:19:03] Unknown field name: hidden-1
+[2024-08-01 00:19:03] Unknown field name: _forminator_user_ip
+[2024-08-01 00:19:03] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:19:03] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:19:03] Started calculating chances.
+[2024-08-01 00:19:03] Finished calculating chances.
+[2024-08-01 00:19:03] Starting PDF generation.
+[2024-08-01 00:19:03] Starting PDF generation.
+[2024-08-01 00:19:16] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-19-03.pdf
+[2024-08-01 00:19:16] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-19-03.pdf
+[2024-08-01 00:19:16] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-19-03.pdf
+[2024-08-01 00:19:16] File access record added for user ID: 5
+[2024-08-01 00:19:16] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-19-03.pdf, Timestamp: 2024-07-31 17:19:16
+Form Data: []
+
+[2024-08-01 00:23:19] ------------------------------------------------------------
+[2024-08-01 00:23:19] Form submission received. Form ID: 2341
+[2024-08-01 00:23:19] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:23:19] Unknown field name: hidden-1
+[2024-08-01 00:23:19] Unknown field name: _forminator_user_ip
+[2024-08-01 00:23:19] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:23:19] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:23:19] Started calculating chances.
+[2024-08-01 00:23:19] Finished calculating chances.
+[2024-08-01 00:23:19] Starting PDF generation.
+[2024-08-01 00:23:19] Starting PDF generation.
+[2024-08-01 00:23:33] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-23-19.pdf
+[2024-08-01 00:23:33] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-23-19.pdf
+[2024-08-01 00:23:33] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-23-19.pdf
+[2024-08-01 00:23:33] File access record added for user ID: 5
+[2024-08-01 00:23:33] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-23-19.pdf, Timestamp: 2024-07-31 17:23:33
+Form Data: []
+
+[2024-08-01 00:24:57] ------------------------------------------------------------
+[2024-08-01 00:24:57] Form submission received. Form ID: 2341
+[2024-08-01 00:24:57] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:24:57] Unknown field name: hidden-1
+[2024-08-01 00:24:57] Unknown field name: _forminator_user_ip
+[2024-08-01 00:24:57] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:24:57] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:24:57] Started calculating chances.
+[2024-08-01 00:24:57] Finished calculating chances.
+[2024-08-01 00:24:57] Starting PDF generation.
+[2024-08-01 00:24:57] Starting PDF generation.
+[2024-08-01 00:25:12] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-24-57.pdf
+[2024-08-01 00:25:12] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-24-57.pdf
+[2024-08-01 00:25:12] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-24-57.pdf
+[2024-08-01 00:25:12] File access record added for user ID: 5
+[2024-08-01 00:25:12] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-24-57.pdf, Timestamp: 2024-07-31 17:25:12
+Form Data: []
+
+[2024-08-01 00:28:31] ------------------------------------------------------------
+[2024-08-01 00:28:31] Form submission received. Form ID: 2341
+[2024-08-01 00:28:31] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:28:31] Unknown field name: hidden-1
+[2024-08-01 00:28:31] Unknown field name: _forminator_user_ip
+[2024-08-01 00:28:31] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:28:31] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:28:31] Started calculating chances.
+[2024-08-01 00:28:31] Finished calculating chances.
+[2024-08-01 00:28:31] Starting PDF generation.
+[2024-08-01 00:28:31] Starting PDF generation.
+[2024-08-01 00:28:46] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-28-31.pdf
+[2024-08-01 00:28:46] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-28-31.pdf
+[2024-08-01 00:28:46] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-28-31.pdf
+[2024-08-01 00:28:46] File access record added for user ID: 5
+[2024-08-01 00:28:46] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-28-31.pdf, Timestamp: 2024-07-31 17:28:46
+Form Data: []
+
+[2024-08-01 00:30:20] ------------------------------------------------------------
+[2024-08-01 00:30:20] Form submission received. Form ID: 2341
+[2024-08-01 00:30:20] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:30:20] Unknown field name: hidden-1
+[2024-08-01 00:30:20] Unknown field name: _forminator_user_ip
+[2024-08-01 00:30:20] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:30:20] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:30:20] Started calculating chances.
+[2024-08-01 00:30:20] Finished calculating chances.
+[2024-08-01 00:30:20] Starting PDF generation.
+[2024-08-01 00:30:20] Starting PDF generation.
+[2024-08-01 00:30:34] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-30-20.pdf
+[2024-08-01 00:30:34] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-30-20.pdf
+[2024-08-01 00:30:34] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-30-20.pdf
+[2024-08-01 00:30:34] File access record added for user ID: 5
+[2024-08-01 00:30:34] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-30-20.pdf, Timestamp: 2024-07-31 17:30:34
+Form Data: []
+
+[2024-08-01 00:31:12] ------------------------------------------------------------
+[2024-08-01 00:31:12] Form submission received. Form ID: 2341
+[2024-08-01 00:31:12] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:31:12] Unknown field name: hidden-1
+[2024-08-01 00:31:12] Unknown field name: _forminator_user_ip
+[2024-08-01 00:31:12] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:31:12] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:31:12] Started calculating chances.
+[2024-08-01 00:31:12] Finished calculating chances.
+[2024-08-01 00:31:12] Starting PDF generation.
+[2024-08-01 00:31:12] Starting PDF generation.
+[2024-08-01 00:31:27] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-31-12.pdf
+[2024-08-01 00:31:27] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-31-12.pdf
+[2024-08-01 00:31:27] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-31-12.pdf
+[2024-08-01 00:31:27] File access record added for user ID: 5
+[2024-08-01 00:31:27] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-31-12.pdf, Timestamp: 2024-07-31 17:31:27
+Form Data: []
+
+[2024-08-01 00:36:48] ------------------------------------------------------------
+[2024-08-01 00:36:48] Form submission received. Form ID: 2341
+[2024-08-01 00:36:48] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:36:48] Unknown field name: hidden-1
+[2024-08-01 00:36:48] Unknown field name: _forminator_user_ip
+[2024-08-01 00:36:48] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:36:48] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:36:48] Started calculating chances.
+[2024-08-01 00:36:48] Finished calculating chances.
+[2024-08-01 00:36:48] Starting PDF generation.
+[2024-08-01 00:36:48] Starting PDF generation.
+[2024-08-01 00:37:02] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-36-48.pdf
+[2024-08-01 00:37:02] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-36-48.pdf
+[2024-08-01 00:37:02] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-36-48.pdf
+[2024-08-01 00:37:02] File access record added for user ID: 5
+[2024-08-01 00:37:02] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-36-48.pdf, Timestamp: 2024-07-31 17:37:02
+Form Data: []
+
+[2024-08-01 00:38:15] ------------------------------------------------------------
+[2024-08-01 00:38:15] Form submission received. Form ID: 2341
+[2024-08-01 00:38:15] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:38:15] Unknown field name: hidden-1
+[2024-08-01 00:38:15] Unknown field name: _forminator_user_ip
+[2024-08-01 00:38:15] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:38:15] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:38:15] Started calculating chances.
+[2024-08-01 00:38:15] Finished calculating chances.
+[2024-08-01 00:38:15] Starting PDF generation.
+[2024-08-01 00:38:15] Starting PDF generation.
+[2024-08-01 00:38:29] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-38-15.pdf
+[2024-08-01 00:38:29] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-38-15.pdf
+[2024-08-01 00:38:29] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-38-15.pdf
+[2024-08-01 00:38:30] File access record added for user ID: 5
+[2024-08-01 00:38:30] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-38-15.pdf, Timestamp: 2024-07-31 17:38:30
+Form Data: []
+
+[2024-08-01 00:41:27] ------------------------------------------------------------
+[2024-08-01 00:41:27] Form submission received. Form ID: 2341
+[2024-08-01 00:41:27] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:41:27] Unknown field name: hidden-1
+[2024-08-01 00:41:27] Unknown field name: _forminator_user_ip
+[2024-08-01 00:41:27] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:41:27] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:41:27] Started calculating chances.
+[2024-08-01 00:41:27] Finished calculating chances.
+[2024-08-01 00:41:27] Starting PDF generation.
+[2024-08-01 00:41:27] Starting PDF generation.
+[2024-08-01 00:41:41] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-41-27.pdf
+[2024-08-01 00:41:41] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-41-27.pdf
+[2024-08-01 00:41:41] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-41-27.pdf
+[2024-08-01 00:41:41] File access record added for user ID: 5
+[2024-08-01 00:41:41] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-41-27.pdf, Timestamp: 2024-07-31 17:41:41
+Form Data: []
+
+[2024-08-01 00:43:22] ------------------------------------------------------------
+[2024-08-01 00:43:22] Form submission received. Form ID: 2341
+[2024-08-01 00:43:22] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:43:22] Unknown field name: hidden-1
+[2024-08-01 00:43:22] Unknown field name: _forminator_user_ip
+[2024-08-01 00:43:22] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:43:22] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:43:22] Started calculating chances.
+[2024-08-01 00:43:22] Finished calculating chances.
+[2024-08-01 00:43:22] Starting PDF generation.
+[2024-08-01 00:43:22] Starting PDF generation.
+[2024-08-01 00:43:36] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-43-22.pdf
+[2024-08-01 00:43:36] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-43-22.pdf
+[2024-08-01 00:43:36] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-43-22.pdf
+[2024-08-01 00:43:36] File access record added for user ID: 5
+[2024-08-01 00:43:36] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-43-22.pdf, Timestamp: 2024-07-31 17:43:36
+Form Data: []
+
+[2024-08-01 00:50:18] ------------------------------------------------------------
+[2024-08-01 00:50:18] Form submission received. Form ID: 2341
+[2024-08-01 00:50:18] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:50:18] Unknown field name: hidden-1
+[2024-08-01 00:50:18] Unknown field name: _forminator_user_ip
+[2024-08-01 00:50:18] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:50:18] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:50:18] Started calculating chances.
+[2024-08-01 00:50:18] Finished calculating chances.
+[2024-08-01 00:50:18] Starting PDF generation.
+[2024-08-01 00:50:18] Starting PDF generation.
+[2024-08-01 00:50:32] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-50-18.pdf
+[2024-08-01 00:50:32] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-50-18.pdf
+[2024-08-01 00:50:32] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-50-18.pdf
+[2024-08-01 00:50:32] File access record added for user ID: 5
+[2024-08-01 00:50:32] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-50-18.pdf, Timestamp: 2024-07-31 17:50:32
+Form Data: []
+
+[2024-08-01 00:51:21] ------------------------------------------------------------
+[2024-08-01 00:51:21] Form submission received. Form ID: 2341
+[2024-08-01 00:51:21] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:51:21] Unknown field name: hidden-1
+[2024-08-01 00:51:21] Unknown field name: _forminator_user_ip
+[2024-08-01 00:51:21] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:51:21] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:51:21] Started calculating chances.
+[2024-08-01 00:51:21] Finished calculating chances.
+[2024-08-01 00:51:21] Starting PDF generation.
+[2024-08-01 00:51:21] Starting PDF generation.
+[2024-08-01 00:51:36] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-51-21.pdf
+[2024-08-01 00:51:36] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-51-21.pdf
+[2024-08-01 00:51:36] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-51-21.pdf
+[2024-08-01 00:51:36] File access record added for user ID: 5
+[2024-08-01 00:51:36] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-51-21.pdf, Timestamp: 2024-07-31 17:51:36
+Form Data: []
+
+[2024-08-01 00:53:48] ------------------------------------------------------------
+[2024-08-01 00:53:48] Form submission received. Form ID: 2341
+[2024-08-01 00:53:48] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:53:48] Unknown field name: hidden-1
+[2024-08-01 00:53:48] Unknown field name: _forminator_user_ip
+[2024-08-01 00:53:48] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:53:48] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:53:48] Started calculating chances.
+[2024-08-01 00:53:48] Finished calculating chances.
+[2024-08-01 00:53:48] Starting PDF generation.
+[2024-08-01 00:53:48] Starting PDF generation.
+[2024-08-01 00:54:02] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-53-48.pdf
+[2024-08-01 00:54:02] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-53-48.pdf
+[2024-08-01 00:54:02] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-53-48.pdf
+[2024-08-01 00:54:02] File access record added for user ID: 5
+[2024-08-01 00:54:02] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-53-48.pdf, Timestamp: 2024-07-31 17:54:02
+Form Data: []
+
+[2024-08-01 00:55:28] ------------------------------------------------------------
+[2024-08-01 00:55:28] Form submission received. Form ID: 2341
+[2024-08-01 00:55:28] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:55:28] Unknown field name: hidden-1
+[2024-08-01 00:55:28] Unknown field name: _forminator_user_ip
+[2024-08-01 00:55:28] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:55:28] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:55:28] Started calculating chances.
+[2024-08-01 00:55:28] Finished calculating chances.
+[2024-08-01 00:55:28] Starting PDF generation.
+[2024-08-01 00:55:28] Starting PDF generation.
+[2024-08-01 00:55:41] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-55-28.pdf
+[2024-08-01 00:55:41] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-55-28.pdf
+[2024-08-01 00:55:41] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-55-28.pdf
+[2024-08-01 00:55:41] File access record added for user ID: 5
+[2024-08-01 00:55:41] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-55-28.pdf, Timestamp: 2024-07-31 17:55:41
+Form Data: []
+
+[2024-08-01 00:56:14] ------------------------------------------------------------
+[2024-08-01 00:56:14] Form submission received. Form ID: 2341
+[2024-08-01 00:56:14] User ID: 5, Username: Test3@test.com, Email: Test3@test.com
+[2024-08-01 00:56:14] Unknown field name: hidden-1
+[2024-08-01 00:56:14] Unknown field name: _forminator_user_ip
+[2024-08-01 00:56:14] Extracted fields: Array
+(
+    [AA] => 
+    [DAT] => 
+    [PAT] => 
+    [TS] => 
+    [GPA] => 2.00
+    [Science GPA] => 2.00
+    [Shadowing] => 
+    [Shadow_Hours_Minimum] => 
+    [Letters_Of_Evaluation] => 
+    [Letters_Of_Evaluation Count] => 
+    [Strength of evaluation letter] => 
+)
+
+[2024-08-01 00:56:14] Data retrieved from custom table. Number of rows: 71
+[2024-08-01 00:56:14] Started calculating chances.
+[2024-08-01 00:56:14] Finished calculating chances.
+[2024-08-01 00:56:14] Starting PDF generation.
+[2024-08-01 00:56:14] Starting PDF generation.
+[2024-08-01 00:56:28] PDF saved to: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-56-14.pdf
+[2024-08-01 00:56:28] PDF file exists: /home/k0phg5t3rtgn/myWebsites/DentStats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-56-14.pdf
+[2024-08-01 00:56:28] PDF generated. URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-56-14.pdf
+[2024-08-01 00:56:28] File access record added for user ID: 5
+[2024-08-01 00:56:28] User ID: 5, Username: Test3@test.com, Action: Form Submission, Details: Generated PDF URL: https://dentstats.com/wp-content/uploads/Test3@test.com_2024-08-01_00-56-14.pdf, Timestamp: 2024-07-31 17:56:28
+Form Data: []
+

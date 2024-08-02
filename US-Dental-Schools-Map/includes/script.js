@@ -1,27 +1,41 @@
 jQuery(document).ready(function($) {
     const dots = $('.map-dot');
+    const schoolItems = $('.school-item');
     const popup = $('#map-popup');
-    let lastClickedDot = null;
+    let lastClickedElement = null;
 
-    dots.on('click', function(event) {
-        // Remove the 'clicked' class from the previously clicked dot, if any
-        if (lastClickedDot) {
-            lastClickedDot.removeClass('clicked');
+    function handleElementClick(element, isListItem) {
+        const locationId = element.data('location-id');
+        const elementPosition = element.offset();
+
+        if (!locationId) {
+            alert('Error: Location ID is not defined.');
+            return;
         }
 
-        // Add the 'clicked' class to the clicked dot
-        $(this).addClass('clicked');
-        lastClickedDot = $(this); // Remember the last clicked dot
+        // Remove 'clicked' and 'active' class from the last clicked element
+        if (lastClickedElement && lastClickedElement !== element) {
+            lastClickedElement.removeClass('clicked active');
+            lastClickedElement.find('.school-id').removeClass('active');
+        }
 
-        const locationId = $(this).data('location-id');
-        const dotPosition = $(this).offset();
-        fetchLocationData(locationId, dotPosition);
+        // Add 'clicked' and 'active' class to the current clicked element and its school-id
+        element.addClass('clicked active');
+        element.find('.school-id').addClass('active');
+        lastClickedElement = element;
 
-        // Stop event from propagating to document click handler
-        event.stopPropagation();
+        fetchLocationData(locationId, elementPosition, isListItem);
+    }
+
+    dots.on('click', function() {
+        handleElementClick($(this), false);
     });
 
-    function fetchLocationData(locationId, dotPosition) {
+    schoolItems.on('click', function() {
+        handleElementClick($(this), true);
+    });
+
+    function fetchLocationData(locationId, elementPosition, isListItem) {
         $.ajax({
             url: ajax_object.ajax_url,
             method: 'POST',
@@ -32,58 +46,60 @@ jQuery(document).ready(function($) {
             success: function(response) {
                 const data = JSON.parse(response);
                 if (!data.error) {
-                    displayPopup(data, dotPosition);
+                    displayPopup(data, elementPosition, isListItem);
                 } else {
-                    alert(data.error);
+                    alert('Error fetching location data: ' + data.error + '\nLocation ID: ' + data.location_id + '\nQuery: ' + data.query + '\nDB Error: ' + data.db_error);
                 }
+            },
+            error: function(xhr, status, error) {
+                alert('AJAX error: ' + error);
             }
         });
     }
 
-    function displayPopup(data, dotPosition) {
+    function displayPopup(data, elementPosition, isListItem) {
         popup.html(`
             <div>
-                <h3>${data.name}</h3>
-                <p>City: ${data.city}</p>
-                <p>State: ${data.state}</p>
-                <p>Website: <a href="${data.website}" target="_blank">${data.website}</a></p>
-                <p>Email: ${data.email}</p>
-                <p>Phone Number: ${data.phone_number}</p>
-                <p>Scores: ${data.scores}</p>
-                <p>GPA Min: ${data.gpa_min}</p>
+                <h4>${data.name ? data.name : 'N/A'}</h4>
+                <p>City: ${data.city ? data.city : 'N/A'}</p>
+                <p>State: ${data.state ? data.state : 'N/A'}</p>
+                <p>Website: ${data.website ? '<a href="' + data.website + '">' + data.website + '</a>' : 'N/A'}</p>
+                <p>Email: ${data.email ? data.email : 'N/A'}</p>
+                <p>Phone Number: ${data.phone_number ? data.phone_number : 'N/A'}</p>
             </div>
         `);
 
-        // Position the popup next to the dot
         const popupWidth = popup.outerWidth();
         const popupHeight = popup.outerHeight();
-        const mapContainer = $('.map-container');
+        let topPosition, leftPosition;
 
-        let topPosition = dotPosition.top - mapContainer.offset().top - popupHeight - 10; // Adjust 10 pixels above the dot
-        let leftPosition = dotPosition.left - mapContainer.offset().left + 10; // Adjust 10 pixels to the right of the dot
+        // Position the popup next to the list item
+        topPosition = elementPosition.top + 10; // Slight offset below the item
+        leftPosition = elementPosition.left + 10; // Slight offset to the right of the item
 
         // Adjust position if popup goes out of bounds
-        if (topPosition < 0) {
-            topPosition = dotPosition.top - mapContainer.offset().top + 40; // Show below the dot if above goes out of bounds
+        if (topPosition + popupHeight > $(window).height() + $(window).scrollTop()) {
+            topPosition = elementPosition.top - popupHeight - 10; // Show above the item if below goes out of bounds
         }
-        if (leftPosition + popupWidth > mapContainer.width()) {
-            leftPosition = dotPosition.left - mapContainer.offset().left - popupWidth - 10; // Show left of the dot if out of right bounds
+        if (leftPosition + popupWidth > $(window).width() + $(window).scrollLeft()) {
+            leftPosition = elementPosition.left - popupWidth - 10; // Show left of the item if out of right bounds
         }
 
         popup.css({
             display: 'block',
             top: topPosition + 'px',
             left: leftPosition + 'px'
-        });
+        }).appendTo('body'); // Ensure the popup is appended to the body to ensure proper positioning
     }
 
-    // Hide popup and reset dot color when clicking outside of it
+    // Hide popup and reset element color when clicking outside of it
     $(document).on('click', function(event) {
-        if (!$(event.target).closest('.map-dot, #map-popup').length) {
+        if (!$(event.target).closest('.map-dot, .school-item, #map-popup').length) {
             popup.hide();
-            if (lastClickedDot) {
-                lastClickedDot.removeClass('clicked');
-                lastClickedDot = null;
+            if (lastClickedElement) {
+                lastClickedElement.removeClass('clicked active');
+                lastClickedElement.find('.school-id').removeClass('active');
+                lastClickedElement = null;
             }
         }
     });
