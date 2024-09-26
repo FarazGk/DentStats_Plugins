@@ -1,2 +1,3 @@
-# wordpress_plugins
-Custom plugins for Wordpress
+# DentStats_Plugins
+Custom plugins for DentStats website
+DentStats.com
