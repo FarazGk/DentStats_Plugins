@@ -40,3 +40,105 @@
 ----------------------------------------------------------------
 [2024-07-26 10:12:22] Number of rows read: 71, Number of columns: 37
 ----------------------------------------------------------------
+[2024-08-02 12:18:45] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-08-02 12:18:50] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-08-02 12:18:59] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-08-02 12:18:59] Number of rows read: 71, Number of columns: 38
+----------------------------------------------------------------
+[2024-08-02 12:34:42] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-08-02 12:34:52] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-08-02 12:34:52] Number of rows read: 71, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-05 00:45:21] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-05 00:45:25] ERROR: Failed to delete table : Incorrect table name ''
+----------------------------------------------------------------
+[2024-09-05 00:45:46] Table j1rn_us-dental-schools-data created and populated from US-Dental-Schools-Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-05 00:45:46] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-05 00:48:53] Table j1rn_us-dental-schools-data deleted
+----------------------------------------------------------------
+[2024-09-05 00:48:55] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-09-05 00:49:04] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-05 00:49:04] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-13 09:48:13] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-13 09:48:40] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-09-13 09:48:49] Table j1rn_us_dental_schools_data created and populated from US_Dental_Schools_Data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-13 09:48:49] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-13 09:49:30] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-13 09:50:00] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-13 09:50:00] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-13 09:51:00] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-13 09:51:07] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-13 09:51:07] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-13 11:22:56] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-13 11:23:05] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-13 11:23:05] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-13 14:06:22] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-13 14:06:31] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-13 14:06:31] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-14 07:38:44] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-14 07:39:02] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-14 07:39:02] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-14 07:41:24] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-14 07:41:26] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-09-14 07:41:33] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-14 07:41:33] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-14 07:54:37] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-14 07:54:43] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-14 07:54:43] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-14 08:00:34] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-14 08:00:43] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-14 08:00:43] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-25 06:54:10] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-25 06:54:22] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-25 06:54:22] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------
+[2024-09-25 07:59:40] Table j1rn_us_dental_schools_data deleted
+----------------------------------------------------------------
+[2024-09-25 07:59:42] ERROR: No file uploaded or there was an upload error
+----------------------------------------------------------------
+[2024-09-25 07:59:51] Table j1rn_us_dental_schools_data created and populated from us_dental_schools_data.tsv in database i9382303_hsjv1
+----------------------------------------------------------------
+[2024-09-25 07:59:51] Number of rows read: 73, Number of columns: 38
+----------------------------------------------------------------

@@ -973,3 +973,1051 @@
 [2024-08-01 00:56:28] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-07-31 17:56:28
 ----------------------------------------------------------------
 
+[2024-08-02 09:42:28] Order ID: 2719
+[2024-08-02 09:42:28] Product ID: 1512
+[2024-08-02 09:42:28] Checking against Product ID: 1511
+[2024-08-02 09:42:28] Checking against Product ID: 1512
+[2024-08-02 09:42:28] Current Tokens for User ID 1 (Username: premiumvortex): -1
+[2024-08-02 09:42:28] Updated Tokens for User ID 1 (Username: premiumvortex): 2
+[2024-08-02 09:42:28] Updated usage count for Product ID: 1512
+[2024-08-02 09:42:28] User ID: 1, Username: premiumvortex, Type: product, ID: 1512, Timestamp: 2024-08-02 02:42:28
+----------------------------------------------------------------
+
+[2024-08-02 09:42:28] Checking against Product ID: 1550
+[2024-08-02 09:42:28] Product ID: 1511
+[2024-08-02 09:42:28] Checking against Product ID: 1511
+[2024-08-02 09:42:28] Current Tokens for User ID 1 (Username: premiumvortex): 2
+[2024-08-02 09:42:28] Updated Tokens for User ID 1 (Username: premiumvortex): 3
+[2024-08-02 09:42:28] Updated usage count for Product ID: 1511
+[2024-08-02 09:42:28] User ID: 1, Username: premiumvortex, Type: product, ID: 1511, Timestamp: 2024-08-02 02:42:28
+----------------------------------------------------------------
+
+[2024-08-02 09:42:28] Checking against Product ID: 1512
+[2024-08-02 09:42:28] Checking against Product ID: 1550
+[2024-08-02 09:42:28] Product ID: 1550
+[2024-08-02 09:42:28] Checking against Product ID: 1511
+[2024-08-02 09:42:28] Checking against Product ID: 1512
+[2024-08-02 09:42:28] Checking against Product ID: 1550
+[2024-08-02 09:42:28] Current Tokens for User ID 1 (Username: premiumvortex): 3
+[2024-08-02 09:42:28] Updated Tokens for User ID 1 (Username: premiumvortex): 9
+[2024-08-02 09:42:28] Updated usage count for Product ID: 1550
+[2024-08-02 09:42:28] User ID: 1, Username: premiumvortex, Type: product, ID: 1550, Timestamp: 2024-08-02 02:42:28
+----------------------------------------------------------------
+
+[2024-08-02 09:43:29] Form ID: 2341
+[2024-08-02 09:43:29] Checking against Form ID: 2341
+[2024-08-02 09:43:29] Current Tokens for User ID 1 (Username: premiumvortex): 9
+[2024-08-02 09:43:29] Updated Tokens for User ID 1 (Username: premiumvortex): 8
+[2024-08-02 09:43:29] Updated usage count for Form ID: 2341
+[2024-08-02 09:43:29] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-02 02:43:29
+----------------------------------------------------------------
+
+[2024-08-02 11:27:17] Order ID: 2812
+[2024-08-02 11:27:17] Product ID: 1550
+[2024-08-02 11:27:17] Checking against Product ID: 1511
+[2024-08-02 11:27:17] Checking against Product ID: 1512
+[2024-08-02 11:27:17] Checking against Product ID: 1550
+[2024-08-02 11:27:17] Current Tokens for User ID 5 (Username: Test3@test.com): -14
+[2024-08-02 11:27:17] Updated Tokens for User ID 5 (Username: Test3@test.com): -8
+[2024-08-02 11:27:17] Updated usage count for Product ID: 1550
+[2024-08-02 11:27:17] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-08-02 04:27:17
+----------------------------------------------------------------
+
+[2024-08-02 11:27:17] Product ID: 1512
+[2024-08-02 11:27:17] Checking against Product ID: 1511
+[2024-08-02 11:27:17] Checking against Product ID: 1512
+[2024-08-02 11:27:17] Current Tokens for User ID 5 (Username: Test3@test.com): -8
+[2024-08-02 11:27:17] Updated Tokens for User ID 5 (Username: Test3@test.com): -5
+[2024-08-02 11:27:17] Updated usage count for Product ID: 1512
+[2024-08-02 11:27:17] User ID: 5, Username: Test3@test.com, Type: product, ID: 1512, Timestamp: 2024-08-02 04:27:17
+----------------------------------------------------------------
+
+[2024-08-02 11:27:17] Checking against Product ID: 1550
+[2024-08-02 11:27:17] Product ID: 1511
+[2024-08-02 11:27:17] Checking against Product ID: 1511
+[2024-08-02 11:27:17] Current Tokens for User ID 5 (Username: Test3@test.com): -5
+[2024-08-02 11:27:17] Updated Tokens for User ID 5 (Username: Test3@test.com): -4
+[2024-08-02 11:27:17] Updated usage count for Product ID: 1511
+[2024-08-02 11:27:17] User ID: 5, Username: Test3@test.com, Type: product, ID: 1511, Timestamp: 2024-08-02 04:27:17
+----------------------------------------------------------------
+
+[2024-08-02 11:27:17] Checking against Product ID: 1512
+[2024-08-02 11:27:17] Checking against Product ID: 1550
+[2024-08-02 11:32:34] Order ID: 2813
+[2024-08-02 11:32:34] Product ID: 1550
+[2024-08-02 11:32:34] Checking against Product ID: 1511
+[2024-08-02 11:32:34] Checking against Product ID: 1512
+[2024-08-02 11:32:34] Checking against Product ID: 1550
+[2024-08-02 11:32:34] Current Tokens for User ID 5 (Username: Test3@test.com): -4
+[2024-08-02 11:32:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-02 11:32:34] Updated usage count for Product ID: 1550
+[2024-08-02 11:32:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1550, Timestamp: 2024-08-02 04:32:34
+----------------------------------------------------------------
+
+[2024-08-02 11:32:34] Product ID: 1512
+[2024-08-02 11:32:34] Checking against Product ID: 1511
+[2024-08-02 11:32:34] Checking against Product ID: 1512
+[2024-08-02 11:32:34] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-02 11:32:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-02 11:32:34] Updated usage count for Product ID: 1512
+[2024-08-02 11:32:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1512, Timestamp: 2024-08-02 04:32:34
+----------------------------------------------------------------
+
+[2024-08-02 11:32:34] Checking against Product ID: 1550
+[2024-08-02 11:32:34] Product ID: 1511
+[2024-08-02 11:32:34] Checking against Product ID: 1511
+[2024-08-02 11:32:34] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-02 11:32:34] Updated Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-08-02 11:32:34] Updated usage count for Product ID: 1511
+[2024-08-02 11:32:34] User ID: 5, Username: Test3@test.com, Type: product, ID: 1511, Timestamp: 2024-08-02 04:32:34
+----------------------------------------------------------------
+
+[2024-08-02 11:32:34] Checking against Product ID: 1512
+[2024-08-02 11:32:34] Checking against Product ID: 1550
+[2024-08-02 11:32:49] Form ID: 2341
+[2024-08-02 11:32:49] Checking against Form ID: 2341
+[2024-08-02 11:32:49] Current Tokens for User ID 5 (Username: Test3@test.com): 6
+[2024-08-02 11:32:49] Updated Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-02 11:32:49] Updated usage count for Form ID: 2341
+[2024-08-02 11:32:49] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 04:32:49
+----------------------------------------------------------------
+
+[2024-08-02 11:45:00] Form ID: 2341
+[2024-08-02 11:45:00] Checking against Form ID: 2341
+[2024-08-02 11:45:00] Current Tokens for User ID 5 (Username: Test3@test.com): 5
+[2024-08-02 11:45:00] Updated Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-08-02 11:45:00] Updated usage count for Form ID: 2341
+[2024-08-02 11:45:00] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 04:45:00
+----------------------------------------------------------------
+
+[2024-08-02 11:50:28] Form ID: 2341
+[2024-08-02 11:50:28] Checking against Form ID: 2341
+[2024-08-02 11:50:28] Current Tokens for User ID 5 (Username: Test3@test.com): 4
+[2024-08-02 11:50:28] Updated Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-08-02 11:50:28] Updated usage count for Form ID: 2341
+[2024-08-02 11:50:28] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 04:50:28
+----------------------------------------------------------------
+
+[2024-08-02 11:54:53] Form ID: 2341
+[2024-08-02 11:54:53] Checking against Form ID: 2341
+[2024-08-02 11:54:53] Current Tokens for User ID 5 (Username: Test3@test.com): 3
+[2024-08-02 11:54:53] Updated Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-02 11:54:53] Updated usage count for Form ID: 2341
+[2024-08-02 11:54:53] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 04:54:53
+----------------------------------------------------------------
+
+[2024-08-02 12:49:54] Form ID: 2341
+[2024-08-02 12:49:54] Checking against Form ID: 2341
+[2024-08-02 12:49:54] Current Tokens for User ID 5 (Username: Test3@test.com): 2
+[2024-08-02 12:49:54] Updated Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-08-02 12:49:54] Updated usage count for Form ID: 2341
+[2024-08-02 12:49:54] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 05:49:54
+----------------------------------------------------------------
+
+[2024-08-02 12:51:46] Form ID: 2341
+[2024-08-02 12:51:46] Checking against Form ID: 2341
+[2024-08-02 12:51:46] Current Tokens for User ID 5 (Username: Test3@test.com): 1
+[2024-08-02 12:51:46] Updated Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-08-02 12:51:46] Updated usage count for Form ID: 2341
+[2024-08-02 12:51:46] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 05:51:46
+----------------------------------------------------------------
+
+[2024-08-02 12:59:59] Form ID: 2341
+[2024-08-02 12:59:59] Checking against Form ID: 2341
+[2024-08-02 12:59:59] Current Tokens for User ID 5 (Username: Test3@test.com): 0
+[2024-08-02 12:59:59] Updated Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-08-02 12:59:59] Updated usage count for Form ID: 2341
+[2024-08-02 12:59:59] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 05:59:59
+----------------------------------------------------------------
+
+[2024-08-02 13:03:37] Form ID: 2341
+[2024-08-02 13:03:37] Checking against Form ID: 2341
+[2024-08-02 13:03:37] Current Tokens for User ID 5 (Username: Test3@test.com): -1
+[2024-08-02 13:03:37] Updated Tokens for User ID 5 (Username: Test3@test.com): -2
+[2024-08-02 13:03:37] Updated usage count for Form ID: 2341
+[2024-08-02 13:03:37] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 06:03:37
+----------------------------------------------------------------
+
+[2024-08-02 13:05:58] Form ID: 2341
+[2024-08-02 13:05:58] Checking against Form ID: 2341
+[2024-08-02 13:05:58] Current Tokens for User ID 5 (Username: Test3@test.com): -2
+[2024-08-02 13:05:58] Updated Tokens for User ID 5 (Username: Test3@test.com): -3
+[2024-08-02 13:05:58] Updated usage count for Form ID: 2341
+[2024-08-02 13:05:58] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 06:05:58
+----------------------------------------------------------------
+
+[2024-08-02 13:07:00] Form ID: 2341
+[2024-08-02 13:07:00] Checking against Form ID: 2341
+[2024-08-02 13:07:00] Current Tokens for User ID 5 (Username: Test3@test.com): -3
+[2024-08-02 13:07:00] Updated Tokens for User ID 5 (Username: Test3@test.com): -4
+[2024-08-02 13:07:00] Updated usage count for Form ID: 2341
+[2024-08-02 13:07:00] User ID: 5, Username: Test3@test.com, Type: form, ID: 2341, Timestamp: 2024-08-02 06:07:00
+----------------------------------------------------------------
+
+[2024-08-05 10:07:40] Order ID: 2845
+[2024-08-05 10:07:40] Product ID: 1550
+[2024-08-05 10:07:40] Checking against Product ID: 1511
+[2024-08-05 10:07:40] Checking against Product ID: 1512
+[2024-08-05 10:07:40] Checking against Product ID: 1550
+[2024-08-05 10:07:40] Current Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-08-05 10:07:40] Updated Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-08-05 10:07:40] Updated usage count for Product ID: 1550
+[2024-08-05 10:07:40] User ID: 4, Username: Test2@test.com, Type: product, ID: 1550, Timestamp: 2024-08-05 03:07:40
+----------------------------------------------------------------
+
+[2024-08-05 10:07:40] Product ID: 1511
+[2024-08-05 10:07:40] Checking against Product ID: 1511
+[2024-08-05 10:07:40] Current Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-08-05 10:07:40] Updated Tokens for User ID 4 (Username: Test2@test.com): 11
+[2024-08-05 10:07:40] Updated usage count for Product ID: 1511
+[2024-08-05 10:07:40] User ID: 4, Username: Test2@test.com, Type: product, ID: 1511, Timestamp: 2024-08-05 03:07:40
+----------------------------------------------------------------
+
+[2024-08-05 10:07:40] Checking against Product ID: 1512
+[2024-08-05 10:07:40] Checking against Product ID: 1550
+[2024-08-05 10:10:05] Order ID: 2846
+[2024-08-05 10:10:05] Product ID: 1511
+[2024-08-05 10:10:05] Checking against Product ID: 1511
+[2024-08-05 10:10:05] Current Tokens for User ID 4 (Username: Test2@test.com): 11
+[2024-08-05 10:10:05] Updated Tokens for User ID 4 (Username: Test2@test.com): 12
+[2024-08-05 10:10:05] Updated usage count for Product ID: 1511
+[2024-08-05 10:10:05] User ID: 4, Username: Test2@test.com, Type: product, ID: 1511, Timestamp: 2024-08-05 03:10:05
+----------------------------------------------------------------
+
+[2024-08-05 10:10:05] Checking against Product ID: 1512
+[2024-08-05 10:10:05] Checking against Product ID: 1550
+[2024-08-05 23:55:40] Order ID: 2974
+[2024-08-05 23:55:40] Product ID: 1511
+[2024-08-05 23:55:40] Checking against Product ID: 1511
+[2024-08-05 23:55:40] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-08-05 23:55:40] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 1
+[2024-08-05 23:55:40] Updated usage count for Product ID: 1511
+[2024-08-05 23:55:40] User ID: 6, Username: Arian.raz@gmail.com, Type: product, ID: 1511, Timestamp: 2024-08-05 16:55:40
+----------------------------------------------------------------
+
+[2024-08-05 23:55:40] Checking against Product ID: 1512
+[2024-08-05 23:55:40] Checking against Product ID: 1550
+[2024-08-05 23:57:54] Form ID: 2341
+[2024-08-05 23:57:54] Checking against Form ID: 2341
+[2024-08-05 23:57:54] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 1
+[2024-08-05 23:57:54] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-08-05 23:57:54] Updated usage count for Form ID: 2341
+[2024-08-05 23:57:54] User ID: 6, Username: Arian.raz@gmail.com, Type: form, ID: 2341, Timestamp: 2024-08-05 16:57:54
+----------------------------------------------------------------
+
+[2024-08-10 02:10:25] Order ID: 2975
+[2024-08-10 02:10:25] Product ID: 1511
+[2024-08-10 02:10:25] Checking against Product ID: 1511
+[2024-08-10 02:10:25] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-08-10 02:10:25] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 1
+[2024-08-10 02:10:25] Updated usage count for Product ID: 1511
+[2024-08-10 02:10:25] User ID: 6, Username: Arian.raz@gmail.com, Type: product, ID: 1511, Timestamp: 2024-08-09 19:10:25
+----------------------------------------------------------------
+
+[2024-08-10 02:10:25] Checking against Product ID: 1512
+[2024-08-10 02:10:25] Checking against Product ID: 1550
+[2024-08-10 02:15:49] Form ID: 2341
+[2024-08-10 02:15:49] Checking against Form ID: 2341
+[2024-08-10 02:15:49] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 1
+[2024-08-10 02:15:49] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-08-10 02:15:49] Updated usage count for Form ID: 2341
+[2024-08-10 02:15:49] User ID: 6, Username: Arian.raz@gmail.com, Type: form, ID: 2341, Timestamp: 2024-08-09 19:15:49
+----------------------------------------------------------------
+
+[2024-08-12 16:40:31] Order ID: 2984
+[2024-08-12 16:40:31] Product ID: 1512
+[2024-08-12 16:40:31] Checking against Product ID: 1511
+[2024-08-12 16:40:31] Checking against Product ID: 1512
+[2024-08-12 16:40:31] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 0
+[2024-08-12 16:40:31] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 3
+[2024-08-12 16:40:31] Updated usage count for Product ID: 1512
+[2024-08-12 16:40:31] User ID: 6, Username: Arian.raz@gmail.com, Type: product, ID: 1512, Timestamp: 2024-08-12 09:40:31
+----------------------------------------------------------------
+
+[2024-08-12 16:40:31] Checking against Product ID: 1550
+[2024-08-12 16:50:18] Form ID: 2341
+[2024-08-12 16:50:18] Checking against Form ID: 2341
+[2024-08-12 16:50:18] Current Tokens for User ID 6 (Username: Arian.raz@gmail.com): 3
+[2024-08-12 16:50:18] Updated Tokens for User ID 6 (Username: Arian.raz@gmail.com): 2
+[2024-08-12 16:50:18] Updated usage count for Form ID: 2341
+[2024-08-12 16:50:18] User ID: 6, Username: Arian.raz@gmail.com, Type: form, ID: 2341, Timestamp: 2024-08-12 09:50:18
+----------------------------------------------------------------
+
+[2024-08-16 09:24:43] Form ID: 2341
+[2024-08-16 09:24:43] Checking against Form ID: 2341
+[2024-08-16 09:24:43] Current Tokens for User ID 1 (Username: premiumvortex): 8
+[2024-08-16 09:24:43] Updated Tokens for User ID 1 (Username: premiumvortex): 7
+[2024-08-16 09:24:43] Updated usage count for Form ID: 2341
+[2024-08-16 09:24:43] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-16 02:24:43
+----------------------------------------------------------------
+
+[2024-08-16 21:31:38] Form ID: 2341
+[2024-08-16 21:31:38] Checking against Form ID: 2341
+[2024-08-16 21:31:38] Current Tokens for User ID 4 (Username: Test2@test.com): 12
+[2024-08-16 21:31:38] Updated Tokens for User ID 4 (Username: Test2@test.com): 11
+[2024-08-16 21:31:38] Updated usage count for Form ID: 2341
+[2024-08-16 21:31:38] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-08-16 14:31:38
+----------------------------------------------------------------
+
+[2024-08-21 10:59:26] Form ID: 2341
+[2024-08-21 10:59:26] Checking against Form ID: 2341
+[2024-08-21 10:59:26] Current Tokens for User ID 1 (Username: premiumvortex): 7
+[2024-08-21 10:59:26] Updated Tokens for User ID 1 (Username: premiumvortex): 6
+[2024-08-21 10:59:26] Updated usage count for Form ID: 2341
+[2024-08-21 10:59:26] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 03:59:26
+----------------------------------------------------------------
+
+[2024-08-21 11:02:14] Form ID: 2341
+[2024-08-21 11:02:14] Checking against Form ID: 2341
+[2024-08-21 11:02:14] Current Tokens for User ID 1 (Username: premiumvortex): 6
+[2024-08-21 11:02:14] Updated Tokens for User ID 1 (Username: premiumvortex): 5
+[2024-08-21 11:02:14] Updated usage count for Form ID: 2341
+[2024-08-21 11:02:14] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 04:02:14
+----------------------------------------------------------------
+
+[2024-08-21 11:03:25] Form ID: 2341
+[2024-08-21 11:03:25] Checking against Form ID: 2341
+[2024-08-21 11:03:25] Current Tokens for User ID 1 (Username: premiumvortex): 5
+[2024-08-21 11:03:25] Updated Tokens for User ID 1 (Username: premiumvortex): 4
+[2024-08-21 11:03:25] Updated usage count for Form ID: 2341
+[2024-08-21 11:03:25] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 04:03:25
+----------------------------------------------------------------
+
+[2024-08-21 11:04:25] Form ID: 2341
+[2024-08-21 11:04:25] Checking against Form ID: 2341
+[2024-08-21 11:04:25] Current Tokens for User ID 1 (Username: premiumvortex): 4
+[2024-08-21 11:04:25] Updated Tokens for User ID 1 (Username: premiumvortex): 3
+[2024-08-21 11:04:25] Updated usage count for Form ID: 2341
+[2024-08-21 11:04:25] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 04:04:25
+----------------------------------------------------------------
+
+[2024-08-21 11:05:57] Form ID: 2341
+[2024-08-21 11:05:57] Checking against Form ID: 2341
+[2024-08-21 11:05:57] Current Tokens for User ID 1 (Username: premiumvortex): 3
+[2024-08-21 11:05:57] Updated Tokens for User ID 1 (Username: premiumvortex): 2
+[2024-08-21 11:05:57] Updated usage count for Form ID: 2341
+[2024-08-21 11:05:57] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 04:05:57
+----------------------------------------------------------------
+
+[2024-08-21 11:10:23] Form ID: 2341
+[2024-08-21 11:10:23] Checking against Form ID: 2341
+[2024-08-21 11:10:23] Current Tokens for User ID 1 (Username: premiumvortex): 2
+[2024-08-21 11:10:23] Updated Tokens for User ID 1 (Username: premiumvortex): 1
+[2024-08-21 11:10:23] Updated usage count for Form ID: 2341
+[2024-08-21 11:10:23] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 04:10:23
+----------------------------------------------------------------
+
+[2024-08-21 12:05:47] Form ID: 2341
+[2024-08-21 12:05:47] Checking against Form ID: 2341
+[2024-08-21 12:05:47] Current Tokens for User ID 1 (Username: premiumvortex): 1
+[2024-08-21 12:05:47] Updated Tokens for User ID 1 (Username: premiumvortex): 0
+[2024-08-21 12:05:47] Updated usage count for Form ID: 2341
+[2024-08-21 12:05:47] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:05:47
+----------------------------------------------------------------
+
+[2024-08-21 12:07:28] Form ID: 2341
+[2024-08-21 12:07:28] Checking against Form ID: 2341
+[2024-08-21 12:07:28] Current Tokens for User ID 1 (Username: premiumvortex): 0
+[2024-08-21 12:07:28] Updated Tokens for User ID 1 (Username: premiumvortex): -1
+[2024-08-21 12:07:28] Updated usage count for Form ID: 2341
+[2024-08-21 12:07:28] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:07:28
+----------------------------------------------------------------
+
+[2024-08-21 12:08:26] Form ID: 2341
+[2024-08-21 12:08:26] Checking against Form ID: 2341
+[2024-08-21 12:08:26] Current Tokens for User ID 1 (Username: premiumvortex): -1
+[2024-08-21 12:08:26] Updated Tokens for User ID 1 (Username: premiumvortex): -2
+[2024-08-21 12:08:26] Updated usage count for Form ID: 2341
+[2024-08-21 12:08:26] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:08:26
+----------------------------------------------------------------
+
+[2024-08-21 12:09:15] Form ID: 2341
+[2024-08-21 12:09:15] Checking against Form ID: 2341
+[2024-08-21 12:09:15] Current Tokens for User ID 1 (Username: premiumvortex): -2
+[2024-08-21 12:09:15] Updated Tokens for User ID 1 (Username: premiumvortex): -3
+[2024-08-21 12:09:15] Updated usage count for Form ID: 2341
+[2024-08-21 12:09:15] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:09:15
+----------------------------------------------------------------
+
+[2024-08-21 12:14:05] Form ID: 2341
+[2024-08-21 12:14:05] Checking against Form ID: 2341
+[2024-08-21 12:14:05] Current Tokens for User ID 1 (Username: premiumvortex): -3
+[2024-08-21 12:14:05] Updated Tokens for User ID 1 (Username: premiumvortex): -4
+[2024-08-21 12:14:05] Updated usage count for Form ID: 2341
+[2024-08-21 12:14:05] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:14:05
+----------------------------------------------------------------
+
+[2024-08-21 12:19:34] Form ID: 2341
+[2024-08-21 12:19:34] Checking against Form ID: 2341
+[2024-08-21 12:19:34] Current Tokens for User ID 1 (Username: premiumvortex): -4
+[2024-08-21 12:19:34] Updated Tokens for User ID 1 (Username: premiumvortex): -5
+[2024-08-21 12:19:34] Updated usage count for Form ID: 2341
+[2024-08-21 12:19:34] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:19:34
+----------------------------------------------------------------
+
+[2024-08-21 12:20:23] Form ID: 2341
+[2024-08-21 12:20:23] Checking against Form ID: 2341
+[2024-08-21 12:20:23] Current Tokens for User ID 1 (Username: premiumvortex): -5
+[2024-08-21 12:20:23] Updated Tokens for User ID 1 (Username: premiumvortex): -6
+[2024-08-21 12:20:23] Updated usage count for Form ID: 2341
+[2024-08-21 12:20:23] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:20:23
+----------------------------------------------------------------
+
+[2024-08-21 12:23:12] Form ID: 2341
+[2024-08-21 12:23:12] Checking against Form ID: 2341
+[2024-08-21 12:23:12] Current Tokens for User ID 1 (Username: premiumvortex): -6
+[2024-08-21 12:23:12] Updated Tokens for User ID 1 (Username: premiumvortex): -7
+[2024-08-21 12:23:12] Updated usage count for Form ID: 2341
+[2024-08-21 12:23:12] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:23:12
+----------------------------------------------------------------
+
+[2024-08-21 12:29:58] Form ID: 2341
+[2024-08-21 12:29:58] Checking against Form ID: 2341
+[2024-08-21 12:29:58] Current Tokens for User ID 1 (Username: premiumvortex): -7
+[2024-08-21 12:29:58] Updated Tokens for User ID 1 (Username: premiumvortex): -8
+[2024-08-21 12:29:58] Updated usage count for Form ID: 2341
+[2024-08-21 12:29:58] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:29:58
+----------------------------------------------------------------
+
+[2024-08-21 12:34:05] Form ID: 2341
+[2024-08-21 12:34:05] Checking against Form ID: 2341
+[2024-08-21 12:34:05] Current Tokens for User ID 1 (Username: premiumvortex): -8
+[2024-08-21 12:34:05] Updated Tokens for User ID 1 (Username: premiumvortex): -9
+[2024-08-21 12:34:05] Updated usage count for Form ID: 2341
+[2024-08-21 12:34:05] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 05:34:05
+----------------------------------------------------------------
+
+[2024-08-21 22:56:30] Form ID: 2341
+[2024-08-21 22:56:30] Checking against Form ID: 2341
+[2024-08-21 22:56:30] Current Tokens for User ID 1 (Username: premiumvortex): 99
+[2024-08-21 22:56:30] Updated Tokens for User ID 1 (Username: premiumvortex): 98
+[2024-08-21 22:56:30] Updated usage count for Form ID: 2341
+[2024-08-21 22:56:30] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 15:56:30
+----------------------------------------------------------------
+
+[2024-08-21 22:59:44] Form ID: 2341
+[2024-08-21 22:59:44] Checking against Form ID: 2341
+[2024-08-21 22:59:44] Current Tokens for User ID 1 (Username: premiumvortex): 98
+[2024-08-21 22:59:44] Updated Tokens for User ID 1 (Username: premiumvortex): 97
+[2024-08-21 22:59:44] Updated usage count for Form ID: 2341
+[2024-08-21 22:59:44] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 15:59:44
+----------------------------------------------------------------
+
+[2024-08-21 23:14:11] Form ID: 2341
+[2024-08-21 23:14:11] Checking against Form ID: 2341
+[2024-08-21 23:14:11] Current Tokens for User ID 1 (Username: premiumvortex): 97
+[2024-08-21 23:14:11] Updated Tokens for User ID 1 (Username: premiumvortex): 96
+[2024-08-21 23:14:11] Updated usage count for Form ID: 2341
+[2024-08-21 23:14:11] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 16:14:11
+----------------------------------------------------------------
+
+[2024-08-21 23:24:06] Form ID: 2341
+[2024-08-21 23:24:06] Checking against Form ID: 2341
+[2024-08-21 23:24:06] Current Tokens for User ID 1 (Username: premiumvortex): 96
+[2024-08-21 23:24:06] Updated Tokens for User ID 1 (Username: premiumvortex): 95
+[2024-08-21 23:24:06] Updated usage count for Form ID: 2341
+[2024-08-21 23:24:06] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-21 16:24:06
+----------------------------------------------------------------
+
+[2024-08-22 10:14:55] Form ID: 2341
+[2024-08-22 10:14:55] Checking against Form ID: 2341
+[2024-08-22 10:14:55] Current Tokens for User ID 1 (Username: premiumvortex): 95
+[2024-08-22 10:14:55] Updated Tokens for User ID 1 (Username: premiumvortex): 94
+[2024-08-22 10:14:55] Updated usage count for Form ID: 2341
+[2024-08-22 10:14:55] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-08-22 03:14:55
+----------------------------------------------------------------
+
+[2024-08-23 10:10:10] Form ID: 1968
+[2024-08-23 10:10:10] Checking against Form ID: 2341
+[2024-08-30 00:21:17] Form ID: 2341
+[2024-08-30 00:21:17] Checking against Form ID: 2341
+[2024-08-30 00:21:17] Current Tokens for User ID 4 (Username: Test2@test.com): 11
+[2024-08-30 00:21:17] Updated Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-08-30 00:21:17] Updated usage count for Form ID: 2341
+[2024-08-30 00:21:17] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-08-29 17:21:17
+----------------------------------------------------------------
+
+[2024-09-14 00:24:13] Form ID: 2341
+[2024-09-14 00:24:13] Checking against Form ID: 2341
+[2024-09-14 00:24:13] Current Tokens for User ID 4 (Username: Test2@test.com): 10
+[2024-09-14 00:24:13] Updated Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-09-14 00:24:13] Updated usage count for Form ID: 2341
+[2024-09-14 00:24:13] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-09-13 17:24:13
+----------------------------------------------------------------
+
+[2024-09-16 22:19:22] Form ID: 2341
+[2024-09-16 22:19:22] Checking against Form ID: 2341
+[2024-09-16 22:19:22] Current Tokens for User ID 1 (Username: premiumvortex): 94
+[2024-09-16 22:19:22] Updated Tokens for User ID 1 (Username: premiumvortex): 93
+[2024-09-16 22:19:22] Updated usage count for Form ID: 2341
+[2024-09-16 22:19:22] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:19:22
+----------------------------------------------------------------
+
+[2024-09-16 22:21:27] Form ID: 2341
+[2024-09-16 22:21:27] Checking against Form ID: 2341
+[2024-09-16 22:21:27] Current Tokens for User ID 1 (Username: premiumvortex): 93
+[2024-09-16 22:21:27] Updated Tokens for User ID 1 (Username: premiumvortex): 92
+[2024-09-16 22:21:27] Updated usage count for Form ID: 2341
+[2024-09-16 22:21:27] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:21:27
+----------------------------------------------------------------
+
+[2024-09-16 22:26:40] Form ID: 2341
+[2024-09-16 22:26:40] Checking against Form ID: 2341
+[2024-09-16 22:26:40] Current Tokens for User ID 1 (Username: premiumvortex): 92
+[2024-09-16 22:26:40] Updated Tokens for User ID 1 (Username: premiumvortex): 91
+[2024-09-16 22:26:40] Updated usage count for Form ID: 2341
+[2024-09-16 22:26:40] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:26:40
+----------------------------------------------------------------
+
+[2024-09-16 22:32:29] Form ID: 2341
+[2024-09-16 22:32:29] Checking against Form ID: 2341
+[2024-09-16 22:32:29] Current Tokens for User ID 1 (Username: premiumvortex): 91
+[2024-09-16 22:32:29] Updated Tokens for User ID 1 (Username: premiumvortex): 90
+[2024-09-16 22:32:29] Updated usage count for Form ID: 2341
+[2024-09-16 22:32:29] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:32:29
+----------------------------------------------------------------
+
+[2024-09-16 22:42:04] Form ID: 2341
+[2024-09-16 22:42:04] Checking against Form ID: 2341
+[2024-09-16 22:42:04] Current Tokens for User ID 1 (Username: premiumvortex): 90
+[2024-09-16 22:42:04] Updated Tokens for User ID 1 (Username: premiumvortex): 89
+[2024-09-16 22:42:04] Updated usage count for Form ID: 2341
+[2024-09-16 22:42:04] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:42:04
+----------------------------------------------------------------
+
+[2024-09-16 22:43:24] Form ID: 2341
+[2024-09-16 22:43:24] Checking against Form ID: 2341
+[2024-09-16 22:43:24] Current Tokens for User ID 1 (Username: premiumvortex): 89
+[2024-09-16 22:43:24] Updated Tokens for User ID 1 (Username: premiumvortex): 88
+[2024-09-16 22:43:24] Updated usage count for Form ID: 2341
+[2024-09-16 22:43:24] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-16 15:43:24
+----------------------------------------------------------------
+
+[2024-09-25 07:50:57] Form ID: 2341
+[2024-09-25 07:50:57] Checking against Form ID: 2341
+[2024-09-25 07:50:57] Current Tokens for User ID 1 (Username: premiumvortex): 88
+[2024-09-25 07:50:57] Updated Tokens for User ID 1 (Username: premiumvortex): 87
+[2024-09-25 07:50:57] Updated usage count for Form ID: 2341
+[2024-09-25 07:50:57] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 00:50:57
+----------------------------------------------------------------
+
+[2024-09-25 07:52:11] Form ID: 2341
+[2024-09-25 07:52:11] Checking against Form ID: 2341
+[2024-09-25 07:52:11] Current Tokens for User ID 1 (Username: premiumvortex): 87
+[2024-09-25 07:52:11] Updated Tokens for User ID 1 (Username: premiumvortex): 86
+[2024-09-25 07:52:11] Updated usage count for Form ID: 2341
+[2024-09-25 07:52:11] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 00:52:11
+----------------------------------------------------------------
+
+[2024-09-25 07:53:25] Form ID: 2341
+[2024-09-25 07:53:25] Checking against Form ID: 2341
+[2024-09-25 07:53:25] Current Tokens for User ID 1 (Username: premiumvortex): 86
+[2024-09-25 07:53:25] Updated Tokens for User ID 1 (Username: premiumvortex): 85
+[2024-09-25 07:53:25] Updated usage count for Form ID: 2341
+[2024-09-25 07:53:25] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 00:53:25
+----------------------------------------------------------------
+
+[2024-09-25 08:42:47] Form ID: 2341
+[2024-09-25 08:42:47] Checking against Form ID: 2341
+[2024-09-25 08:42:47] Current Tokens for User ID 1 (Username: premiumvortex): 85
+[2024-09-25 08:42:47] Updated Tokens for User ID 1 (Username: premiumvortex): 84
+[2024-09-25 08:42:47] Updated usage count for Form ID: 2341
+[2024-09-25 08:42:47] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 01:42:47
+----------------------------------------------------------------
+
+[2024-09-25 08:53:56] Form ID: 2341
+[2024-09-25 08:53:56] Checking against Form ID: 2341
+[2024-09-25 08:53:56] Current Tokens for User ID 1 (Username: premiumvortex): 84
+[2024-09-25 08:53:56] Updated Tokens for User ID 1 (Username: premiumvortex): 83
+[2024-09-25 08:53:56] Updated usage count for Form ID: 2341
+[2024-09-25 08:53:56] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 01:53:56
+----------------------------------------------------------------
+
+[2024-09-25 08:55:10] Form ID: 2341
+[2024-09-25 08:55:10] Checking against Form ID: 2341
+[2024-09-25 08:55:10] Current Tokens for User ID 1 (Username: premiumvortex): 83
+[2024-09-25 08:55:10] Updated Tokens for User ID 1 (Username: premiumvortex): 82
+[2024-09-25 08:55:10] Updated usage count for Form ID: 2341
+[2024-09-25 08:55:10] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 01:55:10
+----------------------------------------------------------------
+
+[2024-09-25 10:35:59] Form ID: 2341
+[2024-09-25 10:35:59] Checking against Form ID: 2341
+[2024-09-25 10:35:59] Current Tokens for User ID 1 (Username: premiumvortex): 82
+[2024-09-25 10:35:59] Updated Tokens for User ID 1 (Username: premiumvortex): 81
+[2024-09-25 10:35:59] Updated usage count for Form ID: 2341
+[2024-09-25 10:35:59] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 03:35:59
+----------------------------------------------------------------
+
+[2024-09-25 11:31:13] Form ID: 2341
+[2024-09-25 11:31:13] Checking against Form ID: 2341
+[2024-09-25 11:31:13] Current Tokens for User ID 1 (Username: premiumvortex): 81
+[2024-09-25 11:31:13] Updated Tokens for User ID 1 (Username: premiumvortex): 80
+[2024-09-25 11:31:13] Updated usage count for Form ID: 2341
+[2024-09-25 11:31:13] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 04:31:13
+----------------------------------------------------------------
+
+[2024-09-25 11:34:59] Form ID: 2341
+[2024-09-25 11:34:59] Checking against Form ID: 2341
+[2024-09-25 11:34:59] Current Tokens for User ID 1 (Username: premiumvortex): 80
+[2024-09-25 11:34:59] Updated Tokens for User ID 1 (Username: premiumvortex): 79
+[2024-09-25 11:34:59] Updated usage count for Form ID: 2341
+[2024-09-25 11:34:59] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 04:34:59
+----------------------------------------------------------------
+
+[2024-09-25 11:43:54] Form ID: 2341
+[2024-09-25 11:43:54] Checking against Form ID: 2341
+[2024-09-25 11:43:54] Current Tokens for User ID 1 (Username: premiumvortex): 79
+[2024-09-25 11:43:54] Updated Tokens for User ID 1 (Username: premiumvortex): 78
+[2024-09-25 11:43:54] Updated usage count for Form ID: 2341
+[2024-09-25 11:43:54] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 04:43:54
+----------------------------------------------------------------
+
+[2024-09-25 11:53:15] Form ID: 2341
+[2024-09-25 11:53:15] Checking against Form ID: 2341
+[2024-09-25 11:53:15] Current Tokens for User ID 1 (Username: premiumvortex): 78
+[2024-09-25 11:53:15] Updated Tokens for User ID 1 (Username: premiumvortex): 77
+[2024-09-25 11:53:15] Updated usage count for Form ID: 2341
+[2024-09-25 11:53:15] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 04:53:15
+----------------------------------------------------------------
+
+[2024-09-25 11:57:44] Form ID: 2341
+[2024-09-25 11:57:44] Checking against Form ID: 2341
+[2024-09-25 11:57:44] Current Tokens for User ID 1 (Username: premiumvortex): 77
+[2024-09-25 11:57:44] Updated Tokens for User ID 1 (Username: premiumvortex): 76
+[2024-09-25 11:57:44] Updated usage count for Form ID: 2341
+[2024-09-25 11:57:44] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 04:57:44
+----------------------------------------------------------------
+
+[2024-09-25 12:00:24] Form ID: 2341
+[2024-09-25 12:00:24] Checking against Form ID: 2341
+[2024-09-25 12:00:24] Current Tokens for User ID 1 (Username: premiumvortex): 76
+[2024-09-25 12:00:24] Updated Tokens for User ID 1 (Username: premiumvortex): 75
+[2024-09-25 12:00:24] Updated usage count for Form ID: 2341
+[2024-09-25 12:00:24] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:00:24
+----------------------------------------------------------------
+
+[2024-09-25 12:06:52] Form ID: 2341
+[2024-09-25 12:06:52] Checking against Form ID: 2341
+[2024-09-25 12:06:52] Current Tokens for User ID 1 (Username: premiumvortex): 75
+[2024-09-25 12:06:52] Updated Tokens for User ID 1 (Username: premiumvortex): 74
+[2024-09-25 12:06:52] Updated usage count for Form ID: 2341
+[2024-09-25 12:06:52] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:06:52
+----------------------------------------------------------------
+
+[2024-09-25 12:13:52] Form ID: 2341
+[2024-09-25 12:13:52] Checking against Form ID: 2341
+[2024-09-25 12:13:52] Current Tokens for User ID 1 (Username: premiumvortex): 74
+[2024-09-25 12:13:52] Updated Tokens for User ID 1 (Username: premiumvortex): 73
+[2024-09-25 12:13:52] Updated usage count for Form ID: 2341
+[2024-09-25 12:13:52] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:13:52
+----------------------------------------------------------------
+
+[2024-09-25 12:30:42] Form ID: 2341
+[2024-09-25 12:30:42] Checking against Form ID: 2341
+[2024-09-25 12:30:42] Current Tokens for User ID 1 (Username: premiumvortex): 73
+[2024-09-25 12:30:42] Updated Tokens for User ID 1 (Username: premiumvortex): 72
+[2024-09-25 12:30:42] Updated usage count for Form ID: 2341
+[2024-09-25 12:30:42] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:30:42
+----------------------------------------------------------------
+
+[2024-09-25 12:35:16] Form ID: 2341
+[2024-09-25 12:35:16] Checking against Form ID: 2341
+[2024-09-25 12:35:16] Current Tokens for User ID 1 (Username: premiumvortex): 72
+[2024-09-25 12:35:16] Updated Tokens for User ID 1 (Username: premiumvortex): 71
+[2024-09-25 12:35:16] Updated usage count for Form ID: 2341
+[2024-09-25 12:35:16] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:35:16
+----------------------------------------------------------------
+
+[2024-09-25 12:46:38] Form ID: 2341
+[2024-09-25 12:46:38] Checking against Form ID: 2341
+[2024-09-25 12:46:38] Current Tokens for User ID 1 (Username: premiumvortex): 71
+[2024-09-25 12:46:38] Updated Tokens for User ID 1 (Username: premiumvortex): 70
+[2024-09-25 12:46:38] Updated usage count for Form ID: 2341
+[2024-09-25 12:46:38] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:46:38
+----------------------------------------------------------------
+
+[2024-09-25 12:51:01] Form ID: 2341
+[2024-09-25 12:51:01] Checking against Form ID: 2341
+[2024-09-25 12:51:01] Current Tokens for User ID 1 (Username: premiumvortex): 70
+[2024-09-25 12:51:01] Updated Tokens for User ID 1 (Username: premiumvortex): 69
+[2024-09-25 12:51:01] Updated usage count for Form ID: 2341
+[2024-09-25 12:51:01] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:51:01
+----------------------------------------------------------------
+
+[2024-09-25 12:54:14] Form ID: 2341
+[2024-09-25 12:54:14] Checking against Form ID: 2341
+[2024-09-25 12:54:14] Current Tokens for User ID 1 (Username: premiumvortex): 69
+[2024-09-25 12:54:14] Updated Tokens for User ID 1 (Username: premiumvortex): 68
+[2024-09-25 12:54:14] Updated usage count for Form ID: 2341
+[2024-09-25 12:54:14] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 05:54:14
+----------------------------------------------------------------
+
+[2024-09-25 13:01:37] Form ID: 2341
+[2024-09-25 13:01:37] Checking against Form ID: 2341
+[2024-09-25 13:01:37] Current Tokens for User ID 1 (Username: premiumvortex): 68
+[2024-09-25 13:01:37] Updated Tokens for User ID 1 (Username: premiumvortex): 67
+[2024-09-25 13:01:37] Updated usage count for Form ID: 2341
+[2024-09-25 13:01:37] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 06:01:37
+----------------------------------------------------------------
+
+[2024-09-25 13:19:21] Form ID: 2341
+[2024-09-25 13:19:21] Checking against Form ID: 2341
+[2024-09-25 13:19:21] Current Tokens for User ID 1 (Username: premiumvortex): 67
+[2024-09-25 13:19:21] Updated Tokens for User ID 1 (Username: premiumvortex): 66
+[2024-09-25 13:19:21] Updated usage count for Form ID: 2341
+[2024-09-25 13:19:21] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 06:19:21
+----------------------------------------------------------------
+
+[2024-09-25 13:51:28] Form ID: 2341
+[2024-09-25 13:51:28] Checking against Form ID: 2341
+[2024-09-25 13:51:28] Current Tokens for User ID 1 (Username: premiumvortex): 66
+[2024-09-25 13:51:28] Updated Tokens for User ID 1 (Username: premiumvortex): 65
+[2024-09-25 13:51:28] Updated usage count for Form ID: 2341
+[2024-09-25 13:51:28] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 06:51:28
+----------------------------------------------------------------
+
+[2024-09-25 13:56:59] Form ID: 2341
+[2024-09-25 13:56:59] Checking against Form ID: 2341
+[2024-09-25 13:56:59] Current Tokens for User ID 1 (Username: premiumvortex): 65
+[2024-09-25 13:56:59] Updated Tokens for User ID 1 (Username: premiumvortex): 64
+[2024-09-25 13:56:59] Updated usage count for Form ID: 2341
+[2024-09-25 13:56:59] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 06:56:59
+----------------------------------------------------------------
+
+[2024-09-25 14:00:30] Form ID: 2341
+[2024-09-25 14:00:30] Checking against Form ID: 2341
+[2024-09-25 14:00:30] Current Tokens for User ID 1 (Username: premiumvortex): 64
+[2024-09-25 14:00:30] Updated Tokens for User ID 1 (Username: premiumvortex): 63
+[2024-09-25 14:00:30] Updated usage count for Form ID: 2341
+[2024-09-25 14:00:30] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 07:00:30
+----------------------------------------------------------------
+
+[2024-09-25 14:03:45] Form ID: 2341
+[2024-09-25 14:03:45] Checking against Form ID: 2341
+[2024-09-25 14:03:45] Current Tokens for User ID 1 (Username: premiumvortex): 63
+[2024-09-25 14:03:45] Updated Tokens for User ID 1 (Username: premiumvortex): 62
+[2024-09-25 14:03:45] Updated usage count for Form ID: 2341
+[2024-09-25 14:03:45] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 07:03:45
+----------------------------------------------------------------
+
+[2024-09-25 14:05:41] Form ID: 2341
+[2024-09-25 14:05:41] Checking against Form ID: 2341
+[2024-09-25 14:05:41] Current Tokens for User ID 1 (Username: premiumvortex): 62
+[2024-09-25 14:05:41] Updated Tokens for User ID 1 (Username: premiumvortex): 61
+[2024-09-25 14:05:41] Updated usage count for Form ID: 2341
+[2024-09-25 14:05:41] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 07:05:41
+----------------------------------------------------------------
+
+[2024-09-25 14:08:38] Form ID: 2341
+[2024-09-25 14:08:38] Checking against Form ID: 2341
+[2024-09-25 14:08:38] Current Tokens for User ID 1 (Username: premiumvortex): 61
+[2024-09-25 14:08:38] Updated Tokens for User ID 1 (Username: premiumvortex): 60
+[2024-09-25 14:08:38] Updated usage count for Form ID: 2341
+[2024-09-25 14:08:38] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 07:08:38
+----------------------------------------------------------------
+
+[2024-09-25 14:16:13] Form ID: 2341
+[2024-09-25 14:16:13] Checking against Form ID: 2341
+[2024-09-25 14:16:13] Current Tokens for User ID 1 (Username: premiumvortex): 60
+[2024-09-25 14:16:13] Updated Tokens for User ID 1 (Username: premiumvortex): 59
+[2024-09-25 14:16:13] Updated usage count for Form ID: 2341
+[2024-09-25 14:16:13] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-09-25 07:16:13
+----------------------------------------------------------------
+
+[2024-09-26 00:10:54] Form ID: 2341
+[2024-09-26 00:10:54] Checking against Form ID: 2341
+[2024-09-26 00:10:54] Current Tokens for User ID 4 (Username: Test2@test.com): 9
+[2024-09-26 00:10:54] Updated Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-09-26 00:10:54] Updated usage count for Form ID: 2341
+[2024-09-26 00:10:54] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-09-25 17:10:54
+----------------------------------------------------------------
+
+[2024-09-26 00:13:10] Form ID: 2341
+[2024-09-26 00:13:10] Checking against Form ID: 2341
+[2024-09-26 00:13:10] Current Tokens for User ID 4 (Username: Test2@test.com): 8
+[2024-09-26 00:13:10] Updated Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-09-26 00:13:10] Updated usage count for Form ID: 2341
+[2024-09-26 00:13:10] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-09-25 17:13:10
+----------------------------------------------------------------
+
+[2024-09-26 00:14:36] Form ID: 2341
+[2024-09-26 00:14:36] Checking against Form ID: 2341
+[2024-09-26 00:14:36] Current Tokens for User ID 4 (Username: Test2@test.com): 7
+[2024-09-26 00:14:36] Updated Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-09-26 00:14:36] Updated usage count for Form ID: 2341
+[2024-09-26 00:14:36] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-09-25 17:14:36
+----------------------------------------------------------------
+
+[2024-09-26 00:21:14] Form ID: 2341
+[2024-09-26 00:21:14] Checking against Form ID: 2341
+[2024-09-26 00:21:14] Current Tokens for User ID 4 (Username: Test2@test.com): 6
+[2024-09-26 00:21:14] Updated Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-09-26 00:21:14] Updated usage count for Form ID: 2341
+[2024-09-26 00:21:14] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-09-25 17:21:14
+----------------------------------------------------------------
+
+[2024-10-03 01:51:52] Form ID: 2341
+[2024-10-03 01:51:52] Checking against Form ID: 2341
+[2024-10-03 01:51:52] Current Tokens for User ID 1 (Username: premiumvortex): 59
+[2024-10-03 01:51:52] Updated Tokens for User ID 1 (Username: premiumvortex): 58
+[2024-10-03 01:51:52] Updated usage count for Form ID: 2341
+[2024-10-03 01:51:52] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 18:51:52
+----------------------------------------------------------------
+
+[2024-10-03 02:00:59] Form ID: 2341
+[2024-10-03 02:00:59] Checking against Form ID: 2341
+[2024-10-03 02:00:59] Current Tokens for User ID 1 (Username: premiumvortex): 58
+[2024-10-03 02:00:59] Updated Tokens for User ID 1 (Username: premiumvortex): 57
+[2024-10-03 02:00:59] Updated usage count for Form ID: 2341
+[2024-10-03 02:00:59] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:00:59
+----------------------------------------------------------------
+
+[2024-10-03 02:13:39] Form ID: 2341
+[2024-10-03 02:13:39] Checking against Form ID: 2341
+[2024-10-03 02:13:39] Current Tokens for User ID 1 (Username: premiumvortex): 57
+[2024-10-03 02:13:40] Updated Tokens for User ID 1 (Username: premiumvortex): 56
+[2024-10-03 02:13:40] Updated usage count for Form ID: 2341
+[2024-10-03 02:13:40] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:13:40
+----------------------------------------------------------------
+
+[2024-10-03 02:25:27] Form ID: 2341
+[2024-10-03 02:25:27] Checking against Form ID: 2341
+[2024-10-03 02:25:27] Current Tokens for User ID 1 (Username: premiumvortex): 56
+[2024-10-03 02:25:27] Updated Tokens for User ID 1 (Username: premiumvortex): 55
+[2024-10-03 02:25:27] Updated usage count for Form ID: 2341
+[2024-10-03 02:25:27] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:25:27
+----------------------------------------------------------------
+
+[2024-10-03 02:32:21] Form ID: 2341
+[2024-10-03 02:32:21] Checking against Form ID: 2341
+[2024-10-03 02:32:21] Current Tokens for User ID 1 (Username: premiumvortex): 55
+[2024-10-03 02:32:21] Updated Tokens for User ID 1 (Username: premiumvortex): 54
+[2024-10-03 02:32:21] Updated usage count for Form ID: 2341
+[2024-10-03 02:32:21] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:32:21
+----------------------------------------------------------------
+
+[2024-10-03 02:34:31] Form ID: 2341
+[2024-10-03 02:34:31] Checking against Form ID: 2341
+[2024-10-03 02:34:31] Current Tokens for User ID 1 (Username: premiumvortex): 54
+[2024-10-03 02:34:31] Updated Tokens for User ID 1 (Username: premiumvortex): 53
+[2024-10-03 02:34:31] Updated usage count for Form ID: 2341
+[2024-10-03 02:34:31] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:34:31
+----------------------------------------------------------------
+
+[2024-10-03 02:35:57] Form ID: 2341
+[2024-10-03 02:35:57] Checking against Form ID: 2341
+[2024-10-03 02:35:57] Current Tokens for User ID 1 (Username: premiumvortex): 53
+[2024-10-03 02:35:57] Updated Tokens for User ID 1 (Username: premiumvortex): 52
+[2024-10-03 02:35:57] Updated usage count for Form ID: 2341
+[2024-10-03 02:35:57] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:35:57
+----------------------------------------------------------------
+
+[2024-10-03 02:39:37] Form ID: 2341
+[2024-10-03 02:39:37] Checking against Form ID: 2341
+[2024-10-03 02:39:37] Current Tokens for User ID 1 (Username: premiumvortex): 52
+[2024-10-03 02:39:37] Updated Tokens for User ID 1 (Username: premiumvortex): 51
+[2024-10-03 02:39:37] Updated usage count for Form ID: 2341
+[2024-10-03 02:39:37] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 19:39:37
+----------------------------------------------------------------
+
+[2024-10-03 02:43:06] Form ID: 2341
+[2024-10-03 02:43:06] Checking against Form ID: 2341
+[2024-10-03 02:43:06] Current Tokens for User ID 4 (Username: Test2@test.com): 5
+[2024-10-03 02:43:06] Updated Tokens for User ID 4 (Username: Test2@test.com): 4
+[2024-10-03 02:43:06] Updated usage count for Form ID: 2341
+[2024-10-03 02:43:06] User ID: 4, Username: Test2@test.com, Type: form, ID: 2341, Timestamp: 2024-10-02 19:43:06
+----------------------------------------------------------------
+
+[2024-10-03 03:34:03] Form ID: 2341
+[2024-10-03 03:34:03] Checking against Form ID: 2341
+[2024-10-03 03:34:03] Current Tokens for User ID 1 (Username: premiumvortex): 51
+[2024-10-03 03:34:03] Updated Tokens for User ID 1 (Username: premiumvortex): 50
+[2024-10-03 03:34:03] Updated usage count for Form ID: 2341
+[2024-10-03 03:34:03] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:34:03
+----------------------------------------------------------------
+
+[2024-10-03 03:35:42] Form ID: 2341
+[2024-10-03 03:35:42] Checking against Form ID: 2341
+[2024-10-03 03:35:42] Current Tokens for User ID 1 (Username: premiumvortex): 50
+[2024-10-03 03:35:42] Updated Tokens for User ID 1 (Username: premiumvortex): 49
+[2024-10-03 03:35:42] Updated usage count for Form ID: 2341
+[2024-10-03 03:35:42] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:35:42
+----------------------------------------------------------------
+
+[2024-10-03 03:37:18] Form ID: 2341
+[2024-10-03 03:37:18] Checking against Form ID: 2341
+[2024-10-03 03:37:18] Current Tokens for User ID 1 (Username: premiumvortex): 49
+[2024-10-03 03:37:18] Updated Tokens for User ID 1 (Username: premiumvortex): 48
+[2024-10-03 03:37:18] Updated usage count for Form ID: 2341
+[2024-10-03 03:37:18] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:37:18
+----------------------------------------------------------------
+
+[2024-10-03 03:40:22] Form ID: 2341
+[2024-10-03 03:40:22] Checking against Form ID: 2341
+[2024-10-03 03:40:22] Current Tokens for User ID 1 (Username: premiumvortex): 48
+[2024-10-03 03:40:22] Updated Tokens for User ID 1 (Username: premiumvortex): 47
+[2024-10-03 03:40:22] Updated usage count for Form ID: 2341
+[2024-10-03 03:40:22] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:40:22
+----------------------------------------------------------------
+
+[2024-10-03 03:41:45] Form ID: 2341
+[2024-10-03 03:41:45] Checking against Form ID: 2341
+[2024-10-03 03:41:45] Current Tokens for User ID 1 (Username: premiumvortex): 47
+[2024-10-03 03:41:45] Updated Tokens for User ID 1 (Username: premiumvortex): 46
+[2024-10-03 03:41:45] Updated usage count for Form ID: 2341
+[2024-10-03 03:41:45] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:41:45
+----------------------------------------------------------------
+
+[2024-10-03 03:48:53] Form ID: 2341
+[2024-10-03 03:48:53] Checking against Form ID: 2341
+[2024-10-03 03:48:53] Current Tokens for User ID 1 (Username: premiumvortex): 46
+[2024-10-03 03:48:53] Updated Tokens for User ID 1 (Username: premiumvortex): 45
+[2024-10-03 03:48:53] Updated usage count for Form ID: 2341
+[2024-10-03 03:48:53] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:48:53
+----------------------------------------------------------------
+
+[2024-10-03 03:56:05] Form ID: 2341
+[2024-10-03 03:56:05] Checking against Form ID: 2341
+[2024-10-03 03:56:05] Current Tokens for User ID 1 (Username: premiumvortex): 45
+[2024-10-03 03:56:05] Updated Tokens for User ID 1 (Username: premiumvortex): 44
+[2024-10-03 03:56:05] Updated usage count for Form ID: 2341
+[2024-10-03 03:56:05] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 20:56:05
+----------------------------------------------------------------
+
+[2024-10-03 04:01:59] Form ID: 2341
+[2024-10-03 04:01:59] Checking against Form ID: 2341
+[2024-10-03 04:01:59] Current Tokens for User ID 1 (Username: premiumvortex): 44
+[2024-10-03 04:01:59] Updated Tokens for User ID 1 (Username: premiumvortex): 43
+[2024-10-03 04:01:59] Updated usage count for Form ID: 2341
+[2024-10-03 04:01:59] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:01:59
+----------------------------------------------------------------
+
+[2024-10-03 04:09:22] Form ID: 2341
+[2024-10-03 04:09:22] Checking against Form ID: 2341
+[2024-10-03 04:09:22] Current Tokens for User ID 1 (Username: premiumvortex): 43
+[2024-10-03 04:09:22] Updated Tokens for User ID 1 (Username: premiumvortex): 42
+[2024-10-03 04:09:22] Updated usage count for Form ID: 2341
+[2024-10-03 04:09:22] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:09:22
+----------------------------------------------------------------
+
+[2024-10-03 04:14:29] Form ID: 2341
+[2024-10-03 04:14:29] Checking against Form ID: 2341
+[2024-10-03 04:14:29] Current Tokens for User ID 1 (Username: premiumvortex): 42
+[2024-10-03 04:14:29] Updated Tokens for User ID 1 (Username: premiumvortex): 41
+[2024-10-03 04:14:29] Updated usage count for Form ID: 2341
+[2024-10-03 04:14:29] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:14:29
+----------------------------------------------------------------
+
+[2024-10-03 04:32:45] Form ID: 2341
+[2024-10-03 04:32:45] Checking against Form ID: 2341
+[2024-10-03 04:32:45] Current Tokens for User ID 1 (Username: premiumvortex): 41
+[2024-10-03 04:32:45] Updated Tokens for User ID 1 (Username: premiumvortex): 40
+[2024-10-03 04:32:45] Updated usage count for Form ID: 2341
+[2024-10-03 04:32:45] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:32:45
+----------------------------------------------------------------
+
+[2024-10-03 04:42:23] Form ID: 2341
+[2024-10-03 04:42:23] Checking against Form ID: 2341
+[2024-10-03 04:42:23] Current Tokens for User ID 1 (Username: premiumvortex): 40
+[2024-10-03 04:42:23] Updated Tokens for User ID 1 (Username: premiumvortex): 39
+[2024-10-03 04:42:23] Updated usage count for Form ID: 2341
+[2024-10-03 04:42:23] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:42:23
+----------------------------------------------------------------
+
+[2024-10-03 04:54:48] Form ID: 2341
+[2024-10-03 04:54:48] Checking against Form ID: 2341
+[2024-10-03 04:54:48] Current Tokens for User ID 1 (Username: premiumvortex): 39
+[2024-10-03 04:54:48] Updated Tokens for User ID 1 (Username: premiumvortex): 38
+[2024-10-03 04:54:48] Updated usage count for Form ID: 2341
+[2024-10-03 04:54:48] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:54:48
+----------------------------------------------------------------
+
+[2024-10-03 04:55:39] Form ID: 2341
+[2024-10-03 04:55:39] Checking against Form ID: 2341
+[2024-10-03 04:55:39] Current Tokens for User ID 1 (Username: premiumvortex): 38
+[2024-10-03 04:55:39] Updated Tokens for User ID 1 (Username: premiumvortex): 37
+[2024-10-03 04:55:39] Updated usage count for Form ID: 2341
+[2024-10-03 04:55:39] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:55:39
+----------------------------------------------------------------
+
+[2024-10-03 04:58:04] Form ID: 2341
+[2024-10-03 04:58:04] Checking against Form ID: 2341
+[2024-10-03 04:58:04] Current Tokens for User ID 1 (Username: premiumvortex): 37
+[2024-10-03 04:58:04] Updated Tokens for User ID 1 (Username: premiumvortex): 36
+[2024-10-03 04:58:04] Updated usage count for Form ID: 2341
+[2024-10-03 04:58:04] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 21:58:04
+----------------------------------------------------------------
+
+[2024-10-03 05:02:07] Form ID: 2341
+[2024-10-03 05:02:07] Checking against Form ID: 2341
+[2024-10-03 05:02:07] Current Tokens for User ID 1 (Username: premiumvortex): 36
+[2024-10-03 05:02:07] Updated Tokens for User ID 1 (Username: premiumvortex): 35
+[2024-10-03 05:02:07] Updated usage count for Form ID: 2341
+[2024-10-03 05:02:07] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:02:07
+----------------------------------------------------------------
+
+[2024-10-03 05:03:01] Form ID: 2341
+[2024-10-03 05:03:01] Checking against Form ID: 2341
+[2024-10-03 05:03:01] Current Tokens for User ID 1 (Username: premiumvortex): 35
+[2024-10-03 05:03:01] Updated Tokens for User ID 1 (Username: premiumvortex): 34
+[2024-10-03 05:03:01] Updated usage count for Form ID: 2341
+[2024-10-03 05:03:01] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:03:01
+----------------------------------------------------------------
+
+[2024-10-03 05:06:35] Form ID: 2341
+[2024-10-03 05:06:35] Checking against Form ID: 2341
+[2024-10-03 05:06:35] Current Tokens for User ID 1 (Username: premiumvortex): 34
+[2024-10-03 05:06:35] Updated Tokens for User ID 1 (Username: premiumvortex): 33
+[2024-10-03 05:06:35] Updated usage count for Form ID: 2341
+[2024-10-03 05:06:35] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:06:35
+----------------------------------------------------------------
+
+[2024-10-03 05:15:55] Form ID: 2341
+[2024-10-03 05:15:55] Checking against Form ID: 2341
+[2024-10-03 05:15:55] Current Tokens for User ID 1 (Username: premiumvortex): 33
+[2024-10-03 05:15:55] Updated Tokens for User ID 1 (Username: premiumvortex): 32
+[2024-10-03 05:15:55] Updated usage count for Form ID: 2341
+[2024-10-03 05:15:55] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:15:55
+----------------------------------------------------------------
+
+[2024-10-03 05:24:12] Form ID: 2341
+[2024-10-03 05:24:12] Checking against Form ID: 2341
+[2024-10-03 05:24:12] Current Tokens for User ID 1 (Username: premiumvortex): 32
+[2024-10-03 05:24:12] Updated Tokens for User ID 1 (Username: premiumvortex): 31
+[2024-10-03 05:24:12] Updated usage count for Form ID: 2341
+[2024-10-03 05:24:12] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:24:12
+----------------------------------------------------------------
+
+[2024-10-03 05:27:04] Form ID: 2341
+[2024-10-03 05:27:04] Checking against Form ID: 2341
+[2024-10-03 05:27:04] Current Tokens for User ID 1 (Username: premiumvortex): 31
+[2024-10-03 05:27:04] Updated Tokens for User ID 1 (Username: premiumvortex): 30
+[2024-10-03 05:27:04] Updated usage count for Form ID: 2341
+[2024-10-03 05:27:04] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:27:04
+----------------------------------------------------------------
+
+[2024-10-03 05:30:05] Form ID: 2341
+[2024-10-03 05:30:05] Checking against Form ID: 2341
+[2024-10-03 05:30:05] Current Tokens for User ID 1 (Username: premiumvortex): 30
+[2024-10-03 05:30:05] Updated Tokens for User ID 1 (Username: premiumvortex): 29
+[2024-10-03 05:30:05] Updated usage count for Form ID: 2341
+[2024-10-03 05:30:05] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:30:05
+----------------------------------------------------------------
+
+[2024-10-03 05:34:19] Form ID: 2341
+[2024-10-03 05:34:19] Checking against Form ID: 2341
+[2024-10-03 05:34:19] Current Tokens for User ID 1 (Username: premiumvortex): 29
+[2024-10-03 05:34:19] Updated Tokens for User ID 1 (Username: premiumvortex): 28
+[2024-10-03 05:34:19] Updated usage count for Form ID: 2341
+[2024-10-03 05:34:19] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:34:19
+----------------------------------------------------------------
+
+[2024-10-03 05:35:27] Form ID: 2341
+[2024-10-03 05:35:27] Checking against Form ID: 2341
+[2024-10-03 05:35:27] Current Tokens for User ID 1 (Username: premiumvortex): 28
+[2024-10-03 05:35:27] Updated Tokens for User ID 1 (Username: premiumvortex): 27
+[2024-10-03 05:35:27] Updated usage count for Form ID: 2341
+[2024-10-03 05:35:27] User ID: 1, Username: premiumvortex, Type: form, ID: 2341, Timestamp: 2024-10-02 22:35:27
+----------------------------------------------------------------
+

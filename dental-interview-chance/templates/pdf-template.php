@@ -1,4 +1,3 @@
-<!-- templates/pdf-template.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
