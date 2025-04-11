@@ -2,7 +2,7 @@
 /*
 Plugin Name: Dental School Interview Chance Evaluator
 Description: Evaluates the chance of getting an interview from US Dental Schools based on user input.
-Version: 1.0
+Version: 2.0
 Author: Premium Vortex
 Author URI: https://premiumvortex.com/
 */
@@ -37,6 +37,7 @@ register_deactivation_hook(__FILE__, 'ds_interview_deactivate');
 
 function ds_interview_activate() {
     global $wpdb;
+    ds_custom_log("ds_interview_activate() called. Activating plugin.");
 
     // Create user_interview_chance_log table if it doesn't exist
     $table_name = $wpdb->prefix . 'user_interview_chance_log';
@@ -84,10 +85,11 @@ function ds_interview_activate() {
             shadow_hours_minimum float DEFAULT NULL,
             gpa float DEFAULT NULL,
             science_gpa float DEFAULT NULL,
-            DAT float DEFAULT NULL,
             AA float DEFAULT NULL,
+            DAT float DEFAULT NULL,
             PAT float DEFAULT NULL,
             TS float DEFAULT NULL,
+            score_mode varchar(20) NOT NULL,
             PRIMARY KEY  (id)
         ) $charset_collate;";
         
@@ -100,124 +102,166 @@ function ds_interview_activate() {
         // Update existing averages
         ds_calculate_and_store_averages(true);
     }
+    
+    ds_custom_log("Plugin activated.");
 }
 
-function ds_calculate_and_store_averages() {
+function ds_calculate_and_store_averages($update_existing = false) {
     global $wpdb;
-
-    // Get data from the custom table
+    ds_custom_log("ds_calculate_and_store_averages() called.");
+    
+    // Retrieve data from the custom table.
     $schools_data = $wpdb->get_results("SELECT * FROM {$wpdb->prefix}us_dental_schools_data");
-
-    // Initialize averages and counters for all categories
-    $averages = [
+    
+    // Initialize accumulators for common fields.
+    $common_sums = [
         'shadow_hours_minimum' => 0,
-        'gpa' => 0,
-        'science_gpa' => 0,
-        'AA' => 0,
+        'gpa'                  => 0,
+        'science_gpa'          => 0,
+    ];
+    $common_counts = [
+        'shadow_hours_minimum' => 0,
+        'gpa'                  => 0,
+        'science_gpa'          => 0,
+    ];
+    
+    // Initialize accumulators for 2-digit test score fields.
+    $sum_2digit = [
+        'AA'  => 0,
         'DAT' => 0,
         'PAT' => 0,
-        'TS' => 0
+        'TS'  => 0,
     ];
-    $counts = [
-        'shadow_hours_minimum' => 0,
-        'gpa' => 0,
-        'science_gpa' => 0,
-        'AA' => 0,
+    $count_2digit = [
+        'AA'  => 0,
         'DAT' => 0,
         'PAT' => 0,
-        'TS' => 0
+        'TS'  => 0,
     ];
-
-    // Calculate sums and counts for each category
+    
+    // Initialize accumulators for 3-digit test score fields.
+    $sum_3digit = [
+        'AA'  => 0,
+        'DAT' => 0,
+        'PAT' => 0,
+        'TS'  => 0,
+    ];
+    $count_3digit = [
+        'AA'  => 0,
+        'DAT' => 0,
+        'PAT' => 0,
+        'TS'  => 0,
+    ];
+    
+    // Loop through each school record.
     foreach ($schools_data as $school) {
-        // Shadow Hours Minimum
-        if (!is_null($school->shadow_hours_minimum) && $school->shadow_hours_minimum !== '') {
-            $averages['shadow_hours_minimum'] += (float)$school->shadow_hours_minimum;
-            $counts['shadow_hours_minimum']++;
+        // Process common fields.
+        if (isset($school->shadow_hours_minimum) && $school->shadow_hours_minimum !== '') {
+            $common_sums['shadow_hours_minimum'] += (float)$school->shadow_hours_minimum;
+            $common_counts['shadow_hours_minimum']++;
         }
-        // GPA
-        if (!is_null($school->min_gpa) && $school->min_gpa !== '') {
-            $averages['gpa'] += (float)$school->min_gpa;
-            $counts['gpa']++;
+        if (isset($school->min_gpa) && $school->min_gpa !== '') {
+            $common_sums['gpa'] += (float)$school->min_gpa;
+            $common_counts['gpa']++;
         }
-        // Science GPA
-        if (!is_null($school->avg_gpascience) && $school->avg_gpascience !== '') {
-            $averages['science_gpa'] += (float)$school->avg_gpascience;
-            $counts['science_gpa']++;
+        if (isset($school->avg_gpascience) && $school->avg_gpascience !== '') {
+            $common_sums['science_gpa'] += (float)$school->avg_gpascience;
+            $common_counts['science_gpa']++;
         }
-        // AA
-        if (!is_null($school->aa) && $school->aa !== '') {
-            $averages['AA'] += (float)$school->aa;
-            $counts['AA']++;
+        
+        // Process 2-digit scores.
+        if (isset($school->aa) && $school->aa !== '') {
+            $sum_2digit['AA'] += (float)$school->aa;
+            $count_2digit['AA']++;
         }
-        // DAT
-        if (!is_null($school->dat) && $school->dat !== '') {
-            $averages['DAT'] += (float)$school->dat;
-            $counts['DAT']++;
+        if (isset($school->dat) && $school->dat !== '') {
+            $sum_2digit['DAT'] += (float)$school->dat;
+            $count_2digit['DAT']++;
         }
-        // PAT
-        if (!is_null($school->pat) && $school->pat !== '') {
-            $averages['PAT'] += (float)$school->pat;
-            $counts['PAT']++;
+        if (isset($school->pat) && $school->pat !== '') {
+            $sum_2digit['PAT'] += (float)$school->pat;
+            $count_2digit['PAT']++;
         }
-        // TS
-        if (!is_null($school->ts) && $school->ts !== '') {
-            $averages['TS'] += (float)$school->ts;
-            $counts['TS']++;
+        if (isset($school->ts) && $school->ts !== '') {
+            $sum_2digit['TS'] += (float)$school->ts;
+            $count_2digit['TS']++;
+        }
+        
+        // Process 3-digit scores.
+        if (isset($school->aa_3dscore) && $school->aa_3dscore !== '') {
+            $sum_3digit['AA'] += (float)$school->aa_3dscore;
+            $count_3digit['AA']++;
+        }
+        if (isset($school->dat_3dscore) && $school->dat_3dscore !== '') {
+            $sum_3digit['DAT'] += (float)$school->dat_3dscore;
+            $count_3digit['DAT']++;
+        }
+        if (isset($school->pat_3dscore) && $school->pat_3dscore !== '') {
+            $sum_3digit['PAT'] += (float)$school->pat_3dscore;
+            $count_3digit['PAT']++;
+        }
+        if (isset($school->ts_3dscore) && $school->ts_3dscore !== '') {
+            $sum_3digit['TS'] += (float)$school->ts_3dscore;
+            $count_3digit['TS']++;
         }
     }
 
-    // Avoid division by zero and calculate final averages
-    foreach ($averages as $key => &$value) {
-        if ($counts[$key] > 0) {
-            $value = $value / $counts[$key];
-        } else {
-            $value = null; // Set to null if no valid data is available
-        }
+    // Calculate averages for common fields.
+    $common_avgs = [];
+    foreach ($common_sums as $key => $sum) {
+        $common_avgs[$key] = ($common_counts[$key] > 0) ? $sum / $common_counts[$key] : null;
     }
-
-    // Prepare data for database insertion/update
-    $data = [
-        'shadow_hours_minimum' => $averages['shadow_hours_minimum'],
-        'gpa' => $averages['gpa'],
-        'science_gpa' => $averages['science_gpa'],
-        'AA' => $averages['AA'],
-        'DAT' => $averages['DAT'],
-        'PAT' => $averages['PAT'],
-        'TS' => $averages['TS']
+    
+    // Calculate averages for 2-digit scores.
+    $avg_2digit = [];
+    foreach ($sum_2digit as $key => $sum) {
+        $avg_2digit[$key] = ($count_2digit[$key] > 0) ? $sum / $count_2digit[$key] : null;
+    }
+    
+    // Calculate averages for 3-digit scores.
+    $avg_3digit = [];
+    foreach ($sum_3digit as $key => $sum) {
+        $avg_3digit[$key] = ($count_3digit[$key] > 0) ? $sum / $count_3digit[$key] : null;
+    }
+    
+    // Prepare data rows for each score scale.
+    $data_averages = [
+        '2_digit_score' => array_merge($common_avgs, $avg_2digit, ['score_mode' => '2_digit_score']),
+        '3_digit_score' => array_merge($common_avgs, $avg_3digit, ['score_mode' => '3_digit_score']),
     ];
-
+    
     $table_name = $wpdb->prefix . 'dental_school_averages';
-
-    // Check if a record exists
-    $existing_record = $wpdb->get_var("SELECT id FROM $table_name LIMIT 1");
-
-    if ($existing_record) {
-        // Update existing record
-        $wpdb->update($table_name, $data, ['id' => $existing_record]);
-    } else {
-        // Insert new record
-        $wpdb->insert($table_name, $data);
+    
+    // Insert or update the averages in the database and log each result.
+    foreach ($data_averages as $scale => $data) {
+        $existing_record = $wpdb->get_var($wpdb->prepare("SELECT id FROM $table_name WHERE score_mode = %s LIMIT 1", $scale));
+        if ($existing_record) {
+            $wpdb->update($table_name, $data, ['id' => $existing_record]);
+        } else {
+            $wpdb->insert($table_name, $data);
+        }
+        ds_custom_log("Averages stored for {$scale}: " . print_r($data, true));
     }
 }
-
-
 
 
 function ds_interview_deactivate() {
     global $wpdb;
-
-    // List of tables to drop
+    ds_custom_log("ds_interview_deactivate() called. Deactivating plugin.");
+    
+    // List of tables to drop (if needed).
     $tables_to_drop = [
         // $wpdb->prefix . 'user_interview_chance_log',
         // $wpdb->prefix . 'user_interview_evaluation_file_access',
         $wpdb->prefix . 'dental_school_averages'
     ];
-
-    // Drop each table
+    
     foreach ($tables_to_drop as $table) {
         $wpdb->query("DROP TABLE IF EXISTS $table");
     }
+    
+    ds_custom_log("Plugin deactivated.");
 }
+
 
 ?>

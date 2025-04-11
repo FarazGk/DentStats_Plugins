@@ -24,6 +24,15 @@ function ds_interview_form_handler($entry, $form_id, $field_data_array) {
 
     ds_custom_log("User ID: $user_id, Username: $username, Email: $user_email");
 
+    $score_mode = '2_digit_score'; // default score mode
+    foreach ($field_data_array as $field) {
+        if (isset($field['name']) && $field['name'] === 'radio-1' && isset($field['value'])) {
+            $score_mode = sanitize_text_field($field['value']);
+            break;
+        }
+    }
+    ds_custom_log('Score mode: ' . $score_mode);
+
     // Define the fields we are interested in
     $expected_fields = [
         'AA' => '',
@@ -44,10 +53,10 @@ function ds_interview_form_handler($entry, $form_id, $field_data_array) {
     foreach ($field_data_array as $field) {
         if (isset($field['name']) && isset($field['value'])) {
             $field_name_map = [
-                'number-2' => 'AA',
-                'number-3' => 'DAT',
-                'number-4' => 'PAT',
-                'number-5' => 'TS',
+                ($score_mode === '3_digit_score') ? 'number-9'  : 'number-2' => 'AA',
+                ($score_mode === '3_digit_score') ? 'number-10' : 'number-3' => 'DAT',
+                ($score_mode === '3_digit_score') ? 'number-11' : 'number-4' => 'PAT',
+                ($score_mode === '3_digit_score') ? 'number-12' : 'number-5' => 'TS',
                 'number-6' => 'GPA',
                 'number-7' => 'Science GPA',
                 'checkbox-1' => 'Shadowing',
@@ -114,7 +123,7 @@ function ds_interview_form_handler($entry, $form_id, $field_data_array) {
 
     ds_custom_log('Started calculating chances.');
     foreach ($schools_data as $school) {
-        $chance = calculate_chance($user_input_data, $school);
+    $chance = calculate_chance($user_input_data, $school, $score_mode);
         $results[] = [
             'school' => $school->name,
             'chance' => $chance
@@ -123,7 +132,7 @@ function ds_interview_form_handler($entry, $form_id, $field_data_array) {
     ds_custom_log('Finished calculating chances.');
 
     // Generate personalized suggestions based on user input
-    $suggestions = calculate_personalized_suggestions($user_input_data);
+    $suggestions = calculate_personalized_suggestions($user_input_data, $score_mode);
     ds_custom_log('Generated personalized suggestions: ' . print_r($suggestions, true));
 
     // Generate PDF with a unique filename based on user and timestamp
@@ -155,7 +164,12 @@ function ds_interview_form_handler($entry, $form_id, $field_data_array) {
     }
 }
 
-function calculate_chance($user_input, $school) {
+function calculate_chance($user_input, $school, $score_mode = '2_digit_score') {
+    $aa_column  = ($score_mode === '3_digit_score') ? 'AA_3DScore'  : 'aa';
+    $dat_column = ($score_mode === '3_digit_score') ? 'DAT_3DScore' : 'dat';
+    $pat_column = ($score_mode === '3_digit_score') ? 'PAT_3DScore' : 'pat';
+    $ts_column  = ($score_mode === '3_digit_score') ? 'TS_3DScore'  : 'ts';
+
     static $execution_counter = 0; // Counter variable, set to 2 to allow execution twice
     $score = 0;
 
@@ -182,16 +196,16 @@ function calculate_chance($user_input, $school) {
     if (empty($school->min_gpascience) || empty($school->avg_gpascience)) {
         $null_fields['science_gpa'] = $weights['science_gpa'];
     }
-    if (empty($school->aa)) {
+    if (empty($school->{$aa_column})) {
         $null_fields['AA'] = $weights['AA'];
     }
-    if (empty($school->dat)) {
+    if (empty($school->{$dat_column})) {
         $null_fields['DAT'] = $weights['DAT'];
     }
-    if (empty($school->pat)) {
+    if (empty($school->{$pat_column})) {
         $null_fields['PAT'] = $weights['PAT'];
     }
-    if (empty($school->ts)) {
+    if (empty($school->{$ts_column})) {
         $null_fields['TS'] = $weights['TS'];
     }
     if (empty($school->shadowing) || empty($school->shadow_hours_minimum)) {
@@ -288,9 +302,9 @@ function calculate_chance($user_input, $school) {
     }
 
     // AA Score
-    if (!isset($null_fields['AA']) && isset($user_input['AA']) && $school->aa !== '') {
+    if (!isset($null_fields['AA']) && isset($user_input['AA']) && $school->{$aa_column} !== '') {
         $student_aa = (float)$user_input['AA'];
-        $school_aa = (float)$school->aa;
+        $school_aa = (float)$school->{$aa_column};
 
         if ($school_aa != 0) {
             if ($student_aa >= $school_aa) {
@@ -312,9 +326,9 @@ function calculate_chance($user_input, $school) {
     }
 
     // DAT Score
-    if (!isset($null_fields['DAT']) && isset($user_input['DAT']) && $school->dat !== '') {
+    if (!isset($null_fields['DAT']) && isset($user_input['DAT']) && $school->{$dat_column} !== '') {
         $student_dat = (float)$user_input['DAT'];
-        $school_dat = (float)$school->dat;
+        $school_dat = (float)$school->{$dat_column};
 
         if ($school_dat != 0) {
             if ($student_dat >= $school_dat) {
@@ -336,9 +350,9 @@ function calculate_chance($user_input, $school) {
     }
 
     // PAT Score
-    if (!isset($null_fields['PAT']) && isset($user_input['PAT']) && $school->pat !== '') {
+    if (!isset($null_fields['PAT']) && isset($user_input['PAT']) && $school->{$pat_column} !== '') {
         $student_pat = (float)$user_input['PAT'];
-        $school_pat = (float)$school->pat;
+        $school_pat = (float)$school->{$pat_column};
 
         if ($school_pat != 0) {
             if ($student_pat >= $school_pat) {
@@ -360,9 +374,9 @@ function calculate_chance($user_input, $school) {
     }
 
     // TS Score
-    if (!isset($null_fields['TS']) && isset($user_input['TS']) && $school->ts !== '') {
+    if (!isset($null_fields['TS']) && isset($user_input['TS']) && $school->{$ts_column} !== '') {
         $student_ts = (float)$user_input['TS'];
-        $school_ts = (float)$school->ts;
+        $school_ts = (float)$school->{$ts_column};
 
         if ($school_ts != 0) {
             if ($student_ts >= $school_ts) {
@@ -534,8 +548,8 @@ function calculate_chance($user_input, $school) {
 }
 
 
-function calculate_personalized_suggestions($user_input, $max_suggestions = 3) {
-    $averages = get_stored_averages();
+function calculate_personalized_suggestions($user_input, $score_mode, $max_suggestions = 3) {
+    $averages = get_stored_averages($score_mode);
     if (!$averages) {
         return [
             [
@@ -566,6 +580,8 @@ function calculate_personalized_suggestions($user_input, $max_suggestions = 3) {
         return $a['deviation'] <=> $b['deviation'];
     });
 
+    ds_custom_log('deviations: ' . print_r($deviations, true));
+
     $suggestions = [];
     foreach ($filtered_deviations as $category => $item) {
         $suggestion_item = generate_suggestion_and_link($category, $item['deviation'], $item['user_value']);
@@ -583,92 +599,102 @@ function calculate_personalized_suggestions($user_input, $max_suggestions = 3) {
     return $suggestions;
 }
 
-
-
-function get_stored_averages() {
+function get_stored_averages($score_mode = '2_digit_score') {
     global $wpdb;
-    return $wpdb->get_row("SELECT * FROM {$wpdb->prefix}dental_school_averages", ARRAY_A);
+    return $wpdb->get_row(
+        $wpdb->prepare(
+            "SELECT * FROM {$wpdb->prefix}dental_school_averages 
+            WHERE score_mode = %s LIMIT 1",
+            $score_mode
+        ),
+        ARRAY_A
+    );
 }
 
-function calculate_deviations($user_input, $averages) {
-    // Calculate user's average DAT score
-    $user_dat_scores = [];
-    if (isset($user_input['AA'])) {
-        $user_dat_scores[] = (float)$user_input['AA'];
-    }
-    if (isset($user_input['PAT'])) {
-        $user_dat_scores[] = (float)$user_input['PAT'];
-    }
-    if (isset($user_input['TS'])) {
-        $user_dat_scores[] = (float)$user_input['TS'];
-    }
-    if (count($user_dat_scores) > 0) {
-        $user_dat_average = array_sum($user_dat_scores) / count($user_dat_scores);
-    } else {
-        $user_dat_average = null;
-    }
-
-    // Calculate average DAT score from stored averages
-    $average_dat_scores = [];
-    if (isset($averages['AA'])) {
-        $average_dat_scores[] = (float)$averages['AA'];
-    }
-    if (isset($averages['PAT'])) {
-        $average_dat_scores[] = (float)$averages['PAT'];
-    }
-    if (isset($averages['TS'])) {
-        $average_dat_scores[] = (float)$averages['TS'];
-    }
-    if (count($average_dat_scores) > 0) {
-        $average_dat_average = array_sum($average_dat_scores) / count($average_dat_scores);
-    } else {
-        $average_dat_average = null;
-    }
-
-    return [
-        'shadow_hours_minimum' => [
-            'deviation' => calculate_deviation(
-                $user_input['Shadow_Hours_Minimum'] ?? null,
-                $averages['shadow_hours_minimum'] ?? null
-            ),
-            'user_value' => $user_input['Shadow_Hours_Minimum'] ?? null
-        ],
-        'gpa' => [
-            'deviation' => calculate_deviation(
-                $user_input['GPA'] ?? null,
-                $averages['gpa'] ?? null
-            ),
-            'user_value' => $user_input['GPA'] ?? null
-        ],
-        'science_gpa' => [
-            'deviation' => calculate_deviation(
-                $user_input['Science GPA'] ?? null,
-                $averages['science_gpa'] ?? null
-            ),
-            'user_value' => $user_input['Science GPA'] ?? null
-        ],
-        'dat' => [
-            'deviation' => calculate_deviation(
-                $user_dat_average,
-                $average_dat_average
-            ),
-            'user_value' => $user_dat_average
-        ]
-    ];
-}
-
-
-
+/**
+ * Calculates the percentage deviation between a user value and an average value.
+ *
+ * @param mixed $user_value The user-provided value.
+ * @param mixed $average_value The reference average value.
+ * @return float The calculated deviation percentage.
+ */
 function calculate_deviation($user_value, $average_value) {
     if ($average_value === null || $average_value <= 0) {
         return 0;
     }
     if ($user_value === null) {
-        $user_value = 0; // Treat null user input as 0
+        $user_value = 0; // Treat null as 0.
     }
-    return ($user_value - $average_value) / $average_value * 100;
+    return (($user_value - $average_value) / $average_value) * 100;
 }
 
+/**
+/**
+ * Calculates deviations for various categories using the stored averages passed in.
+ *
+ * Expects that $averages contains the following keys:
+ * - shadow_hours_minimum
+ * - gpa
+ * - science_gpa
+ * - AA, DAT, PAT, TS (which reflect either 2-digit or 3-digit scores based on the selected mode)
+ *
+ * Logs the comparisons for each test score and then calculates an average for the test scores.
+ *
+ * @param array $user_input The user-provided input values.
+ * @param array $averages   The stored averages from the database.
+ * @return array An associative array of deviations.
+ */
+function calculate_deviations($user_input, $averages) {
+    // Define the test score keys.
+    $test_keys = ['DAT', 'AA', 'PAT', 'TS'];
+    
+    // Log individual comparisons for each test score.
+    foreach ($test_keys as $key) {
+        $user_val   = (isset($user_input[$key]) && $user_input[$key] !== '') ? (float)$user_input[$key] : null;
+        $stored_val = (isset($averages[$key]) && $averages[$key] !== '') ? (float)$averages[$key] : null;
+        ds_custom_log("Deviation Calculation - {$key}: user value = " . var_export($user_val, true) . ", stored average = " . var_export($stored_val, true));
+    }
+    
+    // Compute the average test score for the user.
+    $user_test_scores = [];
+    foreach ($test_keys as $key) {
+        if (isset($user_input[$key]) && $user_input[$key] !== '') {
+            $user_test_scores[] = (float)$user_input[$key];
+        }
+    }
+    $user_test_average = (count($user_test_scores) > 0) ? (array_sum($user_test_scores) / count($user_test_scores)) : null;
+    
+    // Compute the stored average test score.
+    $stored_test_scores = [];
+    foreach ($test_keys as $key) {
+        if (isset($averages[$key]) && $averages[$key] !== '') {
+            $stored_test_scores[] = (float)$averages[$key];
+        }
+    }
+    $stored_test_average = (count($stored_test_scores) > 0) ? (array_sum($stored_test_scores) / count($stored_test_scores)) : null;
+    
+    ds_custom_log("Deviation Calculation - Test scores average: user = " . var_export($user_test_average, true) . ", stored = " . var_export($stored_test_average, true));
+    
+    // Build and return the deviations array.
+    return [
+        'shadow_hours_minimum' => [
+            'deviation'  => calculate_deviation($user_input['Shadow_Hours_Minimum'] ?? null, $averages['shadow_hours_minimum'] ?? null),
+            'user_value' => $user_input['Shadow_Hours_Minimum'] ?? null,
+        ],
+        'gpa' => [
+            'deviation'  => calculate_deviation($user_input['GPA'] ?? null, $averages['gpa'] ?? null),
+            'user_value' => $user_input['GPA'] ?? null,
+        ],
+        'science_gpa' => [
+            'deviation'  => calculate_deviation($user_input['Science GPA'] ?? null, $averages['science_gpa'] ?? null),
+            'user_value' => $user_input['Science GPA'] ?? null,
+        ],
+        'test_scores' => [
+            'deviation'  => calculate_deviation($user_test_average, $stored_test_average),
+            'user_value' => $user_test_average,
+        ],
+    ];
+}
 
 function generate_suggestion_and_link($category, $deviation, $user_value) {
     $suggestion = "";
@@ -688,8 +714,12 @@ function generate_suggestion_and_link($category, $deviation, $user_value) {
             $suggestion = "Your GPA is {$percentage_off}% lower than the average. Consider focusing on improving your GPA to enhance your application.";
             $resource_link = "https://dentstats.com/resources/low-gpa/";
             break;
-        case 'dat':
-            $suggestion = "Your DAT score is {$percentage_off}% below the average. Consider retaking the DAT to increase your score and strengthen your application.";
+        case 'science_gpa':
+            $suggestion = "Your science_gpa is {$percentage_off}% lower than the average. Consider focusing on improving your science_gpa to enhance your application.";
+            $resource_link = "https://dentstats.com/resources/low-gpa/";
+            break;    
+        case 'test_scores':
+            $suggestion = "Your test scores are {$percentage_off}% below the average. Consider retaking the DAT to increase your score and strengthen your application.";
             $resource_link = "https://dentstats.com/resources/dat-2/";
             break;
         // Add other cases if needed
