@@ -1,0 +1,465 @@
+/* DAT Score Converter Styles */
+
+.dat-score-converter-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+.dat-score-card {
+    background: transparent;
+    border-radius: 0;
+    padding: 30px;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+    box-shadow: none;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: visible;
+}
+
+
+.dat-score-card-header {
+    margin-bottom: 25px;
+}
+
+.dat-score-card-header h3 {
+    margin: 0;
+    color: #23282d;
+    font-size: 1.75em;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.dat-score-card-body {
+    transition: all 0.3s ease;
+}
+
+
+.dat-score-results {
+    margin-top: 30px;
+    margin-left: -30px;
+    margin-right: -30px;
+    margin-bottom: -30px;
+    padding: 0;
+    border-top: none;
+    animation: fadeInUp 0.5s ease-out;
+    background: transparent;
+}
+
+.dat-score-table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+}
+
+.dat-score-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0;
+    background: #fff;
+    border: none;
+}
+
+.dat-score-table th {
+    background: #FF9635;
+    color: white;
+    padding: 18px 20px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 0.95em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.dat-score-table th:first-child {
+    border-top-left-radius: 8px;
+}
+
+.dat-score-table th:last-child {
+    border-top-right-radius: 8px;
+}
+
+.dat-score-table td {
+    padding: 20px;
+    font-size: 1.1em;
+    font-weight: 500;
+    color: #333;
+    border: none;
+    background: #fff;
+}
+
+.dat-score-table tbody tr {
+    transition: background-color 0.2s ease;
+    border: none;
+    background: #fff;
+}
+
+.dat-score-table tbody tr:hover {
+    background-color: rgba(255, 95, 31, 0.05);
+}
+
+.dat-score-table tbody tr:last-child td:first-child {
+    border-bottom-left-radius: 8px;
+}
+
+.dat-score-table tbody tr:last-child td:last-child {
+    border-bottom-right-radius: 8px;
+}
+
+/* Ensure no borders anywhere */
+.dat-score-table,
+.dat-score-table th,
+.dat-score-table td,
+.dat-score-table tr {
+    border: none !important;
+}
+
+/* Remove borders between adjacent cells (columns) */
+.dat-score-table th + th,
+.dat-score-table td + td {
+    border-left: none !important;
+}
+
+.dat-score-table th:not(:first-child),
+.dat-score-table td:not(:first-child) {
+    border-left: none !important;
+}
+
+.dat-score-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.dat-score-list li {
+    padding: 12px 15px;
+    margin-bottom: 8px;
+    background: #f9f9f9;
+    border-left: 4px solid #FF9635;
+    border-radius: 4px;
+    font-size: 1em;
+    transition: all 0.2s ease;
+}
+
+.dat-score-list li:hover {
+    background: #f0f8ff;
+    transform: translateX(5px);
+}
+
+.dat-score-list li strong {
+    color: #23282d;
+    font-weight: 600;
+}
+
+.dat-score-error {
+    background: #fff5f5;
+    border-left: 4px solid #ff4444;
+    color: #721c24;
+    padding: 16px 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    font-weight: 500;
+    animation: fadeInUp 0.3s ease-out;
+}
+
+
+.dat-score-config-status {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dat-score-config-status p {
+    margin: 8px 0;
+    font-size: 1em;
+}
+
+.status-valid {
+    color: #28a745;
+    font-weight: 600;
+}
+
+.status-invalid {
+    color: #dc3545;
+    font-weight: 600;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .dat-score-converter-container {
+        padding: 15px;
+    }
+    
+    .dat-score-card {
+        padding: 20px;
+    }
+    
+    .dat-score-card-header h3 {
+        font-size: 1.5em;
+    }
+    
+    .dat-score-table {
+        font-size: 0.9em;
+    }
+    
+    .dat-score-table th,
+    .dat-score-table td {
+        padding: 14px 12px;
+    }
+    
+    .dat-score-list li {
+        padding: 10px 12px;
+        font-size: 0.95em;
+    }
+}
+
+@media (max-width: 480px) {
+    .dat-score-converter-container {
+        padding: 10px;
+    }
+    
+    .dat-score-card {
+        padding: 15px;
+    }
+    
+    .dat-score-card-header h3 {
+        font-size: 1.3em;
+    }
+    
+    .dat-score-table {
+        font-size: 0.85em;
+    }
+    
+    .dat-score-table th,
+    .dat-score-table td {
+        padding: 12px 10px;
+    }
+    
+    .dat-score-table th {
+        font-size: 0.8em;
+        padding: 14px 10px;
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Focus styles for accessibility */
+.dat-score-input:focus {
+    outline: 2px solid #FF9635;
+    outline-offset: 2px;
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    .dat-score-results {
+        animation: none;
+    }
+    
+    .dat-score-list li:hover {
+        transform: none;
+    }
+    
+    .dat-score-loading::after {
+        animation: none;
+    }
+    
+    .dat-score-input.dat-score-updated {
+        animation: none;
+    }
+}
+
+/* Multi-row conversion table styles */
+.dat-conversion-table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.dat-conversion-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0;
+    background: transparent;
+}
+
+.dat-conversion-table thead {
+    background: transparent;
+}
+
+.dat-conversion-table th {
+    background: transparent;
+    color: #23282d;
+    padding: 15px 20px 10px 20px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border: none;
+}
+
+.dat-conversion-table tbody tr {
+    border: none;
+    transition: background-color 0.2s ease;
+    background: transparent;
+}
+
+.dat-conversion-table tbody tr:hover {
+    background-color: rgba(255, 150, 53, 0.03);
+}
+
+.dat-category-label {
+    padding: 15px 20px;
+    font-weight: 500;
+    color: #23282d;
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+.dat-score-input {
+    padding: 12px 15px;
+    border: 2px solid #e0e0e0;
+    border-radius: 16px;
+    font-size: 1.05em;
+    transition: all 0.3s ease;
+    background: #fff;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 500;
+    color: #000;
+}
+
+.dat-score-input:focus {
+    outline: none;
+    border-color: #FF9635;
+    box-shadow: 0 0 0 4px rgba(255, 150, 53, 0.15);
+}
+
+.dat-score-input[readonly] {
+    background: #f9f9f9;
+    cursor: default;
+    color: #000;
+}
+
+.dat-score-input[readonly]:focus {
+    border-color: #e0e0e0;
+    box-shadow: none;
+}
+
+/* Visual feedback when score is updated */
+.dat-score-input.dat-score-updated {
+    animation: scoreUpdated 0.8s ease-out forwards !important;
+    transition: none !important;
+}
+
+@keyframes scoreUpdated {
+    0% {
+        background-color: #fff3cd !important;
+        border-color: #ffc107 !important;
+        transform: scale(1) !important;
+        box-shadow: 0 0 0 0 rgba(255, 150, 53, 0.4) !important;
+    }
+    25% {
+        transform: scale(1.1) !important;
+        box-shadow: 0 0 0 12px rgba(255, 150, 53, 0) !important;
+    }
+    50% {
+        background-color: #d4edda !important;
+        border-color: #28a745 !important;
+        transform: scale(1.05) !important;
+        box-shadow: 0 0 0 8px rgba(40, 167, 69, 0.4) !important;
+    }
+    75% {
+        background-color: #e8f5e9 !important;
+        border-color: #4caf50 !important;
+        transform: scale(1.02) !important;
+    }
+    100% {
+        background-color: #fff !important;
+        border-color: #e0e0e0 !important;
+        transform: scale(1) !important;
+        box-shadow: 0 0 0 0 rgba(76, 175, 80, 0) !important;
+    }
+}
+
+.dat-conversion-table td {
+    padding: 12px 15px;
+    vertical-align: middle;
+    border: none;
+}
+
+.dat-conversion-table td:first-child {
+    padding-left: 20px;
+}
+
+.dat-conversion-table td:last-child {
+    padding-right: 20px;
+}
+
+/* Responsive styles for conversion table */
+@media (max-width: 768px) {
+    .dat-conversion-table-wrapper {
+        border-radius: 10px;
+    }
+    
+    .dat-conversion-table th,
+    .dat-conversion-table td {
+        padding: 10px 12px;
+        font-size: 0.9em;
+    }
+    
+    .dat-score-input {
+        padding: 10px 12px;
+        font-size: 1em;
+        border-radius: 14px;
+    }
+    
+    .dat-category-label {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    .dat-conversion-table-wrapper {
+        border-radius: 8px;
+    }
+    
+    .dat-conversion-table th,
+    .dat-conversion-table td {
+        padding: 8px 10px;
+        font-size: 0.85em;
+    }
+    
+    .dat-score-input {
+        padding: 8px 10px;
+        font-size: 0.9em;
+        border-radius: 12px;
+    }
+    
+    .dat-category-label {
+        font-size: 0.85em;
+    }
+}
+
